@@ -1,0 +1,223 @@
+
+<!DOCTYPE html>
+	<head>
+
+	    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+	    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+
+        <title>Sonae Trend Radar</title>
+
+        <meta property="og:title" content="Sonae 2019 Trend Radar" />
+        <!-- <meta property="og:url" content="" /> -->
+        <!-- <meta property="og:image" content="" /> -->
+        <meta property="og:description" content="This interactive experience will allow you to explore 9 Megatrends that are shaping the future of retail. Each of those, derives into a total of 43 Microtrends that were selected according to a relevance criterion, specifically tailored to address Sonae MC’s upcoming main challenges and opportunities. Additionally, with the next 3 years in sight, 4 different kinds of highlights were crafted as call to actions: Enabling Technologies (fed from 2018’s Tech Radar), Enabling Partners, Trend Evidences, and Trend Implementations." />
+        
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.6.3/papaparse.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/google-palette@1.1.0/palette.min.js"></script>
+
+        <!-- Analytics -->
+        <script src="../common/app/js/analytics.js"></script>
+
+        <!-- Sharing -->
+        <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5c0122c64b87f6001159588d&product=custom-share-buttons' async='async'></script>
+
+		<!-- Styling -->
+        <link href="../common/vendor/css/glide.core.min.css" rel="stylesheet">
+        <link href="../common/vendor/css/glide.theme.min.css" rel="stylesheet">
+        <link href="../common/app/css/style.css" rel="stylesheet">
+        <link href="../common/app/css/modal.css" rel="stylesheet">
+        <link href="../common/app/css/unesco-modal-intro.css" rel="stylesheet">
+        <!-- <link href="../common/app/css/unesco-modal-node.css" rel="stylesheet"> -->
+        <link href="../common/app/css/unesco-modal-legend.css" rel="stylesheet">
+        <link href="../common/app/css/unesco-modal-mega.css" rel="stylesheet"> <!-- RADAR -->
+        <link href="../common/app/css/snippets.css" rel="stylesheet">
+        <link href="../common/app/css/menu.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+        <!-- Google fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500|IBM+Plex+Serif" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,600,700,900" rel="stylesheet">
+        <!--Import Google Icon Font-->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <!--Font Awesome-->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+		<!-- JavaScript files -->
+        <script src="../common/vendor/js/d3.v5.min.js"></script>
+        <script src="../common/vendor/js/chroma.min.js"></script>
+        <script src="../common/vendor/js/modal.min.js"></script>
+        <script src="../common/vendor/js/fontfaceobserver.js"></script>
+        <script src="../common/vendor/js/search-params-polyfill.js"></script>
+        <script src="../common/vendor/js/glide.min.js"></script>
+        <script src="../common/app/js/translations.js"></script>
+        <script src="../common/app/js/unesco-modal-node.js"></script>
+        <script src="../data/version.js"></script>
+
+        <!-- The visual function -->
+        <script src="js/createThreatVisual.js"></script>
+        <script src="js/translationsThreat.js"></script>
+
+        <script src="../csv2radarjson.js"></script>
+	</head>
+
+	<body>
+    <!-- The dropdown menu -->
+    <nav id="menu-container">
+
+      <div class="admin-data-container"></div>
+      <div class="" id="adminpreview"></div>
+
+      <div class="d-flex justify-content-left h-100 mb-1">
+        <div class="searchbar">
+          <div class="actualsearch">
+            <input class="search_input" id="txtName" name="txt-Name" type="search" name="" placeholder="Search...">
+            <a href="#" class="search_icon" id="searchbutton"><i class="fas fa-search"></i></a>
+          </div>
+          <button class="cancelButton" target="txtName" type="button" id="searchCancel"><i class="fas fa-times"></i></button>
+        </div>
+      </div>
+
+      <nav class="navbar navbar-dark mb-1 p-0">
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle roundButton p-3" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="fas fa-filter"></i>
+              </a>
+              <button class="cancelButton" target="navbarDropdownMenuLink" type="button" id="filterCancel"><i class="fas fa-times"></i></button>
+              <div class="dropdown-menu dropdown-dark" aria-labelledby="navbarDropdownMenuLink" id="filterOptionsHyperlinks">
+                <!-- <a class="dropdown-item" href="?filter=logistics">Logistics</a>
+                <a class="dropdown-item" href="?filter=PCG">PCG</a>
+                <a class="dropdown-item" href="?filter=humanres">Human Resources</a> -->
+              </div>
+           </li>
+        </ul>
+      </nav>
+
+<!--         <div class="dropdown">
+          <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Dropdown link
+          </a>
+
+          <div class="dropdown-menu position-relative" aria-labelledby="dropdownMenuLink">
+            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <a class="dropdown-item" href="#">Something else here</a>
+          </div>
+        </div> -->
+
+      <nav id="menu">
+        <button id="menu-button"><i class="fas fa-question"></i></button>
+        <ul>
+            <li id="menu-intro"></li>
+            <li id="menu-legend"></li>
+            <li id="menu-method"></li>
+            <!-- <li id="menu-about"><a href="../" target="_blank"></a></li> -->
+<!--                 <li id="menu-more">
+                <ul>
+                    <li id="menu-more-constellation"><a href="../constellation/"></a></li>
+                    <li id="menu-more-biome"><a href="../biome/"></a></li>
+                    <li id="menu-more-domain"><a href="../domain/"></a></li>
+                    <li id="menu-more-threat"><a href="../threat/"></a></li>
+                </ul>
+            </li> -->
+<!--                 <li id="menu-language">
+                <ul>
+                    <li id="menu-language-en">English</li>
+                    <li id="menu-language-fr">Français</li>
+                    <li id="menu-language-es">Español</li>
+                </ul>
+            </li> -->
+<!--                 <li id="menu-share">
+                <ul>
+                    <li data-network="facebook" class="st-custom-button">Facebook</li>
+                    <li data-network="twitter" class="st-custom-button">Twitter</li>
+                    <li data-network="reddit" class="st-custom-button">Reddit</li>
+                    <li data-network="pinterest" class="st-custom-button">Pinterest</li>
+                    <li data-network="email" class="st-custom-button">Email</li>
+                    <li data-network="sms" class="st-custom-button">SMS</li>
+                </ul>
+            </li> -->
+        </ul>
+      </nav>
+    </nav>
+
+    <!-- The chart container -->
+    <div id="chart"></div>
+
+        <!-- The modal container -->
+        <div class="modal" id="container-modal">
+            <div class="modal-inner" id="printThis">
+                <a id="modal-close" data-modal-close><i class="fas fa-times"></i></a>
+                <div class="modal-content"></div>
+            </div>
+        </div>
+
+        <!-- The ICH element info modal -->
+        <div id="chart-modal" style="display:none">
+            <div id="chart-modal-full-img"></div>
+            <div id="chart-modal-inner">
+                <p id="modal-node-year"></p>
+                <!-- <p id="modal-node-type"></p> -->
+                <p id="modal-node-highlighttype"></p>
+                <!-- <p id="modal-node-countries"></p> -->
+                <p id="modal-node-title"></p>
+                <div id="modal-node-watch"></div>
+                <div id="modal-node-description"></div>
+                <!-- <div id="modal-node-link"></div> -->
+                <div id="modal-node-snippets"></div>
+                <div id="table-container"></div>
+            </div>
+        </div>
+
+        <!-- The intro modal's content -->
+        <div id="intro-modal" style="display:none">
+            <div id="modal-intro-inner">
+                <div id="intro-bar">
+                    <p id="intro-welcome"></p>
+                    <p id="intro-unesco"></p>
+                    <p id="intro-title"></p>
+                    <p id="intro-subtext"></p>
+                    <p id="intro-info"></p>
+                </div>
+            </div>
+        </div>
+
+        <!-- The legend modal -->
+        <div id="legend-modal" style="display:none">
+            <div id="modal-legend-inner">
+                <img id="modal-legend-img" class="boxed" />
+            </div>
+        </div>
+
+        <!-- The method modal -->
+        <div id="method-modal" style="display:none">
+            <div id="modal-method-inner">
+                <img id="modal-method-img" class="boxed" />
+            </div>
+        </div>
+
+<!-- The sharescreen modal -->
+<div id="sharescreen-container" style="display:none">
+  <a href="#sharescreen-modal"><button class="btn btn-default ml-3"><i class="fas fa-external-link-alt"></i> Share</button></a>
+  <div id="sharescreen-modal" class="sharescreen-modal-window">
+    <div>
+      <!-- <a id="modal-close" data-modal-close><i class="fas fa-times"></i></a> -->
+      <a href="#" title="Close" class="sharescreen-modal-close" data-modal-close><i class="fas fa-times"></i></a>
+      <h1>Voilà!</h1>
+      <div>A CSS-only modal based on the :target pseudo-class. Hope you find it helpful.
+        <a href="https://twitter.com/timothylong" target="_blank">Say hello on Twitter.</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+        <!-- Initialize everything -->
+        <script src="js/main.js"></script>
+
+</body>
+</html>
