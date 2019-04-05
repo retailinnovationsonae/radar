@@ -18,7 +18,7 @@ const common_translations = {
         "menu_intro": "Introduction",
         "menu_legend": "Legend",
         "menu_about": "About this project",
-        "menu_about_link": "https://ich.unesco.org/en/dive",
+        "menu_about_link": "_",
         "menu_more": "More visualizations",
         "menu_more_constellation": "Constellation",
         "menu_more_biome": "Biomes",

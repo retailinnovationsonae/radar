@@ -1,11 +1,19 @@
-<a href="#sharescreen-modal"><button class="btn btn-default ml-3"><i class="fas fa-external-link-alt"></i> Share</button></a>
+<a href="#sharescreen-modal"><button class="btn btn-default ml-3"><i class="fas fa-share-alt"></i> Share</button></a>
   <div id="sharescreen-modal" class="sharescreen-modal-window">
-    <div>
+    <div id="sharescreen-modal-content" class="effect7">
       <!-- <a id="modal-close" data-modal-close><i class="fas fa-times"></i></a> -->
-      <a href="#" title="Close" class="sharescreen-modal-close" data-modal-close><i class="fas fa-times"></i></a>
-      <h1>Voilà!</h1>
-      <div>A CSS-only modal based on the :target pseudo-class. Hope you find it helpful.
-        <a href="https://twitter.com/timothylong" target="_blank">Say hello on Twitter.</a>
+      <a href="#" title="Close" class="sharescreen-modal-close"><i class="fas fa-times"></i></a>
+      <h3>Share</h3>
+      <div>
+
+        <div class="entity">
+          <p class="entity-name"></p>
+          <a id="btnShareEmail" class="btn btn-primary btn-email rounded-circle mr-3" href="mailto:john.doe@email.com"><i class="fas fa-envelope"></i></a>
+          <button type="button" id="btnShareCopy" class="btn btn-default btn-copy js-tooltip js-copy rounded-circle ml-3" data-toggle="tooltip" data-placement="bottom" data-copy="" title="Copy to clipboard">
+            <i class="fas fa-clipboard"></i>
+          </button>
+        </div>
+
       </div>
     </div>
   </div>

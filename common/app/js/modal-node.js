@@ -192,26 +192,15 @@ function createModal(obj) {
         permalink.innerHTML = 'Permalink: <a href="' + url + '">' + url + '</a>';
     }
 
-    // RADAR PRINT BUTTON
-
-    d3.select("#modal-node-title")
-        .append("button").attr("id","btnPrint").attr("type","button").attr("class","btn btn-default ml-3").html("Print")
-        .attr("onclick","printElement(document.getElementById('printThis'))")
-
-    // RADAR adding share button
-
+    // $("#sharescreen-container").load("sharescreen.html");
     // d3.select("#modal-node-title")
-    //     .append("button").attr("id","btnShare").attr("type","button").attr("class","btn btn-default ml-3").html("Share")
-    //     .attr("onclick","popShareScreen()")
-
-    let shrscncntr=d3.select("#sharescreen-container").node().cloneNode(true);
-    d3.select("#modal-node-title")
-        .append(function(){
-            return shrscncntr;
-        })
-        .attr("id","btnShare")
-        .attr("style","display: inline-block")
-        // .attr("onclick","printElement(document.getElementById('printThis'))");
+    //     .append(function(){
+    //         return shrscncntr;
+    //     })
+    //     .attr("id","btnShare")
+    //     .attr("style","display: inline-block")
+    //     // .attr("onclick","printElement(document.getElementById('printThis'))");
+    // $("#sharescreen-container").load("sharescreen.html");
 
 
 
@@ -248,6 +237,7 @@ function createModal(obj) {
             artTitleAnchor.append(obj.meta.evidence_articles.names[i]);
             if (obj.meta.evidence_articles.urls[i]) {
                 artTitleAnchor.setAttribute('href', obj.meta.evidence_articles.urls[i]);
+                artTitleAnchor.setAttribute('target', "_blank");
             }
             artTitleH6.append(artTitleAnchor);
             cardBodyDiv.append(artTitleH6);
@@ -296,6 +286,7 @@ function createModal(obj) {
                 impTitleAnchor.append(obj.meta.highlights.implementation[i].name);
                 if (obj.meta.highlights.implementation[i].main_link) {
                     impTitleAnchor.setAttribute('href', obj.meta.highlights.implementation[i].main_link);
+                    impTitleAnchor.setAttribute('target', "_blank");
                 }
                 let impDescParagraph = document.createElement('p');
                 impDescParagraph.setAttribute('class', 'card-text mb-2');
@@ -308,6 +299,7 @@ function createModal(obj) {
                     for(j = 0; j < obj.meta.highlights.implementation[i].article_links.length; j++) {
                         let impArticleAnchor = document.createElement('a');
                         impArticleAnchor.setAttribute('href', obj.meta.highlights.implementation[i].article_links[j]);
+                        impArticleAnchor.setAttribute('target', "_blank");
                         impArticleAnchor.append('Article #'+(j+1));
                         impLinksParagraph.append(impArticleAnchor);
                         if (j+1!==obj.meta.highlights.implementation[i].article_links.length) {impLinksParagraph.append(" | ")}
@@ -379,6 +371,7 @@ function createModal(obj) {
                 if (obj.meta.highlights.technology[i].prevworkurl) {
                     let techIntUrlAnchor = document.createElement('a');
                     techIntUrlAnchor.setAttribute('href', obj.meta.highlights.technology[i].prevworkurl);
+                    techIntUrlAnchor.setAttribute('target', "_blank");
                     techIntUrlAnchor.append('Internal Report');
                     techLinksParagraph.append(techIntUrlAnchor);
                     if (obj.meta.highlights.technology[i].externalurls.length) {techLinksParagraph.append(" | ")}
@@ -391,6 +384,7 @@ function createModal(obj) {
 
                         let techExtUrlAnchor = document.createElement('a');
                         techExtUrlAnchor.setAttribute('href', externalurlArray[j]);
+                        techExtUrlAnchor.setAttribute('target', "_blank");
                         techExtUrlAnchor.append('External Report #'+(j+1));
                         techLinksParagraph.append(techExtUrlAnchor);
                         if (j+1!==externalurlArray.length) {techLinksParagraph.append(" | ")}
@@ -474,6 +468,7 @@ function createModal(obj) {
                 partTitleAnchor.append(obj.meta.highlights.partner[i].name);
                 if (obj.meta.highlights.partner[i].main_link) {
                     partTitleAnchor.setAttribute('href', obj.meta.highlights.partner[i].main_link);
+                    partTitleAnchor.setAttribute('target', "_blank");
                 }
                 partTitleAnchor.append(partTitleH6)
                 cardBodyDiv.append(partTitleAnchor)
@@ -488,6 +483,7 @@ function createModal(obj) {
                 if (obj.meta.highlights.partner[i].sonae_link) {
                     partIntUrlAnchor = document.createElement('a');
                     partIntUrlAnchor.setAttribute('href', obj.meta.highlights.partner[i].sonae_link);
+                    partIntUrlAnchor.setAttribute('target', "_blank");
                     partIntUrlAnchor.append('SONAR Contact');
                     partLinksParagraph.append(partIntUrlAnchor);
                     if (obj.meta.highlights.partner[i].article_links.length) {partLinksParagraph.append(" | ")}
@@ -496,6 +492,7 @@ function createModal(obj) {
                     for(j = 0; j < obj.meta.highlights.partner[i].article_links.length; j++) {
                         partExtUrlAnchor = document.createElement('a');
                         partExtUrlAnchor.setAttribute('href', obj.meta.highlights.partner[i].article_links[j]);
+                        partExtUrlAnchor.setAttribute('target', "_blank");
                         partExtUrlAnchor.append('Article #'+(j+1));
                         partLinksParagraph.append(partExtUrlAnchor);
                         if (j+1!==obj.meta.highlights.partner[i].article_links.length) {partLinksParagraph.append(" | ")}
@@ -513,6 +510,41 @@ function createModal(obj) {
         }
     }
 
+
+    // RADAR PRINT BUTTON
+
+    d3.select("#modal-node-title").append("button")
+        .attr("id","btnPrint").attr("type","button")
+        .attr("onclick","printElement(document.getElementById('printThis'))")
+        .attr("class","btn btn-default ml-3").text(" Print");
+    var parentEl = d3.select("#btnPrint").node();
+    parentEl.insertBefore(document.createElement("i"), parentEl.childNodes[0]);
+    d3.select("#btnPrint i").attr("class","fas fa-print");
+    d3.select();
+
+    // RADAR adding share button
+
+    // d3.select("#modal-node-title")
+    //     .append("button").attr("id","btnShare").attr("type","button").attr("class","btn btn-default ml-3").html("Share")
+    //     .attr("onclick","popShareScreen()")
+
+    // let shrscncntr=d3.select("#sharescreen-container").node().cloneNode(true);
+    let shrscncntr=d3.select("#modal-node-title").append("div").attr("id","sharescreen-container").attr("style","display:none")
+    $("#sharescreen-container").load("sharescreen.html");
+    shrscncntr.attr("style","display: inline-block");
+    $(document).ready(function() {
+      let current_url = popShareScreen();
+      let current_email_str = buildEmailString();
+      d3.select("#btnShareCopy").attr("data-copy",current_url);
+      d3.select("#btnShareEmail").attr("href",current_email_str)
+      $('.js-tooltip').tooltip();
+      // Copy to clipboard | Grab any text in the attribute 'data-copy' and pass it to the copy function
+      $('.js-copy').click(function() {
+        var text = $(this).attr('data-copy');
+        var el = $(this);
+        copyToClipboard(text, el);
+      });
+    });
 
 }//function createModal
 
@@ -556,5 +588,39 @@ function printElement(elem) {
 
 function popShareScreen() {
     let url = window.location.protocol + '//' + window.location.host + window.location.pathname + '?popnode=' + current_obj.id;
-    alert("Link: "+url)
+    return url
+}
+function buildEmailString() {
+    let emailStr = "mailto:"
+    let ebody = "Hello!"+'\r\n\r\n'+"I found this great content on SONAE's Trend Innovation Radar and thought I'd share."+'\r\n\r\n'+popShareScreen()+'\r\n\r\n'+"Best,";
+    ebody = encodeURIComponent(ebody);
+    let esubject = "Interesting: "+current_obj.label
+    esubject = encodeURIComponent(esubject);
+    emailStr = emailStr+"?body="+ebody+"&subject="+esubject;
+    // emailStr = encodeURIComponent(emailStr);
+    return emailStr;
+}
+
+function copyToClipboard(text, el) {
+  var copyTest = document.queryCommandSupported('copy');
+  var elOriginalText = el.attr('data-original-title');
+
+  if (copyTest === true) {
+    var copyTextArea = document.createElement("textarea");
+    copyTextArea.value = text;
+    document.body.appendChild(copyTextArea);
+    copyTextArea.select();
+    try {
+      var successful = document.execCommand('copy');
+      var msg = successful ? 'Copied!' : 'Whoops, not copied!';
+      el.attr('data-original-title', msg).tooltip('show');
+    } catch (err) {
+      console.log('Oops, unable to copy');
+    }
+    document.body.removeChild(copyTextArea);
+    el.attr('data-original-title', elOriginalText);
+  } else {
+    // Fallback if browser doesn't support .execCommand('copy')
+    window.prompt("Copy to clipboard: Ctrl+C or Command+C, Enter", text);
+  }
 }

@@ -16,7 +16,7 @@ let hide = params.get('hide') === null ? [] : params.get('hide').split(',')
 //////////////////////////////////////////////////////////////
 
 document.getElementById('intro-welcome').innerHTML = translations[language]['intro_welcome'];
-document.getElementById('intro-unesco').innerHTML = translations[language]['intro_unesco'];
+document.getElementById('intro-sonae').innerHTML = translations[language]['intro_sonae'];
 document.getElementById('intro-title').innerHTML = translations[language]['intro_title'];
 document.getElementById('intro-subtext').innerHTML = translations[language]['intro_subtext'];
 document.getElementById('intro-info').innerHTML = translations[language]['intro_info'];
@@ -632,7 +632,7 @@ function createNewMicrosObjectArray(csv,microsarray) { // createNewMicrosObjectA
                     "list": "microtrends-list",
                     "year": data[r]["Main mega trend"],
                     "multinational": false,
-                    // "link": "https://ich.unesco.org/img/photo/thumb/05391-BIG.jpg", //data[r]["Link #1"],
+                    // "link": "", //data[r]["Link #1"],
                     // "images": [],
                     // "video": []
                 }

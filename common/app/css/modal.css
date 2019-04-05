@@ -116,6 +116,11 @@
 #sharescreen-container {
   display: inline-block;
 }
+#sharescreen-modal-content {
+  font-size: 15px!important;
+  border: 1px solid rgba(0,0,0,.125);
+  text-align: center;
+}
 .sharescreen-modal-window {
   display: inline-block;
   position: fixed;
@@ -160,5 +165,12 @@
 }
 .sharescreen-modal-close:hover {
   color: #000;
+}
+.btn-email, .btn-copy {
+  width: 70px;
+  height: 70px;
+  align-items: flex-start;
+  font-size: 25px!important;
+  line-height: 56px!important;
 }
 

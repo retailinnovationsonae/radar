@@ -36,7 +36,7 @@ function mkmicrotrendNodes(csv) {
                 "list": "microtrends-list",
                 "year": data[row]["main_mega_trend"],
                 "multinational": false,
-                // "link": "https://ich.unesco.org/img/photo/thumb/05391-BIG.jpg", //data[row]["Link #1"],
+                // "link": "", //data[row]["Link #1"],
                 // "images": [],
                 // "video": []
                 "evidence_articles": {
@@ -454,7 +454,7 @@ function mkFinalDataJson(microvar,megavar,hlvar,appvar) { // THE OUTPUT OF THIS 
 //                     "list": "microtrends-list",
 //                     "year": data[r]["Main mega trend"],
 //                     "multinational": false,
-//                     // "link": "https://ich.unesco.org/img/photo/thumb/05391-BIG.jpg", //data[r]["Link #1"],
+//                     // "link": "", //data[r]["Link #1"],
 //                     // "images": [],
 //                     // "video": []
 //                 }
