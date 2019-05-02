@@ -1,7 +1,7 @@
 {
     "meta": {
         "language": "en",
-        "generated": "2019-04-26T15:36:06.807Z"
+        "generated": "2019-05-02T09:34:04.855Z"
     },
     "nodes": {
         "vocabulary_ich_1265": {
@@ -1228,7 +1228,7 @@
                     "Logística & Centros Fabrico​",
                     "Operações​",
                     "RH​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     " Maxmat​"
                 ],
@@ -1285,13 +1285,11 @@
                     "Sharing Economy"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
-                    "Comercial Alimentar",
                     "Operações​",
-                    " Proteção Ativos​",
+                    "Proteção Ativos​",
                     " Sustentabilidade​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     " Maxmat​"
                 ],
                 "highlights": {
@@ -1349,7 +1347,6 @@
                     "Eternal Newbies"
                 ],
                 "filterlists": [
-                    "Wholesale​",
                     "Logística & Centros Fabrico​",
                     "Operações​",
                     "RH​",
@@ -1668,7 +1665,6 @@
                     "Eternal Newbies"
                 ],
                 "filterlists": [
-                    "Comercial Alimentar",
                     "Espaço e Conceção Loja​",
                     " Comercial Não Alimentar​",
                     " Maxmat​"
@@ -1680,7 +1676,7 @@
                             "name": "JOANN  community learning lab",
                             "author": "nlg",
                             "description": "",
-                            "image": "",
+                            "image": "https://media.bizj.us/view/img/10940784/joann-columbus-custom-shop*800xx2056-1161-747-463.jpg",
                             "video": "",
                             "main_link": "https://www.bizjournals.com/bizwomen/news/latest-news/2018/06/craft-retailer-joann-tests-new-store-concept.html",
                             "article_links": [
@@ -1692,9 +1688,9 @@
                             "name": "Today at Apple",
                             "author": "nlg",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.apple.com/newsroom/images/environments/facilities/today_at_apple_two_speakers_group_inline.jpg.large.jpg",
                             "video": "",
-                            "main_link": "",
+                            "main_link": "https://www.apple.com/today/",
                             "article_links": [
                                 ""
                             ]
@@ -1704,7 +1700,7 @@
                             "name": "In-Store Education",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "main_link": "https://www.trendhunter.com/protrends/instore-education",
                             "article_links": [
@@ -1716,9 +1712,21 @@
                             "name": "Leroy Merlin - \"Workshops da casa\"",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.leroymerlin.com.br/assets/img/front_end/default/top/logo-leroy-merlin.png",
                             "video": "",
                             "main_link": "http://www.leroymerlin.pt/Site/Passatempo/Workshops-da-Casa.aspx",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP182",
+                            "name": "WORTEN E CANON VOLTAM A APOSTAR NA FOTOGRAFIA DE DESPORTO MOTORIZADO",
+                            "author": "jgp",
+                            "description": "",
+                            "image": "http://www.velocidadeonline.co.pt/image/news/20452/112061.jpg",
+                            "video": "",
+                            "main_link": "http://www.velocidadeonline.co.pt/index.php?p=news&cat=5&sub=44&news=20452",
                             "article_links": [
                                 ""
                             ]
@@ -1744,8 +1752,7 @@
                     "Renewable Charged Future"
                 ],
                 "filterlists": [
-                    "Espaço e Conceção Loja​",
-                    " Proteção Ativos​",
+                    "Proteção Ativos​",
                     " Sustentabilidade​",
                     "DEC​",
                     "Retail Properties​"
@@ -2108,7 +2115,7 @@
                 ],
                 "filterlists": [
                     "Logística & Centros Fabrico​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "DEC​",
                     " Maxmat​"
                 ]
@@ -2131,8 +2138,7 @@
                     "Renewable Charged Future"
                 ],
                 "filterlists": [
-                    "Espaço e Conceção Loja​",
-                    " Proteção Ativos​",
+                    "Proteção Ativos​",
                     " Sustentabilidade​",
                     "Retail Properties​"
                 ],
@@ -2310,7 +2316,7 @@
                             "name": "aquaponics Iberia",
                             "author": "jgp",
                             "description": "Consultoria, Projetos e Formação em AQUAPONIA e Aquacultura sustentável",
-                            "image": "",
+                            "image": "https://www.aquaponicsiberia.com/wp-content/uploads/2016/07/aquaponics_iberia_s.png",
                             "video": "",
                             "main_link": "https://www.aquaponicsiberia.com/?lang=en",
                             "article_links": [
@@ -2438,7 +2444,8 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
-                    "Comercial Alimentar",
+                    " Qualidade",
+                    " I&D",
                     " Sustentabilidade​",
                     " Comercial Não Alimentar​",
                     " Maxmat​"
@@ -2450,9 +2457,9 @@
                             "name": "evian 100% Recycled Plastic Bottles",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "http://www.climateaction.org/images/uploads/articles/evian.PNG",
                             "video": "",
-                            "main_link": "https://amp.fastcompany.com/40517697/evian-will-make-all-its-water-bottles-out-of-100-recycled-plastic",
+                            "main_link": "http://www.climateaction.org/news/evian-will-use-100-recycled-plastic-bottles-by-2025",
                             "article_links": [
                                 ""
                             ]
@@ -2462,7 +2469,7 @@
                             "name": "Why sustainable products are a win-win for all of us",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://assets.weforum.org/article/image/large_bA2EXSv0z8rYCxBC9708YRtS-Sa9kpbFld1GK8XWBn0.jpg",
                             "video": "",
                             "main_link": "https://www.weforum.org/agenda/2018/05/sustainable-products-good-for-the-world-or-expensive-hype/",
                             "article_links": [
@@ -2476,7 +2483,7 @@
                             "name": "Repreve",
                             "author": "tpc",
                             "description": "Recycled bottles are transformed into a fiber, used by the world's leading brands to make athletic and fashion apparel and more. The process embeds properties like wicking, adaptive warming and cooling, water repellency, and more at the fiber level. For reliable, durable quality.",
-                            "image": "/main/img/oldtechimg/Repreve.jpg",
+                            "image": "https://repreve.com/static/images/repreve-logo.svg",
                             "video": "",
                             "main_link": "https://repreve.com/",
                             "article_links": [
@@ -2494,7 +2501,7 @@
                             "name": "Econyl",
                             "author": "tpc",
                             "description": "The ECONYL Regeneration System is based not only on the development of a new technology but also the creation of a new supply chain specialized in the recovery of waste worldwide. The ECONYL Regeneration System is sustainable, as it recovers waste which would otherwise end up in landfills or oceans.",
-                            "image": "/main/img/oldtechimg/Econyl.jpg",
+                            "image": "https://www.econyl.com/assets/img/logo.svg",
                             "video": "",
                             "main_link": "http://www.econyl.com/",
                             "article_links": [
@@ -2512,7 +2519,7 @@
                             "name": "Elvis & Kresse",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://cdn.shopify.com/s/files/1/1344/1527/files/pile_of_hose_2_shopify-Banner_1024x1024.jpg?v=1516716323",
                             "video": "",
                             "main_link": "https://www.elvisandkresse.com/",
                             "article_links": [
@@ -2562,7 +2569,7 @@
                             "name": "Sustainable materials for Textiles",
                             "author": "radar18",
                             "description": "Promote sustainable materials,  manufacturing processes, and/or waste management. More sustainable materials are based on natural fibres from consciences agriculture or by recycled or recyclable synthetic fibres. More sustainable processes consume less resources such as water and produce less waste.",
-                            "image": "",
+                            "image": "https://inhabitat.com/ecouterre/wp-content/blogs.dir/26/files/2016/03/class-cfda-lexus-eco-ecotec-537x403.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -2594,8 +2601,8 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​",
+                    " Qualidade",
+                    " I&D",
                     " Sustentabilidade​",
                     " Comercial Não Alimentar​"
                 ],
@@ -2918,7 +2925,7 @@
                             "name": "Bio-plastics",
                             "author": "radar18",
                             "description": "Bio-materials provide special characteristics to plastics. Innovative advanced materials are continuously in development. Those materials are derived from renewable biomass sources, such as vegetable fats and oils, corn starch, or microbiota. Most of bioplastics are biodegradable, which that under the right conditions the microbes in the environment can break down the material and use it as a food source.",
-                            "image": "",
+                            "image": "https://www.smitherspira.com/SmithersPira/media/Examples/The-Future-of-Bioplastics-for-Packaging-to-2023_3.jpg",
                             "video": "",
                             "prevwork": "A study is available with a list of technologies that can be used. Further study about the most disruptive.",
                             "prevworkurl": "To be added",
@@ -2933,7 +2940,7 @@
                             "name": "Printed electronics for Disposable smart labels",
                             "author": "radar18",
                             "description": "Labels with embed sensors and/or displays can help to audit the supply chain. Electrochromic displays are printable on plastic or paper to produce smart labels. These displays use almost no power (no recharging or battery replacement). They are low weight, thin, flexible, transparent, yet robust. Can be combined with sensors (e.g. movement, temperature).",
-                            "image": "",
+                            "image": "https://images.pexels.com/photos/697059/pexels-photo-697059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "prevwork": "A study is available. An experiment to trace the temperature of meat supply chain is being envisaged.",
                             "prevworkurl": "",
@@ -3010,15 +3017,13 @@
                     "Zero Waste"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
-                    "Comercial Alimentar",
                     "Espaço e Conceção Loja​",
                     "Logística & Centros Fabrico​",
                     "Operações​",
-                    " Proteção Ativos​",
+                    "Proteção Ativos​",
                     " Sustentabilidade​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     "DEC​",
                     " Maxmat​"
@@ -3054,7 +3059,7 @@
                             "name": "Why sustainable products are a win-win for all of us",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://assets.weforum.org/article/image/large_bA2EXSv0z8rYCxBC9708YRtS-Sa9kpbFld1GK8XWBn0.jpg",
                             "video": "",
                             "main_link": "https://www.weforum.org/agenda/2018/05/sustainable-products-good-for-the-world-or-expensive-hype/",
                             "article_links": [
@@ -3099,7 +3104,7 @@
                             "name": "Wikicells",
                             "author": "tpc",
                             "description": "Wikicells enclose food and drink inside soft skins that are entirely comprised of natural food particles held together by nutritive ions, and generally protects the soft skins with hard shells that are either completely edible (like an orange peel) or varied biodegradable (like the shell of a coconut.)",
-                            "image": "/main/img/oldtechimg/wiki.jpg",
+                            "image": "https://media.wired.com/photos/5932473552d99d6b984dd6f5/master/w_582,c_limit/PRESS-STRAWBERRY-VANILLA.jpg",
                             "video": "",
                             "main_link": "https://www.wired.com/2014/08/high-tech-frozen-yogurt-that-comes-in-edible-packaging/#slide-1",
                             "article_links": [
@@ -3118,7 +3123,7 @@
                             "name": "EcoSol®",
                             "author": "tpc",
                             "description": "EcoSol® is a water soluble, biodegradable, polyvinyl alcohol (PVOH) film ideally suited for various packaging applications. Water soluble PVOH bags, sachets, or pouches created from this unique, technically advanced film provide a convenient, safe, and economical delivery system for a wide range of products.",
-                            "image": "/main/img/oldtechimg/ecosol.jpg",
+                            "image": "https://www.cortecpackaging.com/wp-content/uploads/2018/08/EcoSol.jpg",
                             "video": "",
                             "main_link": "https://www.cortecvci.com/products/vpci-packaging-products/ecosol-water-soluble-packaging-solution/",
                             "article_links": [
@@ -3256,7 +3261,7 @@
                             "name": "Edible or water soluble films for Food packaging",
                             "author": "radar18",
                             "description": "Food packed in edible packaging to deliver optimum dosing, customer convenience and sustainability. Edible or water soluble plastic film is made from the milk protein casein which guards food against oxygen, and provide more sustainable products. Transparent, odorless and tasteless pre-portioned packets streamline food and beverage manufacturing, reducing cross-contamination and dusting in kitchen or manufacturing applications. Deliver ingredients such as various food coloring, spices and oils in food-grade water-soluble film. ",
-                            "image": "",
+                            "image": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/5/1/7/3/2903715-1-eng-GB/MonoSol-pouch-releases-F-B-ingredients-when-exposed-to-water_wrbm_medium.jpg",
                             "video": "",
                             "prevwork": "A study was started in the end of 2018 to explore the possibility of using this material in bags for groceries or dry products sold in bulk (e.g. fruits and vegetables).",
                             "prevworkurl": "",
@@ -3271,7 +3276,7 @@
                             "name": "Bio-plastics",
                             "author": "radar18",
                             "description": "Bio-materials provide special characteristics to plastics. Innovative advanced materials are continuously in development. Those materials are derived from renewable biomass sources, such as vegetable fats and oils, corn starch, or microbiota. Most of bioplastics are biodegradable, which that under the right conditions the microbes in the environment can break down the material and use it as a food source.",
-                            "image": "",
+                            "image": "https://www.smitherspira.com/SmithersPira/media/Examples/The-Future-of-Bioplastics-for-Packaging-to-2023_3.jpg",
                             "video": "",
                             "prevwork": "A study is available with a list of technologies that can be used. Further study about the most disruptive.",
                             "prevworkurl": "To be added",
@@ -3301,7 +3306,7 @@
                             "name": "Sustainable materials for Textiles",
                             "author": "radar18",
                             "description": "Promote sustainable materials,  manufacturing processes, and/or waste management. More sustainable materials are based on natural fibres from consciences agriculture or by recycled or recyclable synthetic fibres. More sustainable processes consume less resources such as water and produce less waste.",
-                            "image": "",
+                            "image": "https://inhabitat.com/ecouterre/wp-content/blogs.dir/26/files/2016/03/class-cfda-lexus-eco-ecotec-537x403.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -3333,15 +3338,13 @@
                     "Zero Waste"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
                     "Comercial Alimentar",
-                    "Espaço e Conceção Loja​",
                     "Logística & Centros Fabrico​",
                     "Marketing",
                     " Cartão & Client​",
                     " Sustentabilidade​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     " Maxmat​"
                 ],
                 "highlights": {
@@ -3370,7 +3373,7 @@
                             "name": "Wikicells",
                             "author": "tpc",
                             "description": "Wikicells enclose food and drink inside soft skins that are entirely comprised of natural food particles held together by nutritive ions, and generally protects the soft skins with hard shells that are either completely edible (like an orange peel) or varied biodegradable (like the shell of a coconut.)",
-                            "image": "/main/img/oldtechimg/wiki.jpg",
+                            "image": "https://media.wired.com/photos/5932473552d99d6b984dd6f5/master/w_582,c_limit/PRESS-STRAWBERRY-VANILLA.jpg",
                             "video": "",
                             "main_link": "https://www.wired.com/2014/08/high-tech-frozen-yogurt-that-comes-in-edible-packaging/#slide-1",
                             "article_links": [
@@ -3389,7 +3392,7 @@
                             "name": "EcoSol®",
                             "author": "tpc",
                             "description": "EcoSol® is a water soluble, biodegradable, polyvinyl alcohol (PVOH) film ideally suited for various packaging applications. Water soluble PVOH bags, sachets, or pouches created from this unique, technically advanced film provide a convenient, safe, and economical delivery system for a wide range of products.",
-                            "image": "/main/img/oldtechimg/ecosol.jpg",
+                            "image": "https://www.cortecpackaging.com/wp-content/uploads/2018/08/EcoSol.jpg",
                             "video": "",
                             "main_link": "https://www.cortecvci.com/products/vpci-packaging-products/ecosol-water-soluble-packaging-solution/",
                             "article_links": [
@@ -3461,7 +3464,7 @@
                             "name": "Edible or water soluble films for Food packaging",
                             "author": "radar18",
                             "description": "Food packed in edible packaging to deliver optimum dosing, customer convenience and sustainability. Edible or water soluble plastic film is made from the milk protein casein which guards food against oxygen, and provide more sustainable products. Transparent, odorless and tasteless pre-portioned packets streamline food and beverage manufacturing, reducing cross-contamination and dusting in kitchen or manufacturing applications. Deliver ingredients such as various food coloring, spices and oils in food-grade water-soluble film. ",
-                            "image": "",
+                            "image": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/5/1/7/3/2903715-1-eng-GB/MonoSol-pouch-releases-F-B-ingredients-when-exposed-to-water_wrbm_medium.jpg",
                             "video": "",
                             "prevwork": "A study was started in the end of 2018 to explore the possibility of using this material in bags for groceries or dry products sold in bulk (e.g. fruits and vegetables).",
                             "prevworkurl": "",
@@ -3476,7 +3479,7 @@
                             "name": "Bio-plastics",
                             "author": "radar18",
                             "description": "Bio-materials provide special characteristics to plastics. Innovative advanced materials are continuously in development. Those materials are derived from renewable biomass sources, such as vegetable fats and oils, corn starch, or microbiota. Most of bioplastics are biodegradable, which that under the right conditions the microbes in the environment can break down the material and use it as a food source.",
-                            "image": "",
+                            "image": "https://www.smitherspira.com/SmithersPira/media/Examples/The-Future-of-Bioplastics-for-Packaging-to-2023_3.jpg",
                             "video": "",
                             "prevwork": "A study is available with a list of technologies that can be used. Further study about the most disruptive.",
                             "prevworkurl": "To be added",
@@ -3493,9 +3496,9 @@
                             "name": "evian 100% Recycled Plastic Bottles",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "http://www.climateaction.org/images/uploads/articles/evian.PNG",
                             "video": "",
-                            "main_link": "https://amp.fastcompany.com/40517697/evian-will-make-all-its-water-bottles-out-of-100-recycled-plastic",
+                            "main_link": "http://www.climateaction.org/news/evian-will-use-100-recycled-plastic-bottles-by-2025",
                             "article_links": [
                                 ""
                             ]
@@ -3534,7 +3537,7 @@
                             "name": "Repreve",
                             "author": "tpc",
                             "description": "Recycled bottles are transformed into a fiber, used by the world's leading brands to make athletic and fashion apparel and more. The process embeds properties like wicking, adaptive warming and cooling, water repellency, and more at the fiber level. For reliable, durable quality.",
-                            "image": "/main/img/oldtechimg/Repreve.jpg",
+                            "image": "https://repreve.com/static/images/repreve-logo.svg",
                             "video": "",
                             "main_link": "https://repreve.com/",
                             "article_links": [
@@ -3552,7 +3555,7 @@
                             "name": "Econyl",
                             "author": "tpc",
                             "description": "The ECONYL Regeneration System is based not only on the development of a new technology but also the creation of a new supply chain specialized in the recovery of waste worldwide. The ECONYL Regeneration System is sustainable, as it recovers waste which would otherwise end up in landfills or oceans.",
-                            "image": "/main/img/oldtechimg/Econyl.jpg",
+                            "image": "https://www.econyl.com/assets/img/logo.svg",
                             "video": "",
                             "main_link": "http://www.econyl.com/",
                             "article_links": [
@@ -3587,7 +3590,6 @@
                     "Zero Waste"
                 ],
                 "filterlists": [
-                    "Espaço e Conceção Loja​",
                     "Logística & Centros Fabrico​",
                     "Operações​",
                     " Sustentabilidade​"
@@ -3599,9 +3601,9 @@
                             "name": "evian 100% Recycled Plastic Bottles",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "http://www.climateaction.org/images/uploads/articles/evian.PNG",
                             "video": "",
-                            "main_link": "https://amp.fastcompany.com/40517697/evian-will-make-all-its-water-bottles-out-of-100-recycled-plastic",
+                            "main_link": "http://www.climateaction.org/news/evian-will-use-100-recycled-plastic-bottles-by-2025",
                             "article_links": [
                                 ""
                             ]
@@ -3623,7 +3625,7 @@
                             "name": "Why sustainable products are a win-win for all of us",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://assets.weforum.org/article/image/large_bA2EXSv0z8rYCxBC9708YRtS-Sa9kpbFld1GK8XWBn0.jpg",
                             "video": "",
                             "main_link": "https://www.weforum.org/agenda/2018/05/sustainable-products-good-for-the-world-or-expensive-hype/",
                             "article_links": [
@@ -3637,7 +3639,7 @@
                             "name": "Repreve",
                             "author": "tpc",
                             "description": "Recycled bottles are transformed into a fiber, used by the world's leading brands to make athletic and fashion apparel and more. The process embeds properties like wicking, adaptive warming and cooling, water repellency, and more at the fiber level. For reliable, durable quality.",
-                            "image": "/main/img/oldtechimg/Repreve.jpg",
+                            "image": "https://repreve.com/static/images/repreve-logo.svg",
                             "video": "",
                             "main_link": "https://repreve.com/",
                             "article_links": [
@@ -3655,7 +3657,7 @@
                             "name": "Econyl",
                             "author": "tpc",
                             "description": "The ECONYL Regeneration System is based not only on the development of a new technology but also the creation of a new supply chain specialized in the recovery of waste worldwide. The ECONYL Regeneration System is sustainable, as it recovers waste which would otherwise end up in landfills or oceans.",
-                            "image": "/main/img/oldtechimg/Econyl.jpg",
+                            "image": "https://www.econyl.com/assets/img/logo.svg",
                             "video": "",
                             "main_link": "http://www.econyl.com/",
                             "article_links": [
@@ -3675,7 +3677,7 @@
                             "name": "Sustainable materials for Textiles",
                             "author": "radar18",
                             "description": "Promote sustainable materials,  manufacturing processes, and/or waste management. More sustainable materials are based on natural fibres from consciences agriculture or by recycled or recyclable synthetic fibres. More sustainable processes consume less resources such as water and produce less waste.",
-                            "image": "",
+                            "image": "https://inhabitat.com/ecouterre/wp-content/blogs.dir/26/files/2016/03/class-cfda-lexus-eco-ecotec-537x403.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -3708,7 +3710,6 @@
                     "Bulk Foods"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
                     "Comercial Alimentar",
                     "Espaço e Conceção Loja​",
                     "Wholesale​",
@@ -3716,10 +3717,10 @@
                     "Operações​",
                     "Marketing",
                     " Cartão & Client​",
-                    " Proteção Ativos​",
+                    "Proteção Ativos​",
                     " Sustentabilidade​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "DEC​",
                     "Future Leaders"
                 ],
@@ -3730,7 +3731,7 @@
                             "name": "Drinkfinity",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.bevindustry.com/ext/resources/2018/News/Drinkfinity_PeelPopShake_900.jpg?1519145413",
                             "video": "",
                             "main_link": "https://www.bevindustry.com/articles/90933-drinkfinity-offers-personalized-beverage-options",
                             "article_links": [
@@ -3766,7 +3767,7 @@
                             "name": "Why sustainable products are a win-win for all of us",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://assets.weforum.org/article/image/large_bA2EXSv0z8rYCxBC9708YRtS-Sa9kpbFld1GK8XWBn0.jpg",
                             "video": "",
                             "main_link": "https://www.weforum.org/agenda/2018/05/sustainable-products-good-for-the-world-or-expensive-hype/",
                             "article_links": [
@@ -3793,14 +3794,14 @@
                         },
                         {
                             "uid": "PRT073",
-                            "name": "Loops Reusable Packaging",
+                            "name": "Loop's Reusable Packaging",
                             "author": "man",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.greenbiz.com/sites/default/files/styles/panopoly_image_full/public/images/articles/featured/loop-group-shot.jpg?itok=lSfHwEiU",
                             "video": "https://www.youtube.com/watch?v=a_tHuikHyvo",
                             "main_link": "https://loopstore.com/",
                             "article_links": [
-                                "https://www.youtube.com/watch?v=a_tHuikHyvo"
+                                ""
                             ],
                             "sonar_link": "",
                             "related_highlights": [
@@ -3812,7 +3813,7 @@
                             "name": "24 Bottles",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.24bottles.com/wp-content/uploads/2017/10/clima-new-194x600.png",
                             "video": "",
                             "main_link": "https://www.24bottles.com",
                             "article_links": [
@@ -3846,7 +3847,7 @@
                             "name": "Bio-plastics",
                             "author": "radar18",
                             "description": "Bio-materials provide special characteristics to plastics. Innovative advanced materials are continuously in development. Those materials are derived from renewable biomass sources, such as vegetable fats and oils, corn starch, or microbiota. Most of bioplastics are biodegradable, which that under the right conditions the microbes in the environment can break down the material and use it as a food source.",
-                            "image": "",
+                            "image": "https://www.smitherspira.com/SmithersPira/media/Examples/The-Future-of-Bioplastics-for-Packaging-to-2023_3.jpg",
                             "video": "",
                             "prevwork": "A study is available with a list of technologies that can be used. Further study about the most disruptive.",
                             "prevworkurl": "To be added",
@@ -3878,13 +3879,14 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
-                    "Comercial Alimentar",
+                    " Qualidade",
+                    " I&D",
                     "Espaço e Conceção Loja​",
                     "Logística & Centros Fabrico​",
                     "Operações​",
                     "Digital​",
                     " Sustentabilidade​",
-                    "Ecommerce & Mobile​"
+                    "Ecommerce"
                 ],
                 "highlights": {
                     "implementation": [
@@ -3893,7 +3895,7 @@
                             "name": "Allbulkfoods.com",
                             "author": "jgp",
                             "description": "Here at AllBulkFoods.com our business is providing you with excellent food, service and prices. If you buy one case or one pallet of bulk foods, we are here to help!",
-                            "image": "",
+                            "image": "https://cdn10.bigcommerce.com/s-a6pgxdjc7w/product_images/allbulkfoods_logo_highres_rgb_transparent_1467395927__66410.png",
                             "video": "",
                             "main_link": "https://allbulkfoods.com",
                             "article_links": [
@@ -3951,7 +3953,6 @@
                     "Bulk Foods"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
                     "Comercial Alimentar",
                     "Espaço e Conceção Loja​",
                     "Wholesale​",
@@ -4007,7 +4008,7 @@
                             "name": "Nelson and Pade, Inc.®’s ",
                             "author": "tpc",
                             "description": "Aquaponic Systems® produce higher quality fish and vegetables with increased production over other systems. The water flowing through the system is nutrient-rich, but clear, providing bio-security and food safety. The plant roots are bright white and clean and the fish are raised in fresh, clear water.",
-                            "image": "/main/img/oldtechimg/nelson.jpg",
+                            "image": "https://aquaponics.com/wp-content/themes/aquaTheme/images/nelson-and-pade-logo.jpg",
                             "video": "",
                             "main_link": "https://aquaponics.com/aquaponic-systems/",
                             "article_links": [
@@ -4025,7 +4026,7 @@
                             "name": "Infarm",
                             "author": "tpc",
                             "description": "Farms inspired by nature’s most elegant design and structures. Each is its own ecosystem that tailors light spectrums, temperature, and nutrients to ensure the maximum natural expression of each plant.",
-                            "image": "/main/img/oldtechimg/infarm.jpg",
+                            "image": "https://images.pexels.com/photos/974314/pexels-photo-974314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "main_link": "https://infarm.de/",
                             "article_links": [
@@ -4042,9 +4043,9 @@
                             "name": "Koalo",
                             "author": "tpc",
                             "description": "Koalo create ecosystems to grow organic food indoors. Koaloponics combines leading-edge aquaponics research with web-connected tags, sensors and controls to create a smart indoor growing system.",
-                            "image": "/main/img/oldtechimg/koala.jpg",
+                            "image": "https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/v1478003102/d6vv0zdtsfzbv8swmfio.png",
                             "video": "",
-                            "main_link": "https://www.facebook.com/pg/koaloponics/about/",
+                            "main_link": "https://www.crunchbase.com/organization/koalo",
                             "article_links": [
                                 ""
                             ],
@@ -4060,7 +4061,7 @@
                             "name": "Grow to green",
                             "author": "tpc",
                             "description": "Plants are grown in a multilayer indoor environment where temperature, humidity, CO2 concentration, lighting conditions and plant nutrition (via a hydroponics system) are not only monitored but also carefully controlled. With this technology, climatic or biological risks are virtually eliminated from normal plant development so you can grow better vegetables all year round.",
-                            "image": "/main/img/oldtechimg/growtogreen.jpg",
+                            "image": "http://www.growtogreen.com/bundles/app/images/logo-1.png",
                             "video": "",
                             "main_link": "http://www.growtogreen.com/",
                             "article_links": [
@@ -4077,7 +4078,7 @@
                             "name": "Pentair Aquatic Eco-System",
                             "author": "tpc",
                             "description": "Shortages of water and energy. Urban food deserts. Pollution of soils and waterways. There’s a clear need for sustainable new sources of nutritious food. Aquaponics is the future. Pentair Aquatic Eco-Systems is committed to the commercialization of systems that create the better water needed to grow healthy fish and plants.",
-                            "image": "/main/img/oldtechimg/pentair.jpg",
+                            "image": "https://pentairaes.com/skin/frontend/gyro2015/responsive/assets/img/pentair.svg",
                             "video": "",
                             "main_link": "http://pentairaes.com/commercial-solutions/commercial-aquaponics",
                             "article_links": [
@@ -4113,7 +4114,7 @@
                             "name": "Hydroponics for In-store greenhouse",
                             "author": "radar18",
                             "description": "In-store hydroponics to deliver the freshers products. Plants grow in an aquatic based environment where the nutrients are distributed through capillary action, without the use of soil.",
-                            "image": "",
+                            "image": "https://cdn.trendhunterstatic.com/thumbs/instore-farm.jpeg",
                             "video": "",
                             "prevwork": "A Study is available. An experiement was planned but it was canceled for lack of suitable partners for the envisaged use case.",
                             "prevworkurl": "To be added",
@@ -4128,7 +4129,7 @@
                             "name": "Aquaponics for In-store greenhouse",
                             "author": "radar18",
                             "description": "In-store production of greens and fish in a symbiotic environment. A symbiotic system where fishes and plants grow in a symbiotic way. The fishes share the water tank with bacteria that turn the fish waste into a rich fertilizer that is then fed to the plants.",
-                            "image": "",
+                            "image": "https://aquaponics.com/wp-content/uploads/2018/02/NP-Plant-Rafts.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -4167,7 +4168,7 @@
                     "Digital​",
                     "Auditoria & Gestão de Procedimentos​",
                     "RH​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Serviços Partilhados​",
                     " Financial Services"
                 ],
@@ -4427,15 +4428,13 @@
                     "Quicker Frequent Shopping"
                 ],
                 "filterlists": [
-                    "Espaço e Conceção Loja​",
-                    "Wholesale​",
                     "BIT​",
                     "Operações​",
                     "Marketing",
                     " Cartão & Client​",
                     "Digital​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     " Maxmat​"
                 ],
@@ -4742,12 +4741,11 @@
                     "Too Much Choice/ Simplification"
                 ],
                 "filterlists": [
-                    "Wholesale​",
                     "Marketing",
                     " Cartão & Client​",
                     "Digital​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     " Maxmat​"
                 ],
                 "highlights": {
@@ -5089,7 +5087,6 @@
                     "Quicker Frequent Shopping"
                 ],
                 "filterlists": [
-                    "Espaço e Conceção Loja​",
                     "Wholesale​",
                     "BIT​",
                     "Operações​",
@@ -5097,7 +5094,7 @@
                     " Cartão & Client​",
                     "Digital​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     " Maxmat​"
                 ],
@@ -5462,7 +5459,7 @@
                     " Cartão & Client​",
                     "Digital​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     " Maxmat​"
                 ],
@@ -5607,12 +5604,11 @@
                 ],
                 "filterlists": [
                     "Espaço e Conceção Loja​",
-                    "Wholesale​",
                     "BIT​",
                     "Marketing",
                     " Cartão & Client​",
                     "Digital​",
-                    " Proteção Ativos​",
+                    "Proteção Ativos​",
                     "RH​",
                     " Comercial Não Alimentar​",
                     " Maxmat​"
@@ -5851,9 +5847,9 @@
                     "Marketing",
                     " Cartão & Client​",
                     "Digital​",
-                    " Proteção Ativos​",
+                    "Proteção Ativos​",
                     "Risk​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "DEC​",
                     " Financial Services"
                 ],
@@ -6110,7 +6106,7 @@
                     "Digital​",
                     "Risk​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     "Serviços Partilhados​",
                     " Maxmat​",
@@ -6194,10 +6190,6 @@
                     "Meaningful Work"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​",
-                    "Wholesale​",
                     "Logística & Centros Fabrico​",
                     "BIT​",
                     "Inovação​",
@@ -6205,13 +6197,13 @@
                     "Marketing",
                     " Cartão & Client​",
                     "Digital​",
-                    " Proteção Ativos​",
+                    "Proteção Ativos​",
                     "Auditoria & Gestão de Procedimentos​",
                     "RH​",
                     " Sustentabilidade​",
                     "Risk​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     "Serviços Partilhados​",
                     "PCG & BI​",
@@ -6369,10 +6361,6 @@
                     "Flexible Workplaces"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​",
-                    "Wholesale​",
                     "Logística & Centros Fabrico​",
                     "BIT​",
                     "Inovação​",
@@ -6380,13 +6368,13 @@
                     "Marketing",
                     " Cartão & Client​",
                     "Digital​",
-                    " Proteção Ativos​",
+                    "Proteção Ativos​",
                     "Auditoria & Gestão de Procedimentos​",
                     "RH​",
                     " Sustentabilidade​",
                     "Risk​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     "Serviços Partilhados​",
                     "PCG & BI​",
@@ -6552,10 +6540,6 @@
                     "Flexible Workplaces"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​",
-                    "Wholesale​",
                     "Logística & Centros Fabrico​",
                     "BIT​",
                     "Inovação​",
@@ -6563,13 +6547,13 @@
                     "Marketing",
                     " Cartão & Client​",
                     "Digital​",
-                    " Proteção Ativos​",
+                    "Proteção Ativos​",
                     "Auditoria & Gestão de Procedimentos​",
                     "RH​",
                     " Sustentabilidade​",
                     "Risk​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     "Serviços Partilhados​",
                     "PCG & BI​",
@@ -6638,14 +6622,13 @@
                     "Too Much Choice/ Simplification"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
                     "Comercial Alimentar",
                     "Wholesale​",
                     "Operações​",
                     "Marketing",
                     " Cartão & Client​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     " Maxmat​",
                     " Financial Services"
@@ -6657,7 +6640,7 @@
                             "name": "H&M's insignia for customers with high demands but little time ",
                             "author": "nlg",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.arket.com/content/dam/P11/Specials/ARKET_about.gif",
                             "video": "",
                             "main_link": "https://www.arket.com/en_eur/about.html",
                             "article_links": [
@@ -6719,7 +6702,7 @@
                             "name": "Keep Warranty",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "http://hello.keep-warranty.com/wp-content/uploads/2018/09/slider-4menina-1.png",
                             "video": "",
                             "main_link": "http://hello.keep-warranty.com/",
                             "article_links": [
@@ -6735,7 +6718,7 @@
                             "name": "oko",
                             "author": "jgp",
                             "description": "Intelligent Newsroom Assistant",
-                            "image": "images/oko_logo.png",
+                            "image": "https://oko.ai/images/0aa200d6-c80c-45ac-9c04-299194dced05.png",
                             "video": "",
                             "main_link": "https://oko.ai/",
                             "article_links": [
@@ -6867,9 +6850,6 @@
                     "Liquid Expectations"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​",
                     "Wholesale​",
                     "Logística & Centros Fabrico​",
                     "Operações​",
@@ -6877,7 +6857,7 @@
                     " Cartão & Client​",
                     " Sustentabilidade​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     " Maxmat​"
                 ],
@@ -7240,9 +7220,9 @@
                             "name": "farm(x)",
                             "author": "tpc",
                             "description": "FarmX sensors measure soil, plant and environmental variables to accurately measure water stress. Advanced predictive algorithms deliver real-time irrigation actions.",
-                            "image": "/main/img/oldtechimg/FarmX.jpg",
+                            "image": "https://farmx.co/assets/index_files/xslideshow-screenshot-01.jpg",
                             "video": "",
-                            "main_link": "http://kit.farmx.co/",
+                            "main_link": "https://farmx.co/",
                             "article_links": [
                                 ""
                             ],
@@ -7350,7 +7330,7 @@
                             "name": "Iris Monitoring",
                             "author": "tpc",
                             "description": "Iris monitoring combines IR Spectroscopy and Machine Learning to deliver a set of solution for food and beverage analysis.",
-                            "image": "",
+                            "image": "http://multisite.iris.cat/monitoring/files/2018/03/LogoMonitoring-04.png",
                             "video": "",
                             "main_link": "http://www.iris-eng.com/",
                             "article_links": [
@@ -7729,7 +7709,7 @@
                             "name": "Tellspec",
                             "author": "tpc",
                             "description": "Tellspec Food Sensor is able to scan food at a molecular level, identify calories, macronutrients, allergens, and also provide relevant information such as food fraud, food adulteration and food quality.",
-                            "image": "/main/img/oldtechimg/Tellspec.jpg",
+                            "image": "https://images.pexels.com/photos/533360/pexels-photo-533360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "main_link": "http://tellspec.com/en/",
                             "article_links": [
@@ -7886,7 +7866,7 @@
                             "name": "FRCFT",
                             "author": "tpc",
                             "description": "UCD Food Refrigeration & Computerised Food Technology (FRCFT) is an internationally recognized centre of excellence for food engineering research and education. FRCFT developed an hyperspectral imaging non-destructive method applied to food (e.g. meat, fruits, vegetables, fish) for sample classification and grading, defect and disease detection, distribution visualization of chemical attributes in chemical images, and evaluations of overall quality.",
-                            "image": "/main/img/oldtechimg/Spectralimaging.jpg",
+                            "image": "http://www.ucd.ie/refrig/t4media/REFRIG_vegetables-frying-pan-greens.jpg",
                             "video": "",
                             "main_link": "http://www.ucd.ie/refrig/",
                             "article_links": [
@@ -7946,7 +7926,7 @@
                             "name": "WiseCrop",
                             "author": "tpc",
                             "description": "WiseCrop collect the data needed for informed decision-making. Agricultural intelligence supports the decisions. It avoids unnecessary trips, allows to react immediately and allows efficient management of the business.  ",
-                            "image": "/main/img/oldtechimg/Wisecrop.jpg",
+                            "image": "https://www.wisecrop.com/public/uploads/images/f7c658765d216753f2c9be6f6fa78809.png",
                             "video": "",
                             "main_link": "https://www.wisecrop.com/pt/",
                             "article_links": [
@@ -8286,7 +8266,7 @@
                             "name": "Internet of things for Smart farming",
                             "author": "radar18",
                             "description": "IoT smart farming strategies can be applied to optimize food production and provide traceability. Through smart farming it is possible to increase both the quantity and the quality of agricultural products, as wells as the intelligence of farms. Collecting massive amounts of information, from soil mapping, crop fields, weather data and more, using specialized sensors will help in having a better productivity.",
-                            "image": "",
+                            "image": "https://images.readwrite.com/wp-content/uploads/2018/03/iot-agriculture-farming-e1470365237744-825x500.png",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -8346,7 +8326,7 @@
                             "name": "E-paper for Electronic shelf labels",
                             "author": "radar18",
                             "description": "Replace paper by e-paper based labels to save staff time, improve info accuracy, and agilize to princing politics. To create images, the display uses e-paper technology. With this tech the images are shown through e-ink, where a group of microcapsules contains tiny black or white spheres that are positioned according to the eletric charge given.",
-                            "image": "",
+                            "image": "https://static1.squarespace.com/static/53f2c502e4b03f7a2b0a9013/t/5726cba92b8dde53fd101a8c/1465351175027/epaper_electronic_shelf_labels.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -8437,7 +8417,7 @@
                             "name": "Sensors for Food quality analysis",
                             "author": "radar18",
                             "description": "Specific low cost sensors can analyse the quality of food outside labs. Innovative technologies are being developed to analyse, in shelf, the overall quality of food, including their grade of maturation (in the case of fruit), the precise molecular composition, the presence of contaminants, and others.",
-                            "image": "",
+                            "image": "https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/epic-summer-salad.jpg",
                             "video": "",
                             "prevwork": "Some devices were experimented in the past but none presented reliable results. Further study must ne done.",
                             "prevworkurl": "",
@@ -8671,9 +8651,6 @@
                     "Liquid Expectations"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​",
                     "Wholesale​",
                     "Future Leaders"
                 ],
@@ -9824,8 +9801,7 @@
                     "New Luxury"
                 ],
                 "filterlists": [
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​"
+                    ""
                 ],
                 "highlights": {
                     "implementation": [
@@ -9910,8 +9886,7 @@
                     "Schizophrenic Consumption"
                 ],
                 "filterlists": [
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​"
+                    ""
                 ],
                 "highlights": {
                     "implementation": [
@@ -10028,7 +10003,7 @@
                     "Personalized Content"
                 ],
                 "filterlists": [
-                    "Comercial Alimentar"
+                    ""
                 ],
                 "highlights": {
                     "implementation": [
@@ -10247,8 +10222,7 @@
                     "Personalized Content"
                 ],
                 "filterlists": [
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​"
+                    ""
                 ],
                 "highlights": {
                     "implementation": [
@@ -10269,7 +10243,7 @@
                             "name": "Drinkfinity",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.bevindustry.com/ext/resources/2018/News/Drinkfinity_PeelPopShake_900.jpg?1519145413",
                             "video": "",
                             "main_link": "https://www.bevindustry.com/articles/90933-drinkfinity-offers-personalized-beverage-options",
                             "article_links": [
@@ -10397,6 +10371,8 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar"
                 ],
                 "highlights": {
@@ -11128,6 +11104,8 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar"
                 ],
                 "highlights": {
@@ -11220,7 +11198,7 @@
                     "Non-Linear Interactive Video Content"
                 ],
                 "filterlists": [
-                    "Espaço e Conceção Loja​"
+                    ""
                 ],
                 "highlights": {
                     "partner": [
@@ -11303,9 +11281,7 @@
                     "Mini-Doses"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​"
+                    "Comercial Alimentar"
                 ],
                 "highlights": {
                     "implementation": [
@@ -11415,7 +11391,7 @@
                             "name": "Wikicells",
                             "author": "tpc",
                             "description": "Wikicells enclose food and drink inside soft skins that are entirely comprised of natural food particles held together by nutritive ions, and generally protects the soft skins with hard shells that are either completely edible (like an orange peel) or varied biodegradable (like the shell of a coconut.)",
-                            "image": "/main/img/oldtechimg/wiki.jpg",
+                            "image": "https://media.wired.com/photos/5932473552d99d6b984dd6f5/master/w_582,c_limit/PRESS-STRAWBERRY-VANILLA.jpg",
                             "video": "",
                             "main_link": "https://www.wired.com/2014/08/high-tech-frozen-yogurt-that-comes-in-edible-packaging/#slide-1",
                             "article_links": [
@@ -11451,7 +11427,7 @@
                             "name": "Edible or water soluble films for Food packaging",
                             "author": "radar18",
                             "description": "Food packed in edible packaging to deliver optimum dosing, customer convenience and sustainability. Edible or water soluble plastic film is made from the milk protein casein which guards food against oxygen, and provide more sustainable products. Transparent, odorless and tasteless pre-portioned packets streamline food and beverage manufacturing, reducing cross-contamination and dusting in kitchen or manufacturing applications. Deliver ingredients such as various food coloring, spices and oils in food-grade water-soluble film. ",
-                            "image": "",
+                            "image": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/5/1/7/3/2903715-1-eng-GB/MonoSol-pouch-releases-F-B-ingredients-when-exposed-to-water_wrbm_medium.jpg",
                             "video": "",
                             "prevwork": "A study was started in the end of 2018 to explore the possibility of using this material in bags for groceries or dry products sold in bulk (e.g. fruits and vegetables).",
                             "prevworkurl": "",
@@ -12114,9 +12090,7 @@
                     "Flexitarianism"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​"
+                    ""
                 ],
                 "highlights": {
                     "implementation": [
@@ -12515,7 +12489,7 @@
                     "Functional Food"
                 ],
                 "filterlists": [
-                    "Comercial Alimentar"
+                    ""
                 ],
                 "highlights": {
                     "partner": [
@@ -12721,6 +12695,8 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar",
                     "Wholesale​"
                 ],
@@ -12760,7 +12736,7 @@
                             "uid": "PRT085",
                             "name": "Cuisine Soleil",
                             "author": "jgp",
-                            "description": "Cuisine Soleil found success on foreign markets with its grilled lentils healthy snacks, sold everywhere in Canada but also in France and Mexico. Since 2017, strated a metamorphosis. It set up an agri-food facility in Val-d'Or (Québec), where it now develops new innovating products. Cuisine Soleil received the Food Innovation Award from the Council of Food Manufacturing of Québec (CTAQ) and the Organic Innovator of the Year Award from the Canadian Organic Tade Association (COTA)",
+                            "description": "Cuisine Soleil found success on foreign markets with its grilled lentils healthy snacks, sold everywhere in Canada but also in France and Mexico. Since 2017, strated a metamorphosis. It set up an agri-food facility in Val-d'Or (Québec), where it now develops new innovating products such as gluten-free flour made of millet, coconut or buckwheat. Cuisine Soleil received the Food Innovation Award from the Council of Food Manufacturing of Québec (CTAQ) and the Organic Innovator of the Year Award from the Canadian Organic Tade Association (COTA)",
                             "image": "/main/img/oldtechimg/cuisinesolei.jpg",
                             "video": "",
                             "main_link": "https://cuisinesoleil.com/en/",
@@ -12777,7 +12753,7 @@
                             "name": "INL - Nano4Food ",
                             "author": "tpc",
                             "description": "Nano4Food is a R&D Unit working in Nanoencapsulation technologies to food functional properties, packaging solutions to extend shelf life , personalized and printable food, and  integrated lab-on-a-chip solutions for food quality, safety and, authenticity purposes.",
-                            "image": "/main/img/oldtechimg/inl-Nano4Food.jpg",
+                            "image": "https://inl.int/life-science/wp-content/uploads/2019/02/vector_horizontal.jpg",
                             "video": "",
                             "main_link": "http://inl.int/life-science/nano-for-food/",
                             "article_links": [
@@ -12834,6 +12810,8 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar",
                     "Wholesale​"
                 ],
@@ -12860,7 +12838,7 @@
                             "name": "INL - Nano4Food ",
                             "author": "tpc",
                             "description": "Nano4Food is a R&D Unit working in Nanoencapsulation technologies to food functional properties, packaging solutions to extend shelf life , personalized and printable food, and  integrated lab-on-a-chip solutions for food quality, safety and, authenticity purposes.",
-                            "image": "/main/img/oldtechimg/inl-Nano4Food.jpg",
+                            "image": "https://inl.int/life-science/wp-content/uploads/2019/02/vector_horizontal.jpg",
                             "video": "",
                             "main_link": "http://inl.int/life-science/nano-for-food/",
                             "article_links": [
@@ -13073,10 +13051,7 @@
                     "Functional Food"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​",
-                    "Wholesale​"
+                    ""
                 ],
                 "highlights": {
                     "implementation": [
@@ -13192,7 +13167,6 @@
                 ],
                 "filterlists": [
                     "Comercial Alimentar",
-                    "Espaço e Conceção Loja​",
                     "Wholesale​",
                     "Future Leaders"
                 ],
@@ -13241,7 +13215,7 @@
                             "name": "menunfc",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.menunfc.com/wp-content/uploads/2018/10/telefono@2x.svg",
                             "video": "",
                             "main_link": "https://www.menunfc.com/",
                             "article_links": [
@@ -13257,7 +13231,7 @@
                             "name": "Unbabel",
                             "author": "jgp",
                             "description": "Delight your customers, build stronger teams, scale your business — with our translation solutions, you can do what you do best, better.",
-                            "image": "https://unbabel.com/img/social-unbabel.jpg",
+                            "image": "https://unbabel.com/img/homepage/hero-savings-720.png",
                             "video": "",
                             "main_link": "https://unbabel.com/",
                             "article_links": [
@@ -13291,7 +13265,6 @@
                     "Liquid Expectations"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
                     "Comercial Alimentar",
                     "Wholesale​"
                 ],
@@ -13466,9 +13439,7 @@
                     "Liquid Expectations"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
                     "Comercial Alimentar",
-                    "Espaço e Conceção Loja​",
                     "Wholesale​"
                 ],
                 "highlights": {
@@ -14439,7 +14410,9 @@
                     "Privacy Protection"
                 ],
                 "filterlists": [
-                    "Clube de Produtores"
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D"
                 ],
                 "highlights": {
                     "implementation": [
@@ -14703,7 +14676,8 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
-                    "Comercial Alimentar"
+                    " Qualidade",
+                    " I&D"
                 ],
                 "highlights": {
                     "implementation": [
@@ -14760,7 +14734,8 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
-                    "Comercial Alimentar"
+                    " Qualidade",
+                    " I&D"
                 ],
                 "highlights": {
                     "implementation": [
@@ -14849,6 +14824,8 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar"
                 ],
                 "highlights": {
@@ -14874,7 +14851,7 @@
                             "name": "FoodLogiQ",
                             "author": "man",
                             "description": "A food industry software solution that specializes in Supplier Management, Food Safety Compliance, Quality Incident Management, Recall Management, and Whole Chain Traceability.",
-                            "image": "",
+                            "image": "https://www.foodlogiq.com/wp-content/uploads/2016/12/Manager-Dashboard-768x1024-iPad.png",
                             "video": "",
                             "main_link": "https://www.foodlogiq.com/",
                             "article_links": [
@@ -14908,7 +14885,7 @@
                             "name": "Nelson and Pade, Inc.®’s ",
                             "author": "tpc",
                             "description": "Aquaponic Systems® produce higher quality fish and vegetables with increased production over other systems. The water flowing through the system is nutrient-rich, but clear, providing bio-security and food safety. The plant roots are bright white and clean and the fish are raised in fresh, clear water.",
-                            "image": "/main/img/oldtechimg/nelson.jpg",
+                            "image": "https://aquaponics.com/wp-content/themes/aquaTheme/images/nelson-and-pade-logo.jpg",
                             "video": "",
                             "main_link": "https://aquaponics.com/aquaponic-systems/",
                             "article_links": [
@@ -14926,7 +14903,7 @@
                             "name": "arc-net",
                             "author": "tpc",
                             "description": "arc-net connects every step of your product's journey to deliver supply chain transparency and product security. The arc-net toolset provides an easy to use scalable platform, powering the strategic insights that unlock profit .",
-                            "image": "/main/img/oldtechimg/arcnet.jpg",
+                            "image": "https://arc-net.io/assets/images/arcnet-logo.svg",
                             "video": "",
                             "main_link": "http://arc-net.io",
                             "article_links": [
@@ -14984,7 +14961,7 @@
                             "name": "Big Eye",
                             "author": "tpc",
                             "description": "End-to-end transparency through B2B Fish Procurement Powered by the Public Ledger Technology (known as Blockchain), fish buyers can now be automatically notified about their suppliers’ trustability level, having artificial intelligence working to ensure fraud-free information and supply chain transparency.",
-                            "image": "/main/img/oldtechimg/bigeye.jpg",
+                            "image": "http://www.bitcliq.com/bigeye/images/BE-Kit.png",
                             "video": "",
                             "main_link": "http://www.bitcliq.com/bigeye/",
                             "article_links": [
@@ -15001,7 +14978,7 @@
                             "name": "Infarm",
                             "author": "tpc",
                             "description": "Farms inspired by nature’s most elegant design and structures. Each is its own ecosystem that tailors light spectrums, temperature, and nutrients to ensure the maximum natural expression of each plant.",
-                            "image": "/main/img/oldtechimg/infarm.jpg",
+                            "image": "https://images.pexels.com/photos/974314/pexels-photo-974314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "main_link": "https://infarm.de/",
                             "article_links": [
@@ -15018,9 +14995,9 @@
                             "name": "farm(x)",
                             "author": "tpc",
                             "description": "FarmX sensors measure soil, plant and environmental variables to accurately measure water stress. Advanced predictive algorithms deliver real-time irrigation actions.",
-                            "image": "/main/img/oldtechimg/FarmX.jpg",
+                            "image": "https://farmx.co/assets/index_files/xslideshow-screenshot-01.jpg",
                             "video": "",
-                            "main_link": "http://kit.farmx.co/",
+                            "main_link": "https://farmx.co/",
                             "article_links": [
                                 ""
                             ],
@@ -15036,7 +15013,7 @@
                             "name": "Iris Monitoring",
                             "author": "tpc",
                             "description": "Iris monitoring combines IR Spectroscopy and Machine Learning to deliver a set of solution for food and beverage analysis.",
-                            "image": "",
+                            "image": "http://multisite.iris.cat/monitoring/files/2018/03/LogoMonitoring-04.png",
                             "video": "",
                             "main_link": "http://www.iris-eng.com/",
                             "article_links": [
@@ -15075,9 +15052,9 @@
                             "name": "Koalo",
                             "author": "tpc",
                             "description": "Koalo create ecosystems to grow organic food indoors. Koaloponics combines leading-edge aquaponics research with web-connected tags, sensors and controls to create a smart indoor growing system.",
-                            "image": "/main/img/oldtechimg/koala.jpg",
+                            "image": "https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/v1478003102/d6vv0zdtsfzbv8swmfio.png",
                             "video": "",
-                            "main_link": "https://www.facebook.com/pg/koaloponics/about/",
+                            "main_link": "https://www.crunchbase.com/organization/koalo",
                             "article_links": [
                                 ""
                             ],
@@ -15093,7 +15070,7 @@
                             "name": "INL - Nano4Food ",
                             "author": "tpc",
                             "description": "Nano4Food is a R&D Unit working in Nanoencapsulation technologies to food functional properties, packaging solutions to extend shelf life , personalized and printable food, and  integrated lab-on-a-chip solutions for food quality, safety and, authenticity purposes.",
-                            "image": "/main/img/oldtechimg/inl-Nano4Food.jpg",
+                            "image": "https://inl.int/life-science/wp-content/uploads/2019/02/vector_horizontal.jpg",
                             "video": "",
                             "main_link": "http://inl.int/life-science/nano-for-food/",
                             "article_links": [
@@ -15116,7 +15093,7 @@
                             "name": "Grow to green",
                             "author": "tpc",
                             "description": "Plants are grown in a multilayer indoor environment where temperature, humidity, CO2 concentration, lighting conditions and plant nutrition (via a hydroponics system) are not only monitored but also carefully controlled. With this technology, climatic or biological risks are virtually eliminated from normal plant development so you can grow better vegetables all year round.",
-                            "image": "/main/img/oldtechimg/growtogreen.jpg",
+                            "image": "http://www.growtogreen.com/bundles/app/images/logo-1.png",
                             "video": "",
                             "main_link": "http://www.growtogreen.com/",
                             "article_links": [
@@ -15133,7 +15110,7 @@
                             "name": "Pentair Aquatic Eco-System",
                             "author": "tpc",
                             "description": "Shortages of water and energy. Urban food deserts. Pollution of soils and waterways. There’s a clear need for sustainable new sources of nutritious food. Aquaponics is the future. Pentair Aquatic Eco-Systems is committed to the commercialization of systems that create the better water needed to grow healthy fish and plants.",
-                            "image": "/main/img/oldtechimg/pentair.jpg",
+                            "image": "https://pentairaes.com/skin/frontend/gyro2015/responsive/assets/img/pentair.svg",
                             "video": "",
                             "main_link": "http://pentairaes.com/commercial-solutions/commercial-aquaponics",
                             "article_links": [
@@ -15174,7 +15151,7 @@
                             "name": "Tellspec",
                             "author": "tpc",
                             "description": "Tellspec Food Sensor is able to scan food at a molecular level, identify calories, macronutrients, allergens, and also provide relevant information such as food fraud, food adulteration and food quality.",
-                            "image": "/main/img/oldtechimg/Tellspec.jpg",
+                            "image": "https://images.pexels.com/photos/533360/pexels-photo-533360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "main_link": "http://tellspec.com/en/",
                             "article_links": [
@@ -15243,7 +15220,7 @@
                             "name": "FRCFT",
                             "author": "tpc",
                             "description": "UCD Food Refrigeration & Computerised Food Technology (FRCFT) is an internationally recognized centre of excellence for food engineering research and education. FRCFT developed an hyperspectral imaging non-destructive method applied to food (e.g. meat, fruits, vegetables, fish) for sample classification and grading, defect and disease detection, distribution visualization of chemical attributes in chemical images, and evaluations of overall quality.",
-                            "image": "/main/img/oldtechimg/Spectralimaging.jpg",
+                            "image": "http://www.ucd.ie/refrig/t4media/REFRIG_vegetables-frying-pan-greens.jpg",
                             "video": "",
                             "main_link": "http://www.ucd.ie/refrig/",
                             "article_links": [
@@ -15267,7 +15244,7 @@
                             "name": "WiseCrop",
                             "author": "tpc",
                             "description": "WiseCrop collect the data needed for informed decision-making. Agricultural intelligence supports the decisions. It avoids unnecessary trips, allows to react immediately and allows efficient management of the business.  ",
-                            "image": "/main/img/oldtechimg/Wisecrop.jpg",
+                            "image": "https://www.wisecrop.com/public/uploads/images/f7c658765d216753f2c9be6f6fa78809.png",
                             "video": "",
                             "main_link": "https://www.wisecrop.com/pt/",
                             "article_links": [
@@ -15285,7 +15262,7 @@
                             "name": "Nutrasign",
                             "author": "aec",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.nutrasign.io/img/nutralg.png",
                             "video": "",
                             "main_link": "https://www.nutrasign.io/en/",
                             "article_links": [
@@ -15301,7 +15278,7 @@
                             "name": "traace",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://images.pexels.com/photos/811101/pexels-photo-811101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "main_link": "https://traace.io/\r\n",
                             "article_links": [
@@ -15333,7 +15310,7 @@
                             "name": "SAP Global Batch Traceability",
                             "author": "nlg",
                             "description": "Get real-time insight into batch genealogy with our product traceability software – SAP Global Batch Traceability.",
-                            "image": "http://www.sap.com/dam/application/imagelibrary/photos/277000/277277_prod2hero_Cloud4Analytics_Visualize.jpg.adapt.640_-1.false.true.false.false.jpg",
+                            "image": "https://www.sap.com/dam/application/imagelibrary/photos/273000/273472.jpg.adapt.450_255.false.false.false.false.jpg/1423287712691.jpg",
                             "video": "",
                             "main_link": "https://www.sap.com/products/batch-product-traceability.html",
                             "article_links": [
@@ -15349,7 +15326,7 @@
                             "name": "smartLOGO",
                             "author": "jgp",
                             "description": "smartLOGO, la vera alternativa al qr-code ti permette di ingaggiare il tuo consumatore con contenuti rilevanti\n",
-                            "image": "",
+                            "image": "https://images.pexels.com/photos/1437318/pexels-photo-1437318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "main_link": "http://www.smartlogo.it/",
                             "article_links": [
@@ -15365,7 +15342,7 @@
                             "name": "UWINLOC",
                             "author": "jgp",
                             "description": "Tag your assets, reduce your delays, and optimize your stock flow with UWINLOC's innovative indoor location system, a new standard for IoT assets tracking.",
-                            "image": "",
+                            "image": "https://uwinloc.com/wp-content/uploads/2017/03/uwinloc-indoor-location-system-assets-tracking-warehouse-logistics.jpg",
                             "video": "",
                             "main_link": "https://uwinloc.com/",
                             "article_links": [
@@ -15383,7 +15360,7 @@
                             "name": "Carrefour Fruit Traceability",
                             "author": "aec",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.carrefour.it/-/media/Immagini/Corporate/rassegna-stampa/2019/blockchain.ashx",
                             "video": "",
                             "main_link": "",
                             "article_links": [
@@ -15395,7 +15372,7 @@
                             "name": "Japanese Government Sea Cucumber Traceability",
                             "author": "aec",
                             "description": "Blockchain technology – is being picked up in Japan to verify the traceability of high-end sea cucumber.",
-                            "image": "",
+                            "image": "https://divcomplatform.s3.amazonaws.com/www.seafoodsource.com/images/258a4443c09b0b7abc5a1297931c1bad.jpeg",
                             "video": "",
                             "main_link": "https://www.seafoodsource.com/news/environment-sustainability/blockchain-trialed-for-sea-cucumber-traceability-in-japan",
                             "article_links": [
@@ -15436,7 +15413,7 @@
                             "name": "Hydroponics for In-store greenhouse",
                             "author": "radar18",
                             "description": "In-store hydroponics to deliver the freshers products. Plants grow in an aquatic based environment where the nutrients are distributed through capillary action, without the use of soil.",
-                            "image": "",
+                            "image": "https://cdn.trendhunterstatic.com/thumbs/instore-farm.jpeg",
                             "video": "",
                             "prevwork": "A Study is available. An experiement was planned but it was canceled for lack of suitable partners for the envisaged use case.",
                             "prevworkurl": "To be added",
@@ -15451,7 +15428,7 @@
                             "name": "Aquaponics for In-store greenhouse",
                             "author": "radar18",
                             "description": "In-store production of greens and fish in a symbiotic environment. A symbiotic system where fishes and plants grow in a symbiotic way. The fishes share the water tank with bacteria that turn the fish waste into a rich fertilizer that is then fed to the plants.",
-                            "image": "",
+                            "image": "https://aquaponics.com/wp-content/uploads/2018/02/NP-Plant-Rafts.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -15466,7 +15443,7 @@
                             "name": "Internet of things for Smart farming",
                             "author": "radar18",
                             "description": "IoT smart farming strategies can be applied to optimize food production and provide traceability. Through smart farming it is possible to increase both the quantity and the quality of agricultural products, as wells as the intelligence of farms. Collecting massive amounts of information, from soil mapping, crop fields, weather data and more, using specialized sensors will help in having a better productivity.",
-                            "image": "",
+                            "image": "https://images.readwrite.com/wp-content/uploads/2018/03/iot-agriculture-farming-e1470365237744-825x500.png",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -15481,7 +15458,7 @@
                             "name": "Printed electronics for Disposable smart labels",
                             "author": "radar18",
                             "description": "Labels with embed sensors and/or displays can help to audit the supply chain. Electrochromic displays are printable on plastic or paper to produce smart labels. These displays use almost no power (no recharging or battery replacement). They are low weight, thin, flexible, transparent, yet robust. Can be combined with sensors (e.g. movement, temperature).",
-                            "image": "",
+                            "image": "https://images.pexels.com/photos/697059/pexels-photo-697059.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "prevwork": "A study is available. An experiment to trace the temperature of meat supply chain is being envisaged.",
                             "prevworkurl": "",
@@ -15511,7 +15488,7 @@
                             "name": "E-paper for Electronic shelf labels",
                             "author": "radar18",
                             "description": "Replace paper by e-paper based labels to save staff time, improve info accuracy, and agilize to princing politics. To create images, the display uses e-paper technology. With this tech the images are shown through e-ink, where a group of microcapsules contains tiny black or white spheres that are positioned according to the eletric charge given.",
-                            "image": "",
+                            "image": "https://static1.squarespace.com/static/53f2c502e4b03f7a2b0a9013/t/5726cba92b8dde53fd101a8c/1465351175027/epaper_electronic_shelf_labels.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -15526,7 +15503,7 @@
                             "name": "Sensors for Food quality analysis",
                             "author": "radar18",
                             "description": "Specific low cost sensors can analyse the quality of food outside labs. Innovative technologies are being developed to analyse, in shelf, the overall quality of food, including their grade of maturation (in the case of fruit), the precise molecular composition, the presence of contaminants, and others.",
-                            "image": "",
+                            "image": "https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/epic-summer-salad.jpg",
                             "video": "",
                             "prevwork": "Some devices were experimented in the past but none presented reliable results. Further study must ne done.",
                             "prevworkurl": "",
@@ -15541,7 +15518,7 @@
                             "name": "Blockchain for Food traceability",
                             "author": "radar18",
                             "description": "Track the origin and process chain of food ingredients to transparently deliver this info to customers. It's a decentralized technology that ensures data integrity adding a cryptography-based signature. When traceability data is added to a blockchain data base, it cannot be repudiated and adulterated by unauthorized entities.",
-                            "image": "",
+                            "image": "https://images.pexels.com/photos/5205/food-healthy-vegetables-potatoes.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -15573,8 +15550,9 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​"
+                    " Qualidade",
+                    " I&D",
+                    "Comercial Alimentar"
                 ],
                 "highlights": {
                     "implementation": [
@@ -15609,7 +15587,7 @@
                             "name": "Repreve",
                             "author": "tpc",
                             "description": "Recycled bottles are transformed into a fiber, used by the world's leading brands to make athletic and fashion apparel and more. The process embeds properties like wicking, adaptive warming and cooling, water repellency, and more at the fiber level. For reliable, durable quality.",
-                            "image": "/main/img/oldtechimg/Repreve.jpg",
+                            "image": "https://repreve.com/static/images/repreve-logo.svg",
                             "video": "",
                             "main_link": "https://repreve.com/",
                             "article_links": [
@@ -15629,7 +15607,7 @@
                             "name": "Sustainable materials for Textiles",
                             "author": "radar18",
                             "description": "Promote sustainable materials,  manufacturing processes, and/or waste management. More sustainable materials are based on natural fibres from consciences agriculture or by recycled or recyclable synthetic fibres. More sustainable processes consume less resources such as water and produce less waste.",
-                            "image": "",
+                            "image": "https://inhabitat.com/ecouterre/wp-content/blogs.dir/26/files/2016/03/class-cfda-lexus-eco-ecotec-537x403.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -15661,7 +15639,8 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
-                    "Comercial Alimentar"
+                    " Qualidade",
+                    " I&D"
                 ],
                 "highlights": {
                     "partner": [
@@ -15691,7 +15670,7 @@
                             "name": "Nelson and Pade, Inc.®’s ",
                             "author": "tpc",
                             "description": "Aquaponic Systems® produce higher quality fish and vegetables with increased production over other systems. The water flowing through the system is nutrient-rich, but clear, providing bio-security and food safety. The plant roots are bright white and clean and the fish are raised in fresh, clear water.",
-                            "image": "/main/img/oldtechimg/nelson.jpg",
+                            "image": "https://aquaponics.com/wp-content/themes/aquaTheme/images/nelson-and-pade-logo.jpg",
                             "video": "",
                             "main_link": "https://aquaponics.com/aquaponic-systems/",
                             "article_links": [
@@ -15709,7 +15688,7 @@
                             "name": "Infarm",
                             "author": "tpc",
                             "description": "Farms inspired by nature’s most elegant design and structures. Each is its own ecosystem that tailors light spectrums, temperature, and nutrients to ensure the maximum natural expression of each plant.",
-                            "image": "/main/img/oldtechimg/infarm.jpg",
+                            "image": "https://images.pexels.com/photos/974314/pexels-photo-974314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "main_link": "https://infarm.de/",
                             "article_links": [
@@ -15762,7 +15741,7 @@
                             "name": "Iris Monitoring",
                             "author": "tpc",
                             "description": "Iris monitoring combines IR Spectroscopy and Machine Learning to deliver a set of solution for food and beverage analysis.",
-                            "image": "",
+                            "image": "http://multisite.iris.cat/monitoring/files/2018/03/LogoMonitoring-04.png",
                             "video": "",
                             "main_link": "http://www.iris-eng.com/",
                             "article_links": [
@@ -15801,9 +15780,9 @@
                             "name": "Koalo",
                             "author": "tpc",
                             "description": "Koalo create ecosystems to grow organic food indoors. Koaloponics combines leading-edge aquaponics research with web-connected tags, sensors and controls to create a smart indoor growing system.",
-                            "image": "/main/img/oldtechimg/koala.jpg",
+                            "image": "https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/v1478003102/d6vv0zdtsfzbv8swmfio.png",
                             "video": "",
-                            "main_link": "https://www.facebook.com/pg/koaloponics/about/",
+                            "main_link": "https://www.crunchbase.com/organization/koalo",
                             "article_links": [
                                 ""
                             ],
@@ -15876,7 +15855,7 @@
                             "name": "INL - Nano4Food ",
                             "author": "tpc",
                             "description": "Nano4Food is a R&D Unit working in Nanoencapsulation technologies to food functional properties, packaging solutions to extend shelf life , personalized and printable food, and  integrated lab-on-a-chip solutions for food quality, safety and, authenticity purposes.",
-                            "image": "/main/img/oldtechimg/inl-Nano4Food.jpg",
+                            "image": "https://inl.int/life-science/wp-content/uploads/2019/02/vector_horizontal.jpg",
                             "video": "",
                             "main_link": "http://inl.int/life-science/nano-for-food/",
                             "article_links": [
@@ -15899,7 +15878,7 @@
                             "name": "Grow to green",
                             "author": "tpc",
                             "description": "Plants are grown in a multilayer indoor environment where temperature, humidity, CO2 concentration, lighting conditions and plant nutrition (via a hydroponics system) are not only monitored but also carefully controlled. With this technology, climatic or biological risks are virtually eliminated from normal plant development so you can grow better vegetables all year round.",
-                            "image": "/main/img/oldtechimg/growtogreen.jpg",
+                            "image": "http://www.growtogreen.com/bundles/app/images/logo-1.png",
                             "video": "",
                             "main_link": "http://www.growtogreen.com/",
                             "article_links": [
@@ -15934,7 +15913,7 @@
                             "name": "Pentair Aquatic Eco-System",
                             "author": "tpc",
                             "description": "Shortages of water and energy. Urban food deserts. Pollution of soils and waterways. There’s a clear need for sustainable new sources of nutritious food. Aquaponics is the future. Pentair Aquatic Eco-Systems is committed to the commercialization of systems that create the better water needed to grow healthy fish and plants.",
-                            "image": "/main/img/oldtechimg/pentair.jpg",
+                            "image": "https://pentairaes.com/skin/frontend/gyro2015/responsive/assets/img/pentair.svg",
                             "video": "",
                             "main_link": "http://pentairaes.com/commercial-solutions/commercial-aquaponics",
                             "article_links": [
@@ -15975,7 +15954,7 @@
                             "name": "Tellspec",
                             "author": "tpc",
                             "description": "Tellspec Food Sensor is able to scan food at a molecular level, identify calories, macronutrients, allergens, and also provide relevant information such as food fraud, food adulteration and food quality.",
-                            "image": "/main/img/oldtechimg/Tellspec.jpg",
+                            "image": "https://images.pexels.com/photos/533360/pexels-photo-533360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "main_link": "http://tellspec.com/en/",
                             "article_links": [
@@ -16044,7 +16023,7 @@
                             "name": "FRCFT",
                             "author": "tpc",
                             "description": "UCD Food Refrigeration & Computerised Food Technology (FRCFT) is an internationally recognized centre of excellence for food engineering research and education. FRCFT developed an hyperspectral imaging non-destructive method applied to food (e.g. meat, fruits, vegetables, fish) for sample classification and grading, defect and disease detection, distribution visualization of chemical attributes in chemical images, and evaluations of overall quality.",
-                            "image": "/main/img/oldtechimg/Spectralimaging.jpg",
+                            "image": "http://www.ucd.ie/refrig/t4media/REFRIG_vegetables-frying-pan-greens.jpg",
                             "video": "",
                             "main_link": "http://www.ucd.ie/refrig/",
                             "article_links": [
@@ -16195,7 +16174,7 @@
                             "name": "Hydroponics for In-store greenhouse",
                             "author": "radar18",
                             "description": "In-store hydroponics to deliver the freshers products. Plants grow in an aquatic based environment where the nutrients are distributed through capillary action, without the use of soil.",
-                            "image": "",
+                            "image": "https://cdn.trendhunterstatic.com/thumbs/instore-farm.jpeg",
                             "video": "",
                             "prevwork": "A Study is available. An experiement was planned but it was canceled for lack of suitable partners for the envisaged use case.",
                             "prevworkurl": "To be added",
@@ -16210,7 +16189,7 @@
                             "name": "Aquaponics for In-store greenhouse",
                             "author": "radar18",
                             "description": "In-store production of greens and fish in a symbiotic environment. A symbiotic system where fishes and plants grow in a symbiotic way. The fishes share the water tank with bacteria that turn the fish waste into a rich fertilizer that is then fed to the plants.",
-                            "image": "",
+                            "image": "https://aquaponics.com/wp-content/uploads/2018/02/NP-Plant-Rafts.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -16240,7 +16219,7 @@
                             "name": "E-paper for Electronic shelf labels",
                             "author": "radar18",
                             "description": "Replace paper by e-paper based labels to save staff time, improve info accuracy, and agilize to princing politics. To create images, the display uses e-paper technology. With this tech the images are shown through e-ink, where a group of microcapsules contains tiny black or white spheres that are positioned according to the eletric charge given.",
-                            "image": "",
+                            "image": "https://static1.squarespace.com/static/53f2c502e4b03f7a2b0a9013/t/5726cba92b8dde53fd101a8c/1465351175027/epaper_electronic_shelf_labels.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -16255,7 +16234,7 @@
                             "name": "Sensors for Food quality analysis",
                             "author": "radar18",
                             "description": "Specific low cost sensors can analyse the quality of food outside labs. Innovative technologies are being developed to analyse, in shelf, the overall quality of food, including their grade of maturation (in the case of fruit), the precise molecular composition, the presence of contaminants, and others.",
-                            "image": "",
+                            "image": "https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/epic-summer-salad.jpg",
                             "video": "",
                             "prevwork": "Some devices were experimented in the past but none presented reliable results. Further study must ne done.",
                             "prevworkurl": "",
@@ -16298,7 +16277,7 @@
                             "name": "menunfc",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.menunfc.com/wp-content/uploads/2018/10/telefono@2x.svg",
                             "video": "",
                             "main_link": "https://www.menunfc.com/",
                             "article_links": [
@@ -16314,7 +16293,7 @@
                             "name": "Unbabel",
                             "author": "jgp",
                             "description": "Delight your customers, build stronger teams, scale your business — with our translation solutions, you can do what you do best, better.",
-                            "image": "https://unbabel.com/img/social-unbabel.jpg",
+                            "image": "https://unbabel.com/img/homepage/hero-savings-720.png",
                             "video": "",
                             "main_link": "https://unbabel.com/",
                             "article_links": [
@@ -16332,7 +16311,7 @@
                             "name": "Lincoln hospital to open new multi-faith prayer room",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://i0.wp.com/thelincolnite.co.uk/wp-content/uploads/2019/01/Lincoln-Hospital-2.jpg?resize=900%2C495&ssl=1",
                             "video": "",
                             "main_link": "https://thelincolnite.co.uk/2019/03/lincoln-hospital-to-open-new-multi-faith-prayer-room/",
                             "article_links": [
@@ -16344,7 +16323,7 @@
                             "name": "New multi-faith prayer room opens at Boro's Riverside Stadium",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://i2-prod.gazettelive.co.uk/incoming/article15873741.ece/ALTERNATES/s810/0_KLP_MGA_200219mgaPrayer_07JPG.jpg",
                             "video": "",
                             "main_link": "https://www.gazettelive.co.uk/news/teesside-news/new-multi-faith-prayer-room-15873789",
                             "article_links": [
@@ -16356,7 +16335,7 @@
                             "name": "How catering to ethnic populations can spice up shopping and profits",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.grocerydive.com/user_media/cache/b1/79/b179a34d1f195b43103ca1f594325418.jpg",
                             "video": "",
                             "main_link": "https://www.grocerydive.com/news/grocery--ethnic-shopper-grocery-needs/535501/",
                             "article_links": [
@@ -16368,11 +16347,23 @@
                             "name": "FRESH FOODS AND FLAVORS: HOW MULTICULTURAL CONSUMERS ARE DRIVING FRESH GROCERY TRENDS",
                             "author": "jgp",
                             "description": "",
-                            "image": "",
+                            "image": "https://www.nielsen.com/content/dam/nielsenglobal/us/images/n-tab.png",
                             "video": "",
                             "main_link": "https://www.nielsen.com/us/en/insights/news/2016/fresh-foods-and-flavors-how-multicultural-consumers-are-driving-fresh-grocery-trends.html",
                             "article_links": [
                                 ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP183",
+                            "name": "Supermarket quiet hours: creating an inclusive shopping experience for everyone",
+                            "author": "jgp",
+                            "description": "",
+                            "image": "https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F847067%252F995c27df-12fb-4cba-b2bc-59235461a038.jpg%252F950x534__filters%253Aquality%252890%2529.jpg?signature=127DmNBGJdzDipgpMWWAnPtN-6M=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com",
+                            "video": "https://www.youtube.com/watch?v=-DeNwvtVRa0",
+                            "main_link": "https://livability.org.uk/celebrate-disability-day-take-look-one-supermarkets-scheme-create-inclusive-shopping-experience/",
+                            "article_links": [
+                                "https://www.youtube.com/watch?v=-DeNwvtVRa0"
                             ]
                         }
                     ]
@@ -16753,10 +16744,6 @@
                     "Aging Workforce"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​",
-                    "Wholesale​",
                     "Logística & Centros Fabrico​",
                     "BIT​",
                     "Inovação​",
@@ -16764,13 +16751,13 @@
                     "Marketing",
                     " Cartão & Client​",
                     "Digital​",
-                    " Proteção Ativos​",
+                    "Proteção Ativos​",
                     "Auditoria & Gestão de Procedimentos​",
                     "RH​",
                     " Sustentabilidade​",
                     "Risk​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     "Serviços Partilhados​",
                     "PCG & BI​",
@@ -16816,10 +16803,6 @@
                     "Corporate Campuses"
                 ],
                 "filterlists": [
-                    "Clube de Produtores",
-                    "Comercial Alimentar",
-                    "Espaço e Conceção Loja​",
-                    "Wholesale​",
                     "Logística & Centros Fabrico​",
                     "BIT​",
                     "Inovação​",
@@ -16827,13 +16810,13 @@
                     "Marketing",
                     " Cartão & Client​",
                     "Digital​",
-                    " Proteção Ativos​",
+                    "Proteção Ativos​",
                     "Auditoria & Gestão de Procedimentos​",
                     "RH​",
                     " Sustentabilidade​",
                     "Risk​",
                     " Comercial Não Alimentar​",
-                    "Ecommerce & Mobile​",
+                    "Ecommerce",
                     "Health & Wellness​",
                     "Serviços Partilhados​",
                     "PCG & BI​",
@@ -16923,7 +16906,6 @@
                     "Genderless / Gender Neutral"
                 ],
                 "filterlists": [
-                    "Comercial Alimentar",
                     "Espaço e Conceção Loja​"
                 ],
                 "highlights": {
@@ -16962,6 +16944,8 @@
                 ],
                 "filterlists": [
                     "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar"
                 ],
                 "highlights": {
@@ -17054,7 +17038,7 @@
                     "Animal Rights"
                 ],
                 "filterlists": [
-                    "Espaço e Conceção Loja​"
+                    ""
                 ],
                 "highlights": {
                     "implementation": [
@@ -17115,7 +17099,7 @@
                     "Lifecasting"
                 ],
                 "filterlists": [
-                    "Comercial Alimentar"
+                    ""
                 ],
                 "highlights": {
                     "technology": [
@@ -17209,6 +17193,18 @@
                             "article_links": [
                                 ""
                             ]
+                        },
+                        {
+                            "uid": "IMP184",
+                            "name": "Instagram’s New Shopping Tool Will Likely Be a Boon for Influencers",
+                            "author": "jgp",
+                            "description": "",
+                            "image": "https://www.adweek.com/wp-content/uploads/2019/04/ig-shopping-CONTENT-2019-640x360.jpg",
+                            "video": "",
+                            "main_link": "https://www.adweek.com/digital/instagrams-new-shopping-tool-will-likely-be-a-boon-for-influencers/amp/?__twitter_impression=true",
+                            "article_links": [
+                                ""
+                            ]
                         }
                     ]
                 }
@@ -17231,7 +17227,6 @@
                     "Lifecasting"
                 ],
                 "filterlists": [
-                    "Comercial Alimentar",
                     "Espaço e Conceção Loja​"
                 ]
             }
@@ -17740,7 +17735,6 @@
                     "Fear Of Missing Out"
                 ],
                 "filterlists": [
-                    "Comercial Alimentar",
                     "Espaço e Conceção Loja​"
                 ],
                 "highlights": {
@@ -17837,7 +17831,7 @@
                     "Instant Written Customer Service"
                 ],
                 "filterlists": [
-                    "Espaço e Conceção Loja​"
+                    ""
                 ],
                 "highlights": {
                     "implementation": [
@@ -18007,7 +18001,7 @@
                     "Authentic People"
                 ],
                 "filterlists": [
-                    "Espaço e Conceção Loja​"
+                    ""
                 ],
                 "highlights": {
                     "implementation": [
@@ -18121,7 +18115,7 @@
                     "Authentic People"
                 ],
                 "filterlists": [
-                    "Espaço e Conceção Loja​"
+                    ""
                 ],
                 "highlights": {
                     "implementation": [
