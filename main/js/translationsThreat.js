@@ -3,7 +3,7 @@ const translations = {
         "titles": ["Behavioral Microtrends shaping the future"],
 
         "intro_welcome": "Welcome to",
-        "intro_sonae": "Sonae Innovation Department's",
+        "intro_sonae": "Sonae MC Innovation Department's",
         "intro_title": "2019 Trend Radar",
         "intro_subtext": "This interactive experience will allow you to explore 9 Megatrends that are shaping the future of retail. Each of those, derives into a total of 41 Microtrends that were selected according to a relevance criterion, specifically tailored to address Sonae MC’s upcoming main challenges and opportunities. From the latter, we compiled a set of relevant applications relevant to Sonae MC's upcoming challenges and opportunities, all with the next 3-to-5 year cycle in mind. Each application will provide information on Implementations leading the charge, Enabling Technologies one should study for such a project (fed from 2018’s Tech Radar) and Enabling Partners we can venture with for open innovation to accelerate our improvement. Shall we start?",
         "intro_info": "<a id=\"intro-legend\">More info</a> on how to use this interface",
