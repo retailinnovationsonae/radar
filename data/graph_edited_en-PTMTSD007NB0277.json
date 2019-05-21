@@ -1,7 +1,7 @@
 {
     "meta": {
         "language": "en",
-        "generated": "2019-05-21T11:22:05.554Z"
+        "generated": "2019-05-02T09:58:37.216Z"
     },
     "nodes": {
         "vocabulary_ich_1265": {
@@ -119,7 +119,7 @@
                     "small": "https://images.pexels.com/photos/1111368/pexels-photo-1111368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                     "large": "https://images.pexels.com/photos/1111368/pexels-photo-1111368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
-                "description": "Customer experience is 24/7. Through chat platforms such as Whatsapp or Instagram Direct, people can easily get in touch with anyone, anywhere, and they are used to instant answers to any query. “If you can take my money 24 hours a day, you should be available to answer my questions, too.” ",
+                "description": "Customer experience has a 24/7 frequency, nowadays. Through chat platforms such as Whatsapp or Instagram Direct, people can easily get in touch with anyone, anywhere, and they want instant answers to any query. “If you can take my money 24 hours a day, you should be available to answer my questions, too.” ",
                 "list": "microtrends-list",
                 "year": "Seamlessness/Ease",
                 "multinational": false,
@@ -225,7 +225,7 @@
                     "small": "https://images.pexels.com/photos/1796281/pexels-photo-1796281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                     "large": "https://images.pexels.com/photos/1796281/pexels-photo-1796281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
-                "description": "There’s an increasing saturation over the massification of artificially fabricated lifestyles projected by TV, Facebook, and Instagram accounts. Many are sick of superficial treatment and fleeting connections, they crave authenticity and real-human connections. ",
+                "description": "There’s an increasing saturation over the massification of artificially fabricated lifestyles projected by TV, Facebook, and Instagram accounts. People are craving for authenticity and real-human connections. ",
                 "list": "microtrends-list",
                 "year": "Authenticity/Disconnection",
                 "multinational": false,
@@ -440,7 +440,7 @@
                     "small": "https://images.pexels.com/photos/128421/pexels-photo-128421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                     "large": "https://images.pexels.com/photos/128421/pexels-photo-128421.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
-                "description": "Less than a quarter of the food that is wasted in the US, UK and Europe could feed the one billion hungry people all around the world. With an estimation of 1.3 billion tonnes of food being wasted every year, people are looking at this topic with particular concern and expect the companies where they spend their money to tackle this issue.",
+                "description": "Less than a quarter of the food that is wasted in the US, UK and Europe could feed the one billion hungry people all around the world. With an estimation of 1.3 billion tonnes of food being wasted every year, people are looking for this topic with particular concern and expect the companies where they spend their money to tackle this issue.",
                 "list": "microtrends-list",
                 "year": "Sustainability",
                 "multinational": false,
@@ -655,8 +655,7 @@
             "threat_categories": [
                 "vocabulary_ich_1268",
                 "vocabulary_ich_1287",
-                "vocabulary_ich_1269",
-                "vocabulary_ich_1286"
+                "vocabulary_ich_1269"
             ],
             "meta": {
                 "icon": {
@@ -681,16 +680,16 @@
             "type": "element",
             "label": "Corporate Campuses",
             "threat_categories": [
-                "vocabulary_ich_1287",
                 "vocabulary_ich_1284",
-                "vocabulary_ich_1269"
+                "vocabulary_ich_1269",
+                "vocabulary_ich_1286"
             ],
             "meta": {
                 "icon": {
                     "small": "https://images.pexels.com/photos/34092/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                     "large": "https://images.pexels.com/photos/34092/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
-                "description": "Just like our homes need to be designed to address most of our needs, our offices must also be fully equipped to guarantee the work-life balance that we so much crave for nowadays. With that in mind, companies are beginning to re-think the isolated corporate campus model in favor of designs that attempt to create lively neighborhoods where all the employees can fulfil both their professional and personal needs and desires.",
+                "description": "",
                 "list": "microtrends-list",
                 "year": "Corporate Responsibility",
                 "multinational": false,
@@ -742,7 +741,7 @@
                     "small": "https://images.pexels.com/photos/1167192/pexels-photo-1167192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                     "large": "https://images.pexels.com/photos/1167192/pexels-photo-1167192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
-                "description": "Due to a variety of different factors, tourism today is more widespread than ever, and its prevalence increases by the year. This is true not only for net volume of travellers, but also variety of destinations and especially origins. As our world is experiencing the longest period of global peace in human history, and technology allows us to be a plane ride away from nearly every inch of land in our globe, nearly every culture is venturing outside its home.\r\nSocio-economic progress, of course, closely follows tourism development.\r\nThe UNWTO estimates the business volume of tourism globally to equal or exceed that of oil exports, automobiles or food products. It is no wonder then, that this trend embodies a great deal of opportunities for businesses to cash-in on travellers who are more than willing to spend an extra coin to improve the experience they are keen to live.",
+                "description": "",
                 "list": "microtrends-list",
                 "year": "Experiences",
                 "multinational": false,
@@ -955,7 +954,7 @@
                     "small": "https://images.pexels.com/photos/949590/pexels-photo-949590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                     "large": "https://images.pexels.com/photos/949590/pexels-photo-949590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
-                "description": "Today we are witnessing the democratization of luxury as middlemarket consumers are selectively trading up to higher levels of quality, taste, and aspiration.",
+                "description": "",
                 "list": "microtrends-list",
                 "year": "Informed People",
                 "multinational": false,
@@ -1086,7 +1085,7 @@
                     "small": "https://images.pexels.com/photos/41219/apple-diet-face-food-41219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                     "large": "https://images.pexels.com/photos/41219/apple-diet-face-food-41219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                 },
-                "description": "Too much choice can be as harmful as no choice at all: just think of the time you spend trying to choose what to watch on Netflix. AI and Data mining are helping customers making some sense of the chaos with shopping list recommendations or customized campaigns.\r\nFor the keen-eyed manager, there are many unexplored opportunities to address in helping those customers who couldn't care less if they go for the 3-ply perfumed compact or the 4-ply extra-comfort toilet paper.",
+                "description": "Too much choice can be as harmful as no choice at all: just think of the time you spend trying to choose what to watch on Netflix. AI and Data mining are helping customers making some sense of the chaos with shopping list recommendations or customized campaigns. ",
                 "list": "microtrends-list",
                 "year": "Seamlessness/Ease",
                 "multinational": false,
@@ -1239,10 +1238,10 @@
                             "uid": "IMP139",
                             "name": "Thumbtack",
                             "author": "jgp",
-                            "description": "Find local professionals for pretty much anything.",
-                            "image": "https://media.licdn.com/dms/image/C4E0BAQEvA0PTZseESQ/company-logo_400_400/0?e=1566432000&v=beta&t=R3g_op92komu2mcob46lejNWlFkHJAQKJzxD0nSosVg",
+                            "description": "Through a partnership with the National Domestic Workers Alliance, which developed a portable benefits platform for home cleaners last year, Thumbtack will help thousands get access to paid time off and disability leave.\n",
+                            "image": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/02/p-1-90308307-thumbtack-wants-gig-economy-cleaners-to-get-benefits.jpg",
                             "video": "",
-                            "main_link": "https://www.thumbtack.com/",
+                            "main_link": "https://www.fastcompany.com/90308307/gig-economy-platform-thumbtack-is-helping-its-users-get-benefits",
                             "article_links": [
                                 ""
                             ]
@@ -1253,28 +1252,12 @@
                             "uid": "PRT079",
                             "name": "Forge",
                             "author": "jgp",
-                            "description": "Forge is a platform that provides on-demand staffing for the services and distribution industries. ",
-                            "image": "https://media.licdn.com/dms/image/C510BAQG3PkuXR8LVSA/company-logo_400_400/0?e=1566432000&v=beta&t=11exHug5MqvpbkfPVw-JEUNC7T2Z4eoCUx08h4wzc1c",
+                            "description": "",
+                            "image": "",
                             "video": "",
                             "main_link": "https://www.joinforge.com/",
                             "article_links": [
                                 "https://www.forbes.com/sites/theyec/2019/01/24/how-the-sharing-economy-is-shaping-the-future-of-retail/#1f5dab1f17bc"
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "PRT158",
-                            "name": "Task Rabbit",
-                            "author": "tpc",
-                            "description": "",
-                            "image": "https://i0.wp.com/blog.taskrabbit.com/wp-content/uploads/2018/02/lv-room.jpg?zoom=1.25&resize=640%2C320&ssl=1",
-                            "video": "",
-                            "main_link": "https://www.taskrabbit.com/",
-                            "article_links": [
-                                ""
                             ],
                             "sonar_link": "",
                             "related_highlights": [
@@ -1294,7 +1277,7 @@
                     "small": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png",
                     "large": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png"
                 },
-                "description": "With the blossom of the Sharing Economy, people are increasingly looking for platforms to let them optimize the lifecycle of their products while getting a benefit from that.",
+                "description": "One man's trash is another man's treasure. With the blossom of the Sharing Economy, people are increasingly looking for platforms to let them optimize the lifecycle of their products while getting a benefit from that.",
                 "list": "Trend Application",
                 "year": "Sustainability",
                 "multinational": false,
@@ -1315,8 +1298,8 @@
                             "uid": "PRT078",
                             "name": "twoosk",
                             "author": "jgp",
-                            "description": "We are a marketplace that aims to be the worlds’ reference for matching opportunities in B2B. ",
-                            "image": "https://media.licdn.com/dms/image/C560BAQHGNWHfJ64ANQ/company-logo_400_400/0?e=1566432000&v=beta&t=ziNmHYsPr_KJlouGQ1AHx7AkC3tGrXEM-zk3dLAb_-0",
+                            "description": "Esta descrição é falsa.",
+                            "image": "",
                             "video": "",
                             "main_link": "https://www.twoosk.com/page/about-us",
                             "article_links": [
@@ -1709,7 +1692,7 @@
                             "video": "",
                             "main_link": "https://www.apple.com/today/",
                             "article_links": [
-                                "https://www.youtube.com/watch?v=LPHqHhaP8rE"
+                                ""
                             ]
                         },
                         {
@@ -1725,18 +1708,6 @@
                             ]
                         },
                         {
-                            "uid": "IMP182",
-                            "name": "WORTEN E CANON VOLTAM A APOSTAR NA FOTOGRAFIA DE DESPORTO MOTORIZADO",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "http://www.velocidadeonline.co.pt/image/news/20452/112061.jpg",
-                            "video": "",
-                            "main_link": "http://www.velocidadeonline.co.pt/index.php?p=news&cat=5&sub=44&news=20452",
-                            "article_links": [
-                                ""
-                            ]
-                        },
-                        {
                             "uid": "IMP181",
                             "name": "Leroy Merlin - \"Workshops da casa\"",
                             "author": "jgp",
@@ -1744,6 +1715,18 @@
                             "image": "https://www.leroymerlin.com.br/assets/img/front_end/default/top/logo-leroy-merlin.png",
                             "video": "",
                             "main_link": "http://www.leroymerlin.pt/Site/Passatempo/Workshops-da-Casa.aspx",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP182",
+                            "name": "WORTEN E CANON VOLTAM A APOSTAR NA FOTOGRAFIA DE DESPORTO MOTORIZADO",
+                            "author": "jgp",
+                            "description": "",
+                            "image": "http://www.velocidadeonline.co.pt/image/news/20452/112061.jpg",
+                            "video": "",
+                            "main_link": "http://www.velocidadeonline.co.pt/index.php?p=news&cat=5&sub=44&news=20452",
                             "article_links": [
                                 ""
                             ]
@@ -1839,7 +1822,7 @@
                             "name": "SmartWindow",
                             "author": "tpc",
                             "description": "SmartWindow controls inside systems, such as ventilation and sun blinds, based on information about the outside conditions around the building. Simultaneously these systems are powered by patented integrated solar technology, making energy consumption go down, while the sustainable electricity production of the building goes up.",
-                            "image": "https://wp.physee.eu/wp-content/uploads/2018/08/Home-e1534845282140.jpg",
+                            "image": "/main/img/oldtechimg/physee.jpg",
                             "video": "",
                             "main_link": "http://www.physee.eu/",
                             "article_links": [
@@ -1945,14 +1928,14 @@
                                 "https://www.wired.co.uk/article/energy-agrivoltaic-farms"
                             ],
                             "recommendation": "watch",
-                            "impact": "low"
+                            "impact": "medium"
                         },
                         {
                             "uid": "TECH81",
                             "name": "Solar Paint",
                             "author": "tpc",
                             "description": "The scientists developed a new compound that sucks water vapor from the air. The new material also acts as a semiconductor and water-splitting catalyst, meaning that it takes water molecules and separates them into oxygen and hydrogen, a clean fuel source.",
-                            "image": "https://cdn.vox-cdn.com/thumbor/B5J4Vqb4Y8D1bGt1Nn6mytUpvcQ=/0x308:5008x3125/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/55327195/shutterstock_513242902.0.jpg",
+                            "image": "/main/img/oldtechimg/solar paint.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -2039,7 +2022,7 @@
                             "name": "Powerwall",
                             "author": "tpc",
                             "description": "During the day, solar panels may produce more energy than your home uses. Powerwall stores that excess solar energy and makes it available on demand, even after the sun has set. Through the Tesla app, full visibility into the self-powered home can be achieved.",
-                            "image": "https://www.tesla.com/sites/default/files/images/marketing/powerwall-social.jpg",
+                            "image": "/main/img/oldtechimg/powerwall.jpg",
                             "video": "",
                             "main_link": "https://www.tesla.com/powerwall",
                             "article_links": [
@@ -2079,7 +2062,7 @@
                             "name": "SmartWindow",
                             "author": "tpc",
                             "description": "SmartWindow controls inside systems, such as ventilation and sun blinds, based on information about the outside conditions around the building. Simultaneously these systems are powered by patented integrated solar technology, making energy consumption go down, while the sustainable electricity production of the building goes up.",
-                            "image": "https://wp.physee.eu/wp-content/uploads/2018/08/Home-e1534845282140.jpg",
+                            "image": "/main/img/oldtechimg/physee.jpg",
                             "video": "",
                             "main_link": "http://www.physee.eu/",
                             "article_links": [
@@ -2166,7 +2149,7 @@
                             "name": "XPrize",
                             "author": "tpc",
                             "description": "The Water Abundance XPRIZE is a competition, challenging teams to create energy-efficient technologies that harvest fresh water from thin air. Teams will revolutionize access to fresh water by creating a device that extracts a minimum of 2,000 liters of water per day from the atmosphere using renewable energy, at a cost of no more than 2 cents per liter.",
-                            "image": "https://assets-us-01.kc-usercontent.com:443/5cb25086-82d2-4c89-94f0-8450813a0fd3/4ab8a89e-ce98-41ae-a7a0-c393be7ec5d5/waxp_logo2.png",
+                            "image": "/main/img/oldtechimg/xprize.jpg",
                             "video": "",
                             "main_link": "https://water.xprize.org/",
                             "article_links": [
@@ -2228,7 +2211,7 @@
                             "name": "Low-E Glass",
                             "author": "tpc",
                             "description": "Low-emissivity glass (or low-e glass as it is commonly referred to) is a type of energy-efficient glass designed to prevent heat escaping through the windows to the cold outdoors. Low-e glass has an invisible coating which dramatically reduces heat transfer and reflects interior heat back into the room.",
-                            "image": "?w=1200",
+                            "image": "/main/img/oldtechimg/low e glass.jpg",
                             "video": "",
                             "main_link": "https://www.pilkington.com/en-gb/uk/householders/types-of-glass/energy-efficient-glass/low-emissivity-glass",
                             "article_links": [
@@ -2246,7 +2229,7 @@
                             "name": "SmartWindow",
                             "author": "tpc",
                             "description": "SmartWindow controls inside systems, such as ventilation and sun blinds, based on information about the outside conditions around the building. Simultaneously these systems are powered by patented integrated solar technology, making energy consumption go down, while the sustainable electricity production of the building goes up.",
-                            "image": "https://wp.physee.eu/wp-content/uploads/2018/08/Home-e1534845282140.jpg",
+                            "image": "/main/img/oldtechimg/physee.jpg",
                             "video": "",
                             "main_link": "http://www.physee.eu/",
                             "article_links": [
@@ -2452,7 +2435,7 @@
                     "small": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png",
                     "large": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png"
                 },
-                "description": "One man's trash is another man's treasure. The ability to add value to waste may not be a nice-to-have extravaganza any longer: it is probably our only hope.",
+                "description": "",
                 "list": "Trend Application",
                 "year": "Sustainability",
                 "multinational": false,
@@ -2460,7 +2443,9 @@
                     "Zero Waste"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D",
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     " Sustentabilidade​",
                     " Comercial Não Alimentar​",
                     " Maxmat​"
@@ -2566,7 +2551,7 @@
                             "name": "Frulact",
                             "author": "jgp",
                             "description": "",
-                            "image": "https://images.pexels.com/photos/616839/pexels-photo-616839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+                            "image": "",
                             "video": "",
                             "main_link": "https://frulact.com/",
                             "article_links": [
@@ -2607,7 +2592,7 @@
                     "small": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png",
                     "large": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png"
                 },
-                "description": "Learning and enabling the processes to boost the value of waste is of paramount importance. But so is the need to try to stop creating waste. And the best way to do it, is by gathering all the conditions to increase the products' life cycle.",
+                "description": "From influencers that show how to live with zero waste to companies that commit to similar goals, garbage is no longer regarded as disposable but as something that is worthwhile taking a second appreciation. ",
                 "list": "Trend Application",
                 "year": "Sustainability",
                 "multinational": false,
@@ -2615,7 +2600,9 @@
                     "Zero Waste"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D",
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     " Sustentabilidade​",
                     " Comercial Não Alimentar​"
                 ],
@@ -2940,13 +2927,13 @@
                             "description": "Bio-materials provide special characteristics to plastics. Innovative advanced materials are continuously in development. Those materials are derived from renewable biomass sources, such as vegetable fats and oils, corn starch, or microbiota. Most of bioplastics are biodegradable, which that under the right conditions the microbes in the environment can break down the material and use it as a food source.",
                             "image": "https://www.smitherspira.com/SmithersPira/media/Examples/The-Future-of-Bioplastics-for-Packaging-to-2023_3.jpg",
                             "video": "",
-                            "prevwork": "A study is available with a list of technologies that can be used. Further study about the most disruptive technologies is still missing.",
-                            "prevworkurl": "https://sonaesystems.sharepoint.com/sites/SHIFT/SitePages/XRays/sustainable_materials_packaging.aspx",
+                            "prevwork": "A study is available with a list of technologies that can be used. Further study about the most disruptive.",
+                            "prevworkurl": "To be added",
                             "externalurls": [
                                 ""
                             ],
                             "recommendation": "study",
-                            "impact": "high"
+                            "impact": "low"
                         },
                         {
                             "uid": "TECH66",
@@ -3291,13 +3278,13 @@
                             "description": "Bio-materials provide special characteristics to plastics. Innovative advanced materials are continuously in development. Those materials are derived from renewable biomass sources, such as vegetable fats and oils, corn starch, or microbiota. Most of bioplastics are biodegradable, which that under the right conditions the microbes in the environment can break down the material and use it as a food source.",
                             "image": "https://www.smitherspira.com/SmithersPira/media/Examples/The-Future-of-Bioplastics-for-Packaging-to-2023_3.jpg",
                             "video": "",
-                            "prevwork": "A study is available with a list of technologies that can be used. Further study about the most disruptive technologies is still missing.",
-                            "prevworkurl": "https://sonaesystems.sharepoint.com/sites/SHIFT/SitePages/XRays/sustainable_materials_packaging.aspx",
+                            "prevwork": "A study is available with a list of technologies that can be used. Further study about the most disruptive.",
+                            "prevworkurl": "To be added",
                             "externalurls": [
                                 ""
                             ],
                             "recommendation": "study",
-                            "impact": "high"
+                            "impact": "low"
                         },
                         {
                             "uid": "TECH89",
@@ -3307,9 +3294,9 @@
                             "image": "https://www.kunststoffe.de/en/_storage/asset/4825988/storage/chv-zoom/file/34841439/16731297.jpg,https://www.organicgardener.com.au/sites/default/files/styles/620x/public/images/blogs/Unknown-1_0.png,https://www.eufic.org/images/uploads/food-safety/_euthumb/YPACK-green.png",
                             "video": "",
                             "prevwork": "YPACK is an EU-funded project with a total duration of 36 months. SONAE MC is partner of YPACK. The project aims to scale up and validate two innovative food packaging solutions based on polyhydroxyalkanoates (PHA) with active properties and passive barrier to reduce food waste by prolonging food shelf life: a fully renewable flow pack film and fully compostable tray.",
-                            "prevworkurl": "https://www.ypack.eu/",
+                            "prevworkurl": "To be added",
                             "externalurls": [
-                                ""
+                                "https://www.ypack.eu/"
                             ],
                             "recommendation": "experiment",
                             "impact": "low"
@@ -3494,13 +3481,13 @@
                             "description": "Bio-materials provide special characteristics to plastics. Innovative advanced materials are continuously in development. Those materials are derived from renewable biomass sources, such as vegetable fats and oils, corn starch, or microbiota. Most of bioplastics are biodegradable, which that under the right conditions the microbes in the environment can break down the material and use it as a food source.",
                             "image": "https://www.smitherspira.com/SmithersPira/media/Examples/The-Future-of-Bioplastics-for-Packaging-to-2023_3.jpg",
                             "video": "",
-                            "prevwork": "A study is available with a list of technologies that can be used. Further study about the most disruptive technologies is still missing.",
-                            "prevworkurl": "https://sonaesystems.sharepoint.com/sites/SHIFT/SitePages/XRays/sustainable_materials_packaging.aspx",
+                            "prevwork": "A study is available with a list of technologies that can be used. Further study about the most disruptive.",
+                            "prevworkurl": "To be added",
                             "externalurls": [
                                 ""
                             ],
                             "recommendation": "study",
-                            "impact": "high"
+                            "impact": "low"
                         }
                     ],
                     "implementation": [
@@ -3594,7 +3581,7 @@
                     "small": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png",
                     "large": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png"
                 },
-                "description": "By educating people and improving the separation, recycling may become a business-savvy decision by giving birth to new products.",
+                "description": "Recycling has been around for at least a decade, however the outputs made with recyclated materials are still scarce. By educating people and improving the separation, recycling may increase it's value, giving birth to new products.",
                 "list": "Trend Application",
                 "year": "Sustainability",
                 "multinational": false,
@@ -3626,7 +3613,7 @@
                             "name": "Reciclaya",
                             "author": "jgp",
                             "description": "",
-                            "image": "https://www.storemagazine.pt/media/k2/items/cache/41f613839a34208738516970b956ff38_XL.jpg",
+                            "image": "",
                             "video": "",
                             "main_link": "https://www.storemagazine.pt/tecnologia/item/3830-reciclaya-%C3%A9-a-nova-app-do-carrefour-em-palma-de-maiorca.html?utm_source=dlvr.it&utm_medium=twitter",
                             "article_links": [
@@ -3713,7 +3700,7 @@
                     "small": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png",
                     "large": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png"
                 },
-                "description": "With the war on plastic coming to its peak, it's more relevant than ever to rethink the way we shop and, most importantly, the way we sell. More and more consumers are craving for the opportunity to reuse their personal containers in order to help saving the planet. ",
+                "description": "The awareness to the plastic residues problem is forcing some action into rethinking the end-of-life of products, namely their packages. A solution passes through refilling ou separating more thoroughly and sending back to producer in order to reuse packages. Packaging (and in particular, grocery packaging) is being implemented in parallel to plastic alternatives and should become increasingly relevant with the progression of e-commerce over brick-and-mortar retail. The holy grail in this field is, of course, the grocery bag, which promises to revolutionise the industry as soon as a no-compromise solution comes.",
                 "list": "Trend Application",
                 "year": "Sustainability",
                 "multinational": false,
@@ -3725,7 +3712,7 @@
                 "filterlists": [
                     "Comercial Alimentar",
                     "Espaço e Conceção Loja​",
-                    "Meu Super",
+                    "Wholesale​",
                     "Logística & Centros Fabrico​",
                     "Operações​",
                     "Marketing",
@@ -3862,13 +3849,13 @@
                             "description": "Bio-materials provide special characteristics to plastics. Innovative advanced materials are continuously in development. Those materials are derived from renewable biomass sources, such as vegetable fats and oils, corn starch, or microbiota. Most of bioplastics are biodegradable, which that under the right conditions the microbes in the environment can break down the material and use it as a food source.",
                             "image": "https://www.smitherspira.com/SmithersPira/media/Examples/The-Future-of-Bioplastics-for-Packaging-to-2023_3.jpg",
                             "video": "",
-                            "prevwork": "A study is available with a list of technologies that can be used. Further study about the most disruptive technologies is still missing.",
-                            "prevworkurl": "https://sonaesystems.sharepoint.com/sites/SHIFT/SitePages/XRays/sustainable_materials_packaging.aspx",
+                            "prevwork": "A study is available with a list of technologies that can be used. Further study about the most disruptive.",
+                            "prevworkurl": "To be added",
                             "externalurls": [
                                 ""
                             ],
                             "recommendation": "study",
-                            "impact": "high"
+                            "impact": "low"
                         }
                     ]
                 }
@@ -3891,7 +3878,9 @@
                     "Bulk Foods"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D",
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Espaço e Conceção Loja​",
                     "Logística & Centros Fabrico​",
                     "Operações​",
@@ -3966,7 +3955,7 @@
                 "filterlists": [
                     "Comercial Alimentar",
                     "Espaço e Conceção Loja​",
-                    "Meu Super",
+                    "Wholesale​",
                     "Operações​",
                     "Marketing",
                     " Cartão & Client​",
@@ -4405,7 +4394,7 @@
                             "uid": "TECH73",
                             "name": "Artificial intelligence for Chatbots",
                             "author": "radar18",
-                            "description": "Chatbots allow us to get personalized information instantly. Chatbots are about delivering convenience, personalization, and decision support while people are multitasking. Either for customers on the go, to enable call center operators to get valuable information on-the-fly about the requirements of the multiple customers they are chatting with, or for sales associates to instantly access details about products and customers while assisting a client.",
+                            "description": "Chatbots allow us to get personalized information instantly. Chatbots are about delivering convenience, personalization, and decision support while people are multitasking. Either for customers on the go, for allow call centers operators reach valuable information about the requirements of the multiple customers they are chatting with, or for sales associates to access details about products and customers while assisting a client.",
                             "image": "https://www.petfoodindustry.com/ext/resources/Images-by-month-year/16_06/woman-salesman-using-tablet-in-pet-store.jpg",
                             "video": "",
                             "prevwork": "A previous study and a Proof-of-concept of a chatbot is about to be launched to assist post sales needs of Continente Online customers.",
@@ -4414,7 +4403,7 @@
                                 "https://www.akumina.com/office-365/akumina-helping-to-enable-retail-execution-at-nrf-2018-retails-big-show/"
                             ],
                             "recommendation": "experiment",
-                            "impact": "high"
+                            "impact": "very_high"
                         }
                     ]
                 }
@@ -4706,7 +4695,7 @@
                             "description": "Customers can grab the products and leave the store without stopping while avoiding shoplifting. To achieve a secure and fraudproof seamless checkout, various sources of data must be fused. Images are the main data source to learn costumer behaviour and product placement complemented by other sensors such as biometric, thermal radiation or RFID.",
                             "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F3f66eb80411e45feb6f1746bfa79fce5%2F960x0.jpg%3Ffit%3Dscale",
                             "video": "",
-                            "prevwork": "SONAE is approaching some companies (Sensei and Trigo Vision) to explore the possibility of test the staff less store concept with our customers.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
@@ -5029,22 +5018,6 @@
                                 "TECH09:1",
                                 "TECH09:2"
                             ]
-                        },
-                        {
-                            "uid": "PRT159",
-                            "name": "Black Swan",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://www.blackswan.com/wp-content/themes/blackswandata/dist/img/horizon/tablet.png",
-                            "video": "",
-                            "main_link": "https://www.blackswan.com/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
                         }
                     ],
                     "technology": [
@@ -5052,7 +5025,7 @@
                             "uid": "TECH73",
                             "name": "Artificial intelligence for Chatbots",
                             "author": "radar18",
-                            "description": "Chatbots allow us to get personalized information instantly. Chatbots are about delivering convenience, personalization, and decision support while people are multitasking. Either for customers on the go, to enable call center operators to get valuable information on-the-fly about the requirements of the multiple customers they are chatting with, or for sales associates to instantly access details about products and customers while assisting a client.",
+                            "description": "Chatbots allow us to get personalized information instantly. Chatbots are about delivering convenience, personalization, and decision support while people are multitasking. Either for customers on the go, for allow call centers operators reach valuable information about the requirements of the multiple customers they are chatting with, or for sales associates to access details about products and customers while assisting a client.",
                             "image": "https://www.petfoodindustry.com/ext/resources/Images-by-month-year/16_06/woman-salesman-using-tablet-in-pet-store.jpg",
                             "video": "",
                             "prevwork": "A previous study and a Proof-of-concept of a chatbot is about to be launched to assist post sales needs of Continente Online customers.",
@@ -5061,7 +5034,7 @@
                                 "https://www.akumina.com/office-365/akumina-helping-to-enable-retail-execution-at-nrf-2018-retails-big-show/"
                             ],
                             "recommendation": "experiment",
-                            "impact": "high"
+                            "impact": "very_high"
                         },
                         {
                             "uid": "TECH07",
@@ -5114,7 +5087,7 @@
                     "Quicker Frequent Shopping"
                 ],
                 "filterlists": [
-                    "Meu Super",
+                    "Wholesale​",
                     "BIT​",
                     "Operações​",
                     "Marketing",
@@ -5171,18 +5144,6 @@
                             "image": "https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/01/p-1-90287861-the-future-of-food-delivery-rests-on-shelving.jpg",
                             "video": "",
                             "main_link": "https://www.fastcompany.com/90287861/the-future-of-the-13b-food-delivery-industry-rests-on-better-shelves",
-                            "article_links": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "IMP187",
-                            "name": "Flexa will let you pay at Whole Foods using your bitcoin",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://cdn.vox-cdn.com/thumbor/Kz2Ui42ToILS0vXwy3EK-8Qy_YQ=/0x0:2000x1022/920x613/filters:focal(840x351:1160x671):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63823140/1_nJJJA363HucINzpK3BG_vg.0.jpeg",
-                            "video": "",
-                            "main_link": "https://www.theverge.com/2019/5/13/18617554/flexa-cryptocurrency-bitcoin-etherium-whole-foods-gamestop-nordstrom-flexacoin",
                             "article_links": [
                                 ""
                             ]
@@ -5379,54 +5340,6 @@
                             "related_highlights": [
                                 ""
                             ]
-                        },
-                        {
-                            "uid": "PRT154",
-                            "name": "INFRASPEAK",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "http://home.infraspeak.com/wp-content/uploads/2016/12/is-logowebsite-x1.png",
-                            "video": "",
-                            "main_link": "http://home.infraspeak.com/retail-management/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "PRT157",
-                            "name": "Flexa",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://cdn.vox-cdn.com/thumbor/Kz2Ui42ToILS0vXwy3EK-8Qy_YQ=/0x0:2000x1022/920x613/filters:focal(840x351:1160x671):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63823140/1_nJJJA363HucINzpK3BG_vg.0.jpeg",
-                            "video": "",
-                            "main_link": "https://flexa.network/#",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "PRT159",
-                            "name": "Black Swan",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://www.blackswan.com/wp-content/themes/blackswandata/dist/img/horizon/tablet.png",
-                            "video": "",
-                            "main_link": "https://www.blackswan.com/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
                         }
                     ],
                     "technology": [
@@ -5434,7 +5347,7 @@
                             "uid": "TECH73",
                             "name": "Artificial intelligence for Chatbots",
                             "author": "radar18",
-                            "description": "Chatbots allow us to get personalized information instantly. Chatbots are about delivering convenience, personalization, and decision support while people are multitasking. Either for customers on the go, to enable call center operators to get valuable information on-the-fly about the requirements of the multiple customers they are chatting with, or for sales associates to instantly access details about products and customers while assisting a client.",
+                            "description": "Chatbots allow us to get personalized information instantly. Chatbots are about delivering convenience, personalization, and decision support while people are multitasking. Either for customers on the go, for allow call centers operators reach valuable information about the requirements of the multiple customers they are chatting with, or for sales associates to access details about products and customers while assisting a client.",
                             "image": "https://www.petfoodindustry.com/ext/resources/Images-by-month-year/16_06/woman-salesman-using-tablet-in-pet-store.jpg",
                             "video": "",
                             "prevwork": "A previous study and a Proof-of-concept of a chatbot is about to be launched to assist post sales needs of Continente Online customers.",
@@ -5443,7 +5356,7 @@
                                 "https://www.akumina.com/office-365/akumina-helping-to-enable-retail-execution-at-nrf-2018-retails-big-show/"
                             ],
                             "recommendation": "experiment",
-                            "impact": "high"
+                            "impact": "very_high"
                         },
                         {
                             "uid": "TECH45",
@@ -5452,7 +5365,7 @@
                             "description": "Customers can grab the products and leave the store without stopping while avoiding shoplifting. To achieve a secure and fraudproof seamless checkout, various sources of data must be fused. Images are the main data source to learn costumer behaviour and product placement complemented by other sensors such as biometric, thermal radiation or RFID.",
                             "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F3f66eb80411e45feb6f1746bfa79fce5%2F960x0.jpg%3Ffit%3Dscale",
                             "video": "",
-                            "prevwork": "SONAE is approaching some companies (Sensei and Trigo Vision) to explore the possibility of test the staff less store concept with our customers.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
@@ -5812,8 +5725,7 @@
                                 "TECH08:1",
                                 "TECH08:3",
                                 "TECH08:4",
-                                "TECH08:5",
-                                "TECH02"
+                                "TECH08:5"
                             ]
                         },
                         {
@@ -5841,12 +5753,12 @@
                             "description": "Analyze in store customer's behavior to get traffic heatmaps and costumer's flow inside the store. Through artificial vision it is possible to automatically analyze information from cameras. Specific software can detect the presence of people, count them, analyze how frequently a space is visited, recognize patterns and also analyze people's behavior. ",
                             "image": "https://black.ai/assets/images/image01.jpg?v80695257869451",
                             "video": "",
-                            "prevwork": "This technology is on the radar of the security area of Direção de Proteção de Ativos. Solutions found still lacks maturity.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "watch",
+                            "recommendation": "study",
                             "impact": "high"
                         },
                         {
@@ -5963,8 +5875,8 @@
                             "uid": "PRT130",
                             "name": "Affectiva",
                             "author": "jgp",
-                            "description": "Affectiva's emotion recognition tech is built with deep learning and is the world’s largest emotion database. Their software empowers digital experiences and enhances consumer insight.",
-                            "image": "https://foolventures.com/wp-content/uploads/2019/02/affectiva.png",
+                            "description": "Affectiva emotion recognition tech is built with deep learning and is the world’s largest emotion database. This software uses digital experiences and enhances consumer insights.",
+                            "image": "",
                             "video": "",
                             "main_link": "https://www.affectiva.com/",
                             "article_links": [
@@ -6078,8 +5990,7 @@
                                 "TECH08:1",
                                 "TECH08:3",
                                 "TECH08:4",
-                                "TECH08:5",
-                                "TECH02"
+                                "TECH08:5"
                             ]
                         }
                     ],
@@ -6113,7 +6024,7 @@
                             "name": "7-Eleven HandPay",
                             "author": "tpc",
                             "description": "It’s a service that can confirm the identity and settle the goods by simple palm authentication at the time of payment. Each person is identified by using blood vessel thickness, sharpness, and shape of veins.",
-                            "image": "https://blogthumb.pstatic.net/MjAxNzA1MTVfNDIg/MDAxNDk0ODM5Mjk0NTIx.EC8k5tBSIFQ-yMOwgcqgRReQtbkR58uGEAY23UP-Ykog.ZlOQ3mFs9Zo7GGV61avkdFY8T7YWFg3Nk09pS3Ak0MYg.JPEG.711sns/%BD%BA%B8%B6%C6%AE%C6%ED%C0%C7%C1%A1blog_%BD%E6%B3%D7%C0%CF.jpg?type=w2",
+                            "image": "/main/img/oldtechimg/handpay.jpg",
                             "video": "",
                             "main_link": "https://m.blog.naver.com/711sns/221006724498",
                             "article_links": [
@@ -6129,12 +6040,12 @@
                             "description": "Analyze in store customer's behavior to get traffic heatmaps and costumer's flow inside the store. Through artificial vision it is possible to automatically analyze information from cameras. Specific software can detect the presence of people, count them, analyze how frequently a space is visited, recognize patterns and also analyze people's behavior. ",
                             "image": "https://black.ai/assets/images/image01.jpg?v80695257869451",
                             "video": "",
-                            "prevwork": "This technology is on the radar of the security area of Direção de Proteção de Ativos. Solutions found still lacks maturity.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "watch",
+                            "recommendation": "study",
                             "impact": "high"
                         },
                         {
@@ -6159,7 +6070,7 @@
                             "description": "Customers can grab the products and leave the store without stopping while avoiding shoplifting. To achieve a secure and fraudproof seamless checkout, various sources of data must be fused. Images are the main data source to learn costumer behaviour and product placement complemented by other sensors such as biometric, thermal radiation or RFID.",
                             "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F3f66eb80411e45feb6f1746bfa79fce5%2F960x0.jpg%3Ffit%3Dscale",
                             "video": "",
-                            "prevwork": "SONAE is approaching some companies (Sensei and Trigo Vision) to explore the possibility of test the staff less store concept with our customers.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
@@ -6238,30 +6149,6 @@
                             "article_links": [
                                 ""
                             ]
-                        },
-                        {
-                            "uid": "IMP187",
-                            "name": "Flexa will let you pay at Whole Foods using your bitcoin",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://cdn.vox-cdn.com/thumbor/Kz2Ui42ToILS0vXwy3EK-8Qy_YQ=/0x0:2000x1022/920x613/filters:focal(840x351:1160x671):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63823140/1_nJJJA363HucINzpK3BG_vg.0.jpeg",
-                            "video": "",
-                            "main_link": "https://www.theverge.com/2019/5/13/18617554/flexa-cryptocurrency-bitcoin-etherium-whole-foods-gamestop-nordstrom-flexacoin",
-                            "article_links": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "IMP188",
-                            "name": "Greater Change. Give Smarter",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://static.wixstatic.com/media/4b3de2_9dfb170bfced4fd49ca603fa675ac8b6~mv2.png/v1/fill/w_364,h_92,al_c,q_80,usm_0.66_1.00_0.01/4b3de2_9dfb170bfced4fd49ca603fa675ac8b6~mv2.webp",
-                            "video": "",
-                            "main_link": "https://www.greaterchange.co.uk/learn-more",
-                            "article_links": [
-                                "https://inews.co.uk/news/uk/homeless-people-barcodes-public-donate-through-app/"
-                            ]
                         }
                     ],
                     "partner": [
@@ -6273,22 +6160,6 @@
                             "image": "http://swiftwallet.io/img/logowriting.svg",
                             "video": "",
                             "main_link": "http://swiftwallet.io/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "PRT157",
-                            "name": "Flexa",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://cdn.vox-cdn.com/thumbor/Kz2Ui42ToILS0vXwy3EK-8Qy_YQ=/0x0:2000x1022/920x613/filters:focal(840x351:1160x671):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63823140/1_nJJJA363HucINzpK3BG_vg.0.jpeg",
-                            "video": "",
-                            "main_link": "https://flexa.network/#",
                             "article_links": [
                                 ""
                             ],
@@ -6372,7 +6243,7 @@
                     "partner": [
                         {
                             "uid": "TECH62:1",
-                            "name": "Cisco/Musion Telepresence",
+                            "name": "Cisco Telepresence",
                             "author": "tpc",
                             "description": "Eyeliner 3D by Musion offers a new and unique high definition video 3D hologram projector screen allowing spectacular freeform 3-dimensional holographic moving images to appear within a live stage setting",
                             "image": "/main/img/oldtechimg/cisco_holograms.jpg",
@@ -6392,7 +6263,7 @@
                             "name": "Holovect",
                             "author": "tpc",
                             "description": "The Holovect is a self-contained laser-based volumetric display system that fits on a lab bench or desktop. The Holovect Mk II is the first commercially available, laser-based desktop \"holographic\" display, capable of drawing 3D objects in air with light.",
-                            "image": "https://ksr-ugc.imgix.net/assets/013/972/968/057323913084762a3afa3a03c45f77c5_original.png?ixlib=rb-1.1.0&crop=faces&w=1552&h=873&fit=crop&v=1476320938&auto=format&frame=1&q=92&s=ee48f6bba88ef1ac908c98a0f6fa1c21",
+                            "image": "/main/img/oldtechimg/Holovect.jpg",
                             "video": "",
                             "main_link": "https://www.kickstarter.com/projects/2029950924/holovect-holographic-vector-display/description",
                             "article_links": [
@@ -6458,7 +6329,7 @@
                             "uid": "TECH62",
                             "name": "Holograms for Virtual presence",
                             "author": "radar18",
-                            "description": "Video conferencing replaced by holographic video meetings with full scale projection of people. Image is captured in real-time with depth-sensing cameras. The image is then used in a VR, AR or holographic environment, enabling natural dialog to occur as if it were presentially.",
+                            "description": "Video conferencing replaced by holographic video meetings with full scale projection of people. Image is captured in real-time with cameras with depth sensor. The image is then used in a VR, AR or holographic environment, being able to talk while seeing the other person.",
                             "image": "",
                             "video": "",
                             "prevwork": "",
@@ -6567,7 +6438,7 @@
                     "partner": [
                         {
                             "uid": "TECH62:1",
-                            "name": "Cisco/Musion Telepresence",
+                            "name": "Cisco Telepresence",
                             "author": "tpc",
                             "description": "Eyeliner 3D by Musion offers a new and unique high definition video 3D hologram projector screen allowing spectacular freeform 3-dimensional holographic moving images to appear within a live stage setting",
                             "image": "/main/img/oldtechimg/cisco_holograms.jpg",
@@ -6587,7 +6458,7 @@
                             "name": "Holovect",
                             "author": "tpc",
                             "description": "The Holovect is a self-contained laser-based volumetric display system that fits on a lab bench or desktop. The Holovect Mk II is the first commercially available, laser-based desktop \"holographic\" display, capable of drawing 3D objects in air with light.",
-                            "image": "https://ksr-ugc.imgix.net/assets/013/972/968/057323913084762a3afa3a03c45f77c5_original.png?ixlib=rb-1.1.0&crop=faces&w=1552&h=873&fit=crop&v=1476320938&auto=format&frame=1&q=92&s=ee48f6bba88ef1ac908c98a0f6fa1c21",
+                            "image": "/main/img/oldtechimg/Holovect.jpg",
                             "video": "",
                             "main_link": "https://www.kickstarter.com/projects/2029950924/holovect-holographic-vector-display/description",
                             "article_links": [
@@ -6637,7 +6508,7 @@
                             "uid": "TECH62",
                             "name": "Holograms for Virtual presence",
                             "author": "radar18",
-                            "description": "Video conferencing replaced by holographic video meetings with full scale projection of people. Image is captured in real-time with depth-sensing cameras. The image is then used in a VR, AR or holographic environment, enabling natural dialog to occur as if it were presentially.",
+                            "description": "Video conferencing replaced by holographic video meetings with full scale projection of people. Image is captured in real-time with cameras with depth sensor. The image is then used in a VR, AR or holographic environment, being able to talk while seeing the other person.",
                             "image": "",
                             "video": "",
                             "prevwork": "",
@@ -6752,7 +6623,7 @@
                 ],
                 "filterlists": [
                     "Comercial Alimentar",
-                    "Meu Super",
+                    "Wholesale​",
                     "Operações​",
                     "Marketing",
                     " Cartão & Client​",
@@ -6928,7 +6799,7 @@
                     "Old Age New Millenials"
                 ],
                 "filterlists": [
-                    "Meu Super",
+                    "Wholesale​",
                     "Operações​",
                     "RH​"
                 ],
@@ -6979,7 +6850,7 @@
                     "Liquid Expectations"
                 ],
                 "filterlists": [
-                    "Meu Super",
+                    "Wholesale​",
                     "Logística & Centros Fabrico​",
                     "Operações​",
                     "Marketing",
@@ -7158,7 +7029,7 @@
                             "name": "Microsoft Azure - machine learning",
                             "author": "tpc",
                             "description": "Azure Machine Learning not only provides tools to model predictive analytics, but also provides a fully-managed service you can use to deploy your predictive models as ready-to-consume web services.",
-                            "image": "https://azure.microsoft.com/svghandler/machine-learning-studio?width=600&height=315",
+                            "image": "/main/img/oldtechimg/Azure.jpg",
                             "video": "",
                             "main_link": "https://azure.microsoft.com/pt-pt/services/machine-learning/",
                             "article_links": [
@@ -7176,7 +7047,7 @@
                             "name": "TUDelft Self-Repairing Concrete",
                             "author": "tpc",
                             "description": "Bacteria are mixed and distributed evenly throughout the concrete. When rainwater or atmospheric moisture seeps into cracks, the bacteria starts to produce the limestone that repairs the cracks. It’s a similar process to that carried out by osteoplast cells in our body which make bones.",
-                            "image": "https://cdn.cnn.com/cnnnext/dam/assets/150514135740-healing-concrete-tease-super-169.jpg",
+                            "image": "/main/img/oldtechimg/self repairing concrete.jpg",
                             "video": "",
                             "main_link": "http://edition.cnn.com/2015/05/14/tech/bioconcrete-delft-jonkers/index.html",
                             "article_links": [
@@ -7367,7 +7238,7 @@
                             "name": "Pricer",
                             "author": "tpc",
                             "description": "Global leader in providing in-store digital shelf-edge solutions that enhance both store performance and the shopping experience. Infrared technology for bi-directional communication.",
-                            "image": "https://www.pricer.com/wp-content/uploads/2018/09/product-image-0.png",
+                            "image": "/main/img/oldtechimg/pricer.jpg",
                             "video": "",
                             "main_link": "http://www.pricer.com",
                             "article_links": [
@@ -7516,7 +7387,7 @@
                             "name": "Low-E Glass",
                             "author": "tpc",
                             "description": "Low-emissivity glass (or low-e glass as it is commonly referred to) is a type of energy-efficient glass designed to prevent heat escaping through the windows to the cold outdoors. Low-e glass has an invisible coating which dramatically reduces heat transfer and reflects interior heat back into the room.",
-                            "image": "?w=1200",
+                            "image": "/main/img/oldtechimg/low e glass.jpg",
                             "video": "",
                             "main_link": "https://www.pilkington.com/en-gb/uk/householders/types-of-glass/energy-efficient-glass/low-emissivity-glass",
                             "article_links": [
@@ -7666,7 +7537,7 @@
                             "name": "Sellfio by Tarent",
                             "author": "tpc",
                             "description": "Self-scanning and self-checkout via online payment are at the centre of the solution. The app enables the customer to check out without waiting in a queue. With the sellfio rule engine, the seller may also determine the customer to be checked after the self-checkout or for the self-checkout is not available using different algorithms automatically.",
-                            "image": "https://www.tarent.de/wp-content/uploads/og_default-1.jpg",
+                            "image": "/main/img/oldtechimg/tarent.jpg",
                             "video": "",
                             "main_link": "https://www.tarent.de/en/services/products/sellfio",
                             "article_links": [
@@ -7923,7 +7794,7 @@
                             "name": "Energid Citrus Picking System",
                             "author": "tpc",
                             "description": "This big but low cost orange-picking gadget can clear an orange tree for as little or less than what human labor would cost. That means picking an orange every two to three seconds. ",
-                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--PmmHPj_0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/qwimep4soyebvdcee4ke.jpg",
+                            "image": "/main/img/oldtechimg/Energid Citrus Picking System.jpg",
                             "video": "",
                             "main_link": "https://gizmodo.com/13-fascinating-farming-robots-that-will-feed-our-future-1683489468",
                             "article_links": [
@@ -7941,7 +7812,7 @@
                             "name": "Blue River LettuceBot2",
                             "author": "tpc",
                             "description": "This highly popular robot attaches to a tractor and thins out lettuce fields. It can also spray insecticide and weed the rows between crops. If it could just learn how to make a salad.",
-                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--PmmHPj_0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/qwimep4soyebvdcee4ke.jpg",
+                            "image": "/main/img/oldtechimg/Blue River LettuceBot2.jpg",
                             "video": "",
                             "main_link": "https://gizmodo.com/13-fascinating-farming-robots-that-will-feed-our-future-1683489468",
                             "article_links": [
@@ -7959,7 +7830,7 @@
                             "name": "Agrobot SW6010",
                             "author": "tpc",
                             "description": "This machine picks strawberries with alarming speed and efficiency. Sensors on the robotic arms can actually tell which berries are ripe and which aren't based on the shape and size of the unpicked berry. It packs the fruit in boxes.",
-                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--PmmHPj_0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/qwimep4soyebvdcee4ke.jpg",
+                            "image": "/main/img/oldtechimg/Agrobot SW6010.jpg",
                             "video": "",
                             "main_link": "https://gizmodo.com/13-fascinating-farming-robots-that-will-feed-our-future-1683489468",
                             "article_links": [
@@ -7977,7 +7848,7 @@
                             "name": "Trackr",
                             "author": "tpc",
                             "description": "Trackr is a Bluetooth tracker that is paired with the cellphone. Through an app, an object attached to the Trackr can be found by making the device ring. The app also stores the last known location. The Trackr can also find the phone making it ring even if it is in silent mode.",
-                            "image": "https://www.thetrackr.com/wp-content/uploads/2017/12/How-it-works-meta.jpg",
+                            "image": "/main/img/oldtechimg/trackr.jpg",
                             "video": "",
                             "main_link": "https://www.thetrackr.com/",
                             "article_links": [
@@ -8091,7 +7962,7 @@
                             "name": "KUKA robots",
                             "author": "tpc",
                             "description": "With countless different variants, versions and expansion options, the KUKA Robot Group offers you the widest range of applications for your current and future production tasks.",
-                            "image": "https://www.kuka.com/-/media/kuka-corporate/images/technologies/industrie-40/kuka-industrie-4-0.jpg",
+                            "image": "/main/img/oldtechimg/Kuka robots.jpg",
                             "video": "",
                             "main_link": "http://www.kuka-robotics.com/en/",
                             "article_links": [
@@ -8312,22 +8183,6 @@
                             "related_highlights": [
                                 ""
                             ]
-                        },
-                        {
-                            "uid": "PRT154",
-                            "name": "INFRASPEAK",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "http://home.infraspeak.com/wp-content/uploads/2016/12/is-logowebsite-x1.png",
-                            "video": "",
-                            "main_link": "http://home.infraspeak.com/retail-management/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
                         }
                     ],
                     "technology": [
@@ -8368,13 +8223,13 @@
                             "description": "AV can help retailers to manage stock more efficiently. Artificial vision promises real time analysis of video footage to monitor, control and report any visible situation with minimal-to-none human intervention. By analyzing images collected in the stores it would be possible to identify out-of-stock items, low stock items, misplaced items, and pricing and planogram errors.  ",
                             "image": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2017/MIT-RFID-relay_0.jpg?itok=Rtjh-L_d",
                             "video": "",
-                            "prevwork": "A study is being conducted by a team led by the BIT design area.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "study",
-                            "impact": "medium"
+                            "recommendation": "experiment",
+                            "impact": "very_high"
                         },
                         {
                             "uid": "TECH03",
@@ -8669,7 +8524,7 @@
                 ],
                 "filterlists": [
                     "Espaço e Conceção Loja​",
-                    "Meu Super"
+                    "Wholesale​"
                 ],
                 "highlights": {
                     "implementation": [
@@ -8796,7 +8651,7 @@
                     "Liquid Expectations"
                 ],
                 "filterlists": [
-                    "Meu Super",
+                    "Wholesale​",
                     "Future Leaders"
                 ],
                 "highlights": {
@@ -9179,7 +9034,7 @@
                             "name": "Toyota e-Palette",
                             "author": "tpc",
                             "description": "Toyota is developing a new autonomous vehicle able to make deliveries or heavy transportation. e-Palette has three sizes: small, medium and large. They're all the same width and height, only the length varies between vehicles.",
-                            "image": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F97b476969963c6c9f5299582667cbe68%2F206713157%2Feng-palette-edJT.jpg&client=amp-blogside-v2&signature=59258260be614c371a4ea6ad725a694164a3c65a",
+                            "image": "/main/img/oldtechimg/epalette.jpg",
                             "video": "https://www.youtube.com/watch?v=XmoPQuMlOYE",
                             "main_link": "https://www.engadget.com/2018/10/04/toyota-softbank-monet/?guccounter=1&guce_referrer_us=aHR0cHM6Ly93d3cuZ29vZ2xlLnB0Lw&guce_referrer_cs=fDjI0Mr5EA-YXelsnfyxiQ",
                             "article_links": [
@@ -9484,22 +9339,6 @@
                             "related_highlights": [
                                 ""
                             ]
-                        },
-                        {
-                            "uid": "PRT154",
-                            "name": "INFRASPEAK",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "http://home.infraspeak.com/wp-content/uploads/2016/12/is-logowebsite-x1.png",
-                            "video": "",
-                            "main_link": "http://home.infraspeak.com/retail-management/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
                         }
                     ],
                     "technology": [
@@ -9525,7 +9364,7 @@
                             "description": "Customers can grab the products and leave the store without stopping while avoiding shoplifting. To achieve a secure and fraudproof seamless checkout, various sources of data must be fused. Images are the main data source to learn costumer behaviour and product placement complemented by other sensors such as biometric, thermal radiation or RFID.",
                             "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F3f66eb80411e45feb6f1746bfa79fce5%2F960x0.jpg%3Ffit%3Dscale",
                             "video": "",
-                            "prevwork": "SONAE is approaching some companies (Sensei and Trigo Vision) to explore the possibility of test the staff less store concept with our customers.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
@@ -9540,13 +9379,13 @@
                             "description": "Customers point their camera to items to obtain relevant product information shown in virtual objects. Additional information of a product is diplayed by pointing the camera, and the details about the product appear on screen, giving information that isn't on the label.",
                             "image": "https://blog.hubspot.com/hubfs/augmented-reality-retail-1.jpg",
                             "video": "",
-                            "prevwork": "BIT did a proof-of-concept of this technology.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "experiment",
-                            "impact": "low"
+                            "recommendation": "",
+                            "impact": ""
                         },
                         {
                             "uid": "TECH07",
@@ -9830,8 +9669,8 @@
                             "uid": "TECH63:3",
                             "name": "Looking Glass",
                             "author": "tpc",
-                            "description": "This \"personal volumetric display\" lets you see in VR without a headset, letting you share such content with people around you. The display is also interactive so you can move things around either by swiping on the touch-sensitive screen, waving your hands in front of it or pairing up a gaming controller. ",
-                            "image": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F9a6483eeb370c43c1e1cb78dca791f17%2F204386060%2FDSC00562-ed.jpg&client=amp-blogside-v2&signature=7054c3ccc717f6e07a88bc0831f6d25df21e3b05",
+                            "description": "This \"personal volumetric display\" let you see VR  without a headset, so you can share such content with people around you. The display is also interactive so you can move things around either by swiping on the touch-sensitive screen, waving your hands in front of it or pairing up a gaming controller. ",
+                            "image": "/main/img/oldtechimg/LookingGlass.jpg",
                             "video": "",
                             "main_link": "https://www.engadget.com/2016/09/28/volume-is-a-1-000-holographic-display-for-your-home/",
                             "article_links": [
@@ -9847,7 +9686,7 @@
                             "uid": "TECH63:1",
                             "name": "Dreamoc HD3",
                             "author": "tpc",
-                            "description": "This display is a great platform for grabbing attention in any busy commercial setting. With its size of less than two feet wide and one foot in height, the Dreamoc HD3 lets you tap into the curiosity of anyone passing by, making them stop and stare at your display by taking advantage of mixed reality.",
+                            "description": "This display is a great platform for grabbing a lot of attention in any busy commercial setting. With its measurements of less than two feet wide and one foot in height, the Dreamoc HD3 lets you tap into the curiosity of anyone passing by, making them stop and stare at your display by applying the experience of mixed reality.",
                             "image": "/main/img/oldtechimg/Dreamoc.jpg",
                             "video": "https://www.youtube.com/watch?v=HMFesJRwpks",
                             "main_link": "https://www.realfiction.com/solutions/dreamoc-hd3",
@@ -9865,7 +9704,7 @@
                             "name": "TryLive",
                             "author": "tpc",
                             "description": "TryLive for Eyewear is the only fully cross-platform solution available. The same media and application scenarios can be leveraged for use on the web, on mobile devices or on kiosks at the point of sale without rework.The mobile application works on smartphones and tablets running iOS and Android.",
-                            "image": "http://www.trylive.com/sites/all/themes/trylive/logo.png",
+                            "image": "/main/img/oldtechimg/trylive.jpg",
                             "video": "",
                             "main_link": "http://www.trylive.com/solutions/trylive-eyewear-virtual-mirror/overview",
                             "article_links": [
@@ -9909,7 +9748,7 @@
                                 ""
                             ],
                             "recommendation": "study",
-                            "impact": "low"
+                            "impact": "high"
                         },
                         {
                             "uid": "TECH63",
@@ -10185,7 +10024,7 @@
                             "name": "Sonova - ear canals",
                             "author": "tpc",
                             "description": "Silicone impressions of the ear canal (which are still taken by hand) are scanned into the computer using laser technology. Once a hearing aid shell has been finished on the computer, the file with the three-dimensional structure is stored in a central database and transmitted to the 3D printers at the production site. Layer upon layer of light-curing acrylic resin appears to be built up from nothing to form the new hearing aid shell.",
-                            "image": "https://www.sonova.com/sites/default/files/Sonova%203D-printing_start.jpg",
+                            "image": "/main/img/oldtechimg/sonova.jpg",
                             "video": "",
                             "main_link": "http://www.sonova.com/en/features/3d-printing-technology-improved-hearing",
                             "article_links": [
@@ -10339,13 +10178,13 @@
                             "description": "Customize garments in-store using digital printing in textiles or 3D printing in accessories. Digital printers can be used to print customized patterns in clothes or shoes. 3D printers can provide customized buttons, zipper pulls, eyelets, or other ornaments",
                             "image": "",
                             "video": "",
-                            "prevwork": "There are multiple mature solutions in the market that may be integrated in existing services.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "experiment",
-                            "impact": "low"
+                            "recommendation": "",
+                            "impact": ""
                         },
                         {
                             "uid": "TECH24",
@@ -10360,7 +10199,7 @@
                                 ""
                             ],
                             "recommendation": "study",
-                            "impact": "medium"
+                            "impact": "low"
                         }
                     ]
                 }
@@ -10531,7 +10370,9 @@
                     "Healthy Junk Food"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D",
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar"
                 ],
                 "highlights": {
@@ -10541,7 +10382,7 @@
                             "name": "Plant-Based Protein Comes To Burger King: Meet The Impossible Whopper",
                             "author": "jgp",
                             "description": "",
-                            "image": "http://www.ccg.pt/wp-content/uploads/2018/04/realidade-aumentada-e-mista-CCG-1-900x400_c.jpg",
+                            "image": "",
                             "video": "",
                             "main_link": "https://www.forbes.com/sites/chloesorvino/2019/04/01/plant-based-protein-comes-to-burger-king-meet-the-impossible-whopper/?utm_source=TWITTER&utm_medium=social&utm_term=Valerie%2F#4d4d790c3758",
                             "article_links": [
@@ -10627,7 +10468,7 @@
                             "name": "Follow you Heart - VeganEgg",
                             "author": "tpc",
                             "description": "A 100% plant-based egg, no gmo, no dairy, no gluten, no cholesterol.",
-                            "image": "/images/products/medium/23865.jpg",
+                            "image": "/main/img/oldtechimg/veganegg.jpg",
                             "video": "",
                             "main_link": "http://www.planetorganic.com/follow-your-heart-veganegg-114g/23865/",
                             "article_links": [
@@ -10804,7 +10645,7 @@
                             "name": "Daiya",
                             "author": "tpc",
                             "description": "Daiya makes dairy-free food products. From grilled cheese to the rich and creamy taste of fruit-kissed yogurt. Every Daiya product — from macaroni and cheese to Greek yogurt alternative — is a plant-based, dairy-free alternative disguised as creamy, cheesy deliciousness right there on your plate. They are ready for lactose intolerant people, food allergies free, vegan and vegetarian.",
-                            "image": "https://daiyafoods.com/wp-content/uploads/2016/02/216002_H_DYA_5660-1024x766.jpg",
+                            "image": "/main/img/oldtechimg/daiya.jpg",
                             "video": "",
                             "main_link": "https://daiyafoods.com/plant-based-living/#lifestyle",
                             "article_links": [
@@ -10882,7 +10723,7 @@
                             "name": "Gold&Green Foods",
                             "author": "tpc",
                             "description": "Gold&Green Foods calls their version \"pulled oats\" since it is made from oats and broad beans from Finland and Sweden. The product is created by having the oats \"sheared and heated under the right conditions and combined with the beans,\" and the flavor options include nude, kaffir lime with sesame and ginger, and tomato with smoked pepper and cilantro.",
-                            "image": "https://goldandgreenfoods.com/wp-content/uploads/2017/08/gold-and-green-facebook.jpg",
+                            "image": "/main/img/oldtechimg/goldgreen.jpg",
                             "video": "",
                             "main_link": "http://www.goldandgreenfoods.com",
                             "article_links": [
@@ -10962,7 +10803,7 @@
                             "name": "Follow you Heart - Vegenaise",
                             "author": "tpc",
                             "description": "This breakthrough formula gives you a creamy and authentic cheese flavor dairy free and cholesterol free. This alternative is lactose free, soy free, gluten free, Non-GMO Project verified and contains no preservatives or trans fats.",
-                            "image": "https://followyourheart.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+                            "image": "/main/img/oldtechimg/followyourheart.jpg",
                             "video": "",
                             "main_link": "https://followyourheart.com/products/",
                             "article_links": [
@@ -11034,7 +10875,7 @@
                             "name": "Good Karma Flaxmilk",
                             "author": "tpc",
                             "description": "",
-                            "image": "https://goodkarmafoods.com/wp-content/uploads/2013/08/products_header.png",
+                            "image": "/main/img/oldtechimg/goodkarma.jpg",
                             "video": "",
                             "main_link": "http://goodkarmafoods.com/products/",
                             "article_links": [
@@ -11177,7 +11018,7 @@
                                 ""
                             ],
                             "recommendation": "study",
-                            "impact": "high"
+                            "impact": "very_high"
                         },
                         {
                             "uid": "TECH51",
@@ -11187,12 +11028,12 @@
                             "image": "",
                             "video": "",
                             "prevwork": "A internal project, Food Lab, is exploring readymade alternatives for hamburgers with Food Private Labels and H&W department.",
-                            "prevworkurl": "",
+                            "prevworkurl": "To be added",
                             "externalurls": [
                                 ""
                             ],
                             "recommendation": "experiment",
-                            "impact": "high"
+                            "impact": "medium"
                         },
                         {
                             "uid": "TECH52",
@@ -11206,8 +11047,8 @@
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "study",
-                            "impact": "high"
+                            "recommendation": "",
+                            "impact": ""
                         },
                         {
                             "uid": "TECH56",
@@ -11222,7 +11063,7 @@
                                 ""
                             ],
                             "recommendation": "experiment",
-                            "impact": "medium"
+                            "impact": "high"
                         },
                         {
                             "uid": "TECH50",
@@ -11262,7 +11103,9 @@
                     "Flexitarianism"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D",
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar"
                 ],
                 "highlights": {
@@ -11390,22 +11233,6 @@
                             "related_highlights": [
                                 ""
                             ]
-                        },
-                        {
-                            "uid": "PRT156",
-                            "name": "talkdesk",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://www.talkdesk.com/app/themes/talkdesk-com/assets/images/talkdesk-logo.svg",
-                            "video": "",
-                            "main_link": "https://www.talkdesk.com/why-talkdesk/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
                         }
                     ],
                     "implementation": [
@@ -11429,18 +11256,6 @@
                             "image": "https://video-images.vice.com/articles/5a26b6768ecf12327f09a6c4/lede/1512486675251-654969855_1280x720.jpeg?crop=1xw:1xh;center,center&resize=1200:*",
                             "video": "",
                             "main_link": "https://motherboard.vice.com/en_us/article/gydgvj/americans-cut-the-cord-2030-study-cable-tv",
-                            "article_links": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "IMP189",
-                            "name": "Watch China’s new AI anchor read the news",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/wp-cms/uploads/2018/11/p-1-watch-chinas-new-ai-anchor-read-the-news.jpg",
-                            "video": "",
-                            "main_link": "https://www.fastcompany.com/90264587/watch-chinas-new-ai-anchor-read-the-news",
                             "article_links": [
                                 ""
                             ]
@@ -11605,7 +11420,7 @@
                                 ""
                             ],
                             "recommendation": "experiment",
-                            "impact": "low"
+                            "impact": "medium"
                         },
                         {
                             "uid": "TECH43",
@@ -11667,7 +11482,7 @@
                             "name": "Sonova - ear canals",
                             "author": "tpc",
                             "description": "Silicone impressions of the ear canal (which are still taken by hand) are scanned into the computer using laser technology. Once a hearing aid shell has been finished on the computer, the file with the three-dimensional structure is stored in a central database and transmitted to the 3D printers at the production site. Layer upon layer of light-curing acrylic resin appears to be built up from nothing to form the new hearing aid shell.",
-                            "image": "https://www.sonova.com/sites/default/files/Sonova%203D-printing_start.jpg",
+                            "image": "/main/img/oldtechimg/sonova.jpg",
                             "video": "",
                             "main_link": "http://www.sonova.com/en/features/3d-printing-technology-improved-hearing",
                             "article_links": [
@@ -11703,7 +11518,7 @@
                             "name": "Amblyz electronic glasses",
                             "author": "tpc",
                             "description": "Researchers have developed electronic glasses that can be programmed to automatically build the brain's reliance on the weaker eye, with the initial trials suggesting they might be as effective as traditional methods of treatment for amblyopia in children.",
-                            "image": "https://www.aao.org/Images/UI/FacebookDefault.png",
+                            "image": "/main/img/oldtechimg/Amblyzglasses.jpg",
                             "video": "",
                             "main_link": "http://www.aao.org/newsroom/news-releases/detail/programmable-electronic-glasses-provide-children-e",
                             "article_links": [
@@ -11922,7 +11737,7 @@
                             "name": "TruPosture",
                             "author": "tpc",
                             "description": "TruPosture is an advanced posture tracking and training technology built into a discreet undershirt. It gets an extremely accurate measure of the shape of the two major curves of your spine by placing an array of five miniature measuring devices along your back.",
-                            "image": "https://www.truposture.com/wp-content/uploads/2016/02/TruPosture-Posture-Tracking-and-Training-SmartShirt-Logo-1-e1458106072230.png",
+                            "image": "/main/img/oldtechimg/Truposture.jpg",
                             "video": "",
                             "main_link": "https://www.truposture.com/",
                             "article_links": [
@@ -12001,7 +11816,7 @@
                             "name": "ŌURA",
                             "author": "tpc",
                             "description": "ŌURA ring analyzes your sleep quality by measuring your pulse waveform and heart rate dynamics, body temperature and movement with research-level accuracy. ",
-                            "image": "https://d1a0efioav7lro.cloudfront.net/wp-content/uploads/2018/10/19180301/Bannerherohome.jpg",
+                            "image": "/main/img/oldtechimg/Ouraring.jpg",
                             "video": "",
                             "main_link": "https://ouraring.com/",
                             "article_links": [
@@ -12071,7 +11886,7 @@
                             "name": "Skulpt Chisel",
                             "author": "tpc",
                             "description": "Using 12 sensors, it measures the electrical current flowing through your muscles, and pairs with your phone to report the percentage of muscle versus fat. When held against a specific sensor, it tells you whether the muscles “need work”.",
-                            "image": "http://www.skulpt.me/images/social/skulpt-logo.png",
+                            "image": "/main/img/oldtechimg/Skulpt.jpg",
                             "video": "",
                             "main_link": "https://www.skulpt.me/",
                             "article_links": [
@@ -12160,8 +11975,8 @@
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "study",
-                            "impact": "medium"
+                            "recommendation": "",
+                            "impact": ""
                         },
                         {
                             "uid": "TECH28",
@@ -12284,7 +12099,7 @@
                             "name": "Sonova - ear canals",
                             "author": "tpc",
                             "description": "Silicone impressions of the ear canal (which are still taken by hand) are scanned into the computer using laser technology. Once a hearing aid shell has been finished on the computer, the file with the three-dimensional structure is stored in a central database and transmitted to the 3D printers at the production site. Layer upon layer of light-curing acrylic resin appears to be built up from nothing to form the new hearing aid shell.",
-                            "image": "https://www.sonova.com/sites/default/files/Sonova%203D-printing_start.jpg",
+                            "image": "/main/img/oldtechimg/sonova.jpg",
                             "video": "",
                             "main_link": "http://www.sonova.com/en/features/3d-printing-technology-improved-hearing",
                             "article_links": [
@@ -12542,7 +12357,7 @@
                             "name": "TruPosture",
                             "author": "tpc",
                             "description": "TruPosture is an advanced posture tracking and training technology built into a discreet undershirt. It gets an extremely accurate measure of the shape of the two major curves of your spine by placing an array of five miniature measuring devices along your back.",
-                            "image": "https://www.truposture.com/wp-content/uploads/2016/02/TruPosture-Posture-Tracking-and-Training-SmartShirt-Logo-1-e1458106072230.png",
+                            "image": "/main/img/oldtechimg/Truposture.jpg",
                             "video": "",
                             "main_link": "https://www.truposture.com/",
                             "article_links": [
@@ -12588,8 +12403,8 @@
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "study",
-                            "impact": "medium"
+                            "recommendation": "",
+                            "impact": ""
                         },
                         {
                             "uid": "TECH28",
@@ -12879,9 +12694,11 @@
                     "Gut-Friendly Food"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D",
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar",
-                    "Meu Super"
+                    "Wholesale​"
                 ],
                 "highlights": {
                     "implementation": [
@@ -12920,7 +12737,7 @@
                             "name": "Cuisine Soleil",
                             "author": "jgp",
                             "description": "Cuisine Soleil found success on foreign markets with its grilled lentils healthy snacks, sold everywhere in Canada but also in France and Mexico. Since 2017, strated a metamorphosis. It set up an agri-food facility in Val-d'Or (Québec), where it now develops new innovating products such as gluten-free flour made of millet, coconut or buckwheat. Cuisine Soleil received the Food Innovation Award from the Council of Food Manufacturing of Québec (CTAQ) and the Organic Innovator of the Year Award from the Canadian Organic Tade Association (COTA)",
-                            "image": "",
+                            "image": "/main/img/oldtechimg/cuisinesolei.jpg",
                             "video": "",
                             "main_link": "https://cuisinesoleil.com/en/",
                             "article_links": [
@@ -12992,9 +12809,11 @@
                     "Functional Food"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D",
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar",
-                    "Meu Super"
+                    "Wholesale​"
                 ],
                 "highlights": {
                     "partner": [
@@ -13303,13 +13122,13 @@
                             "description": "Customers point their camera to items to obtain relevant product information shown in virtual objects. Additional information of a product is diplayed by pointing the camera, and the details about the product appear on screen, giving information that isn't on the label.",
                             "image": "https://blog.hubspot.com/hubfs/augmented-reality-retail-1.jpg",
                             "video": "",
-                            "prevwork": "BIT did a proof-of-concept of this technology.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "experiment",
-                            "impact": "low"
+                            "recommendation": "",
+                            "impact": ""
                         },
                         {
                             "uid": "TECH22",
@@ -13348,7 +13167,7 @@
                 ],
                 "filterlists": [
                     "Comercial Alimentar",
-                    "Meu Super",
+                    "Wholesale​",
                     "Future Leaders"
                 ],
                 "highlights": {
@@ -13447,7 +13266,7 @@
                 ],
                 "filterlists": [
                     "Comercial Alimentar",
-                    "Meu Super"
+                    "Wholesale​"
                 ],
                 "highlights": {
                     "implementation": [
@@ -13505,8 +13324,8 @@
                             "uid": "PRT051",
                             "name": "Emulsar",
                             "author": "tpc",
-                            "description": "",
-                            "image": "/main/img/oldtechimg/Emulsar.jpg",
+                            "description": "Structured emulsions and edible oleogels are solutions to substitute solid unhealth fats (e.g. butter) with liquid heathy fats (e.g. linen oil). This allows the production of crunchy meltable food containing fatty acids instead of saturated fats (e.g. chocolate, cookies).",
+                            "image": "https://i2.wp.com/learntolovefood.com/wp-content/uploads/2015/01/2015-01-26-08-54-05.jpg",
                             "video": "",
                             "main_link": "http://www.emulsar.com/",
                             "article_links": [
@@ -13584,21 +13403,6 @@
                     ],
                     "technology": [
                         {
-                            "uid": "TECH92",
-                            "name": "Structured emulsions and edible oleogels",
-                            "author": "tpc",
-                            "description": "Structured emulsions and edible oleogels are solutions to substitute solid unhealth fats (e.g. butter) with liquid heathy fats (e.g. linen oil). This allows the production of crunchy meltable food containing fatty acids instead of saturated fats (e.g. chocolate, cookies).",
-                            "image": "https://i2.wp.com/learntolovefood.com/wp-content/uploads/2015/01/2015-01-26-08-54-05.jpg",
-                            "video": "",
-                            "prevwork": "An internal study exploring the use of oleogels to replace animal fat with linen oil in sausages or hamburgers concluded that this application is to economically viable. Other applications in sauces, chocolate or cookies were not explored.",
-                            "prevworkurl": "To be added",
-                            "externalurls": [
-                                ""
-                            ],
-                            "recommendation": "Experiment",
-                            "impact": "high"
-                        },
-                        {
                             "uid": "TECH85",
                             "name": "nanotechnology engineered wine",
                             "author": "tpc",
@@ -13636,7 +13440,7 @@
                 ],
                 "filterlists": [
                     "Comercial Alimentar",
-                    "Meu Super"
+                    "Wholesale​"
                 ],
                 "highlights": {
                     "partner": [
@@ -14324,7 +14128,7 @@
                             "name": "Energid Citrus Picking System",
                             "author": "tpc",
                             "description": "This big but low cost orange-picking gadget can clear an orange tree for as little or less than what human labor would cost. That means picking an orange every two to three seconds. ",
-                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--PmmHPj_0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/qwimep4soyebvdcee4ke.jpg",
+                            "image": "/main/img/oldtechimg/Energid Citrus Picking System.jpg",
                             "video": "",
                             "main_link": "https://gizmodo.com/13-fascinating-farming-robots-that-will-feed-our-future-1683489468",
                             "article_links": [
@@ -14342,7 +14146,7 @@
                             "name": "Blue River LettuceBot2",
                             "author": "tpc",
                             "description": "This highly popular robot attaches to a tractor and thins out lettuce fields. It can also spray insecticide and weed the rows between crops. If it could just learn how to make a salad.",
-                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--PmmHPj_0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/qwimep4soyebvdcee4ke.jpg",
+                            "image": "/main/img/oldtechimg/Blue River LettuceBot2.jpg",
                             "video": "",
                             "main_link": "https://gizmodo.com/13-fascinating-farming-robots-that-will-feed-our-future-1683489468",
                             "article_links": [
@@ -14360,7 +14164,7 @@
                             "name": "Agrobot SW6010",
                             "author": "tpc",
                             "description": "This machine picks strawberries with alarming speed and efficiency. Sensors on the robotic arms can actually tell which berries are ripe and which aren't based on the shape and size of the unpicked berry. It packs the fruit in boxes.",
-                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--PmmHPj_0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/qwimep4soyebvdcee4ke.jpg",
+                            "image": "/main/img/oldtechimg/Agrobot SW6010.jpg",
                             "video": "",
                             "main_link": "https://gizmodo.com/13-fascinating-farming-robots-that-will-feed-our-future-1683489468",
                             "article_links": [
@@ -14396,7 +14200,7 @@
                             "name": "KUKA robots",
                             "author": "tpc",
                             "description": "With countless different variants, versions and expansion options, the KUKA Robot Group offers you the widest range of applications for your current and future production tasks.",
-                            "image": "https://www.kuka.com/-/media/kuka-corporate/images/technologies/industrie-40/kuka-industrie-4-0.jpg",
+                            "image": "/main/img/oldtechimg/Kuka robots.jpg",
                             "video": "",
                             "main_link": "http://www.kuka-robotics.com/en/",
                             "article_links": [
@@ -14446,54 +14250,6 @@
                                 "TECH70:3",
                                 "TECH70:4"
                             ]
-                        },
-                        {
-                            "uid": "PRT154",
-                            "name": "INFRASPEAK",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "http://home.infraspeak.com/wp-content/uploads/2016/12/is-logowebsite-x1.png",
-                            "video": "",
-                            "main_link": "http://home.infraspeak.com/retail-management/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "PRT155",
-                            "name": "Outsystems",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://www.outsystems.com/-/media/images/menu/navigation-weekly-webinar-v2.png",
-                            "video": "",
-                            "main_link": "https://www.outsystems.com/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "PRT156",
-                            "name": "talkdesk",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://www.talkdesk.com/app/themes/talkdesk-com/assets/images/talkdesk-logo.svg",
-                            "video": "",
-                            "main_link": "https://www.talkdesk.com/why-talkdesk/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
                         }
                     ],
                     "technology": [
@@ -14519,13 +14275,13 @@
                             "description": "AV can help retailers to manage stock more efficiently. Artificial vision promises real time analysis of video footage to monitor, control and report any visible situation with minimal-to-none human intervention. By analyzing images collected in the stores it would be possible to identify out-of-stock items, low stock items, misplaced items, and pricing and planogram errors.  ",
                             "image": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2017/MIT-RFID-relay_0.jpg?itok=Rtjh-L_d",
                             "video": "",
-                            "prevwork": "A study is being conducted by a team led by the BIT design area.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "study",
-                            "impact": "medium"
+                            "recommendation": "experiment",
+                            "impact": "very_high"
                         },
                         {
                             "uid": "TECH08",
@@ -14654,7 +14410,9 @@
                     "Privacy Protection"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D"
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D"
                 ],
                 "highlights": {
                     "implementation": [
@@ -14749,7 +14507,7 @@
                             "name": "Ripple",
                             "author": "tpc",
                             "description": "Ripple connects banks, payment providers, digital asset exchanges and corporates via RippleNet to provide one frictionless experience to send money globally.",
-                            "image": "https://cdn.ripple.com/wp-content/uploads/2014/09/insights-ripplenet%402x.jpg",
+                            "image": "/main/img/oldtechimg/rippleblock.jpg",
                             "video": "",
                             "main_link": "https://ripple.com",
                             "article_links": [
@@ -14792,7 +14550,7 @@
                                 ""
                             ],
                             "recommendation": "watch",
-                            "impact": "high"
+                            "impact": ""
                         }
                     ]
                 }
@@ -14867,7 +14625,7 @@
                             "name": "Ripple",
                             "author": "tpc",
                             "description": "Ripple connects banks, payment providers, digital asset exchanges and corporates via RippleNet to provide one frictionless experience to send money globally.",
-                            "image": "https://cdn.ripple.com/wp-content/uploads/2014/09/insights-ripplenet%402x.jpg",
+                            "image": "/main/img/oldtechimg/rippleblock.jpg",
                             "video": "",
                             "main_link": "https://ripple.com",
                             "article_links": [
@@ -14894,7 +14652,7 @@
                                 ""
                             ],
                             "recommendation": "watch",
-                            "impact": "high"
+                            "impact": ""
                         }
                     ]
                 }
@@ -14917,7 +14675,9 @@
                     "Transparency (Non-Food)"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D"
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D"
                 ],
                 "highlights": {
                     "implementation": [
@@ -14973,7 +14733,9 @@
                     "Transparency (Non-Food)"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D"
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D"
                 ],
                 "highlights": {
                     "implementation": [
@@ -15061,7 +14823,9 @@
                     "Transparency (Non-Food)"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D",
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar"
                 ],
                 "highlights": {
@@ -15626,30 +15390,6 @@
                             "article_links": [
                                 "https://www.forbes.com/sites/jennysplitter/2018/10/07/artisanal-blockchain-how-tech-companies-trace-fine-wines-and-vanilla-back-to-their-source/#383d94396227"
                             ]
-                        },
-                        {
-                            "uid": "IMP185",
-                            "name": "Biggest grocers to use blockchain for food safety, traceability by 2025 – Gartner",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://images.pexels.com/photos/1580470/pexels-photo-1580470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-                            "video": "",
-                            "main_link": "https://www.engineeringnews.co.za/article/biggest-grocers-to-use-blockchain-for-food-safety-traceability-by-2025-gartner-2019-05-03",
-                            "article_links": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "IMP186",
-                            "name": "Walmart's food safety solution using IBM Food Trust built on the IBM Blockchain Platform",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://images.pexels.com/photos/1580464/pexels-photo-1580464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-                            "video": "",
-                            "main_link": "https://www.youtube.com/watch?v=SV0KXBxSoio",
-                            "article_links": [
-                                ""
-                            ]
                         }
                     ],
                     "technology": [
@@ -15660,13 +15400,13 @@
                             "description": "Customers point their camera to items to obtain relevant product information shown in virtual objects. Additional information of a product is diplayed by pointing the camera, and the details about the product appear on screen, giving information that isn't on the label.",
                             "image": "https://blog.hubspot.com/hubfs/augmented-reality-retail-1.jpg",
                             "video": "",
-                            "prevwork": "BIT did a proof-of-concept of this technology.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "experiment",
-                            "impact": "low"
+                            "recommendation": "",
+                            "impact": ""
                         },
                         {
                             "uid": "TECH10",
@@ -15809,7 +15549,9 @@
                     "Food Transparency"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D",
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar"
                 ],
                 "highlights": {
@@ -15896,7 +15638,9 @@
                     "Food Transparency"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D"
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D"
                 ],
                 "highlights": {
                     "partner": [
@@ -15961,7 +15705,7 @@
                             "name": "Pricer",
                             "author": "tpc",
                             "description": "Global leader in providing in-store digital shelf-edge solutions that enhance both store performance and the shopping experience. Infrared technology for bi-directional communication.",
-                            "image": "https://www.pricer.com/wp-content/uploads/2018/09/product-image-0.png",
+                            "image": "/main/img/oldtechimg/pricer.jpg",
                             "video": "",
                             "main_link": "http://www.pricer.com",
                             "article_links": [
@@ -16417,13 +16161,13 @@
                             "description": "Customers point their camera to items to obtain relevant product information shown in virtual objects. Additional information of a product is diplayed by pointing the camera, and the details about the product appear on screen, giving information that isn't on the label.",
                             "image": "https://blog.hubspot.com/hubfs/augmented-reality-retail-1.jpg",
                             "video": "",
-                            "prevwork": "BIT did a proof-of-concept of this technology.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "experiment",
-                            "impact": "low"
+                            "recommendation": "",
+                            "impact": ""
                         },
                         {
                             "uid": "TECH10",
@@ -16524,7 +16268,7 @@
                 "filterlists": [
                     "Comercial Alimentar",
                     "Espaço e Conceção Loja​",
-                    "Meu Super"
+                    "Wholesale​"
                 ],
                 "highlights": {
                     "partner": [
@@ -16781,7 +16525,7 @@
                             "name": "TruPosture",
                             "author": "tpc",
                             "description": "TruPosture is an advanced posture tracking and training technology built into a discreet undershirt. It gets an extremely accurate measure of the shape of the two major curves of your spine by placing an array of five miniature measuring devices along your back.",
-                            "image": "https://www.truposture.com/wp-content/uploads/2016/02/TruPosture-Posture-Tracking-and-Training-SmartShirt-Logo-1-e1458106072230.png",
+                            "image": "/main/img/oldtechimg/Truposture.jpg",
                             "video": "",
                             "main_link": "https://www.truposture.com/",
                             "article_links": [
@@ -16892,7 +16636,7 @@
                             "name": "Bionic lenses",
                             "author": "aec",
                             "description": "",
-                            "image": "/main/img/oldtechimg/Bionicvision.jpg",
+                            "image": "",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -17199,7 +16943,9 @@
                     "Animal Rights"
                 ],
                 "filterlists": [
-                    "Clube de Produtores | Qualidade | I&D",
+                    "Clube de Produtores",
+                    " Qualidade",
+                    " I&D",
                     "Comercial Alimentar"
                 ],
                 "highlights": {
@@ -17364,13 +17110,13 @@
                             "description": "Customize garments in-store using digital printing in textiles or 3D printing in accessories. Digital printers can be used to print customized patterns in clothes or shoes. 3D printers can provide customized buttons, zipper pulls, eyelets, or other ornaments",
                             "image": "",
                             "video": "",
-                            "prevwork": "There are multiple mature solutions in the market that may be integrated in existing services.",
+                            "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
                             ],
-                            "recommendation": "experiment",
-                            "impact": "low"
+                            "recommendation": "",
+                            "impact": ""
                         }
                     ],
                     "partner": [
@@ -17441,7 +17187,7 @@
                             "name": "Instagram’s Long-Awaited Checkout Feature Is Finally Here",
                             "author": "jgp",
                             "description": "",
-                            "image": "/main/img/oldtechimg/grabgo.jpg",
+                            "image": "",
                             "video": "",
                             "main_link": "https://www.adweek.com/digital/instagrams-long-awaited-checkout-feature-is-finally-here/",
                             "article_links": [
@@ -17672,7 +17418,7 @@
                             "name": "Toyota e-Palette",
                             "author": "tpc",
                             "description": "Toyota is developing a new autonomous vehicle able to make deliveries or heavy transportation. e-Palette has three sizes: small, medium and large. They're all the same width and height, only the length varies between vehicles.",
-                            "image": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F97b476969963c6c9f5299582667cbe68%2F206713157%2Feng-palette-edJT.jpg&client=amp-blogside-v2&signature=59258260be614c371a4ea6ad725a694164a3c65a",
+                            "image": "/main/img/oldtechimg/epalette.jpg",
                             "video": "https://www.youtube.com/watch?v=XmoPQuMlOYE",
                             "main_link": "https://www.engadget.com/2018/10/04/toyota-softbank-monet/?guccounter=1&guce_referrer_us=aHR0cHM6Ly93d3cuZ29vZ2xlLnB0Lw&guce_referrer_cs=fDjI0Mr5EA-YXelsnfyxiQ",
                             "article_links": [
@@ -17795,8 +17541,8 @@
                             "uid": "TECH01:2",
                             "name": "Crowdsight",
                             "author": "tpc",
-                            "description": "Crowdsight understands the audience's emotional reactions and engagement towards products, content and campaigns. They can collect important data on demographics such as age, gender and ethnicity.",
-                            "image": "https://sightcorp.com/wp-content/uploads/logo4.png",
+                            "description": "Crowdsight understand the audience emotional reactions and engagement towards products, content and campaigns. It can recognize important demographics such as age, gender and ethnicity.",
+                            "image": "/main/img/oldtechimg/Crowdsight.jpg",
                             "video": "",
                             "main_link": "http://sightcorp.com/crowdsight/",
                             "article_links": [
@@ -18105,7 +17851,7 @@
                     "partner": [
                         {
                             "uid": "TECH62:1",
-                            "name": "Cisco/Musion Telepresence",
+                            "name": "Cisco Telepresence",
                             "author": "tpc",
                             "description": "Eyeliner 3D by Musion offers a new and unique high definition video 3D hologram projector screen allowing spectacular freeform 3-dimensional holographic moving images to appear within a live stage setting",
                             "image": "/main/img/oldtechimg/cisco_holograms.jpg",
@@ -18125,7 +17871,7 @@
                             "name": "Holovect",
                             "author": "tpc",
                             "description": "The Holovect is a self-contained laser-based volumetric display system that fits on a lab bench or desktop. The Holovect Mk II is the first commercially available, laser-based desktop \"holographic\" display, capable of drawing 3D objects in air with light.",
-                            "image": "https://ksr-ugc.imgix.net/assets/013/972/968/057323913084762a3afa3a03c45f77c5_original.png?ixlib=rb-1.1.0&crop=faces&w=1552&h=873&fit=crop&v=1476320938&auto=format&frame=1&q=92&s=ee48f6bba88ef1ac908c98a0f6fa1c21",
+                            "image": "/main/img/oldtechimg/Holovect.jpg",
                             "video": "",
                             "main_link": "https://www.kickstarter.com/projects/2029950924/holovect-holographic-vector-display/description",
                             "article_links": [
@@ -18141,8 +17887,8 @@
                             "uid": "TECH63:3",
                             "name": "Looking Glass",
                             "author": "tpc",
-                            "description": "This \"personal volumetric display\" lets you see in VR without a headset, letting you share such content with people around you. The display is also interactive so you can move things around either by swiping on the touch-sensitive screen, waving your hands in front of it or pairing up a gaming controller. ",
-                            "image": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F9a6483eeb370c43c1e1cb78dca791f17%2F204386060%2FDSC00562-ed.jpg&client=amp-blogside-v2&signature=7054c3ccc717f6e07a88bc0831f6d25df21e3b05",
+                            "description": "This \"personal volumetric display\" let you see VR  without a headset, so you can share such content with people around you. The display is also interactive so you can move things around either by swiping on the touch-sensitive screen, waving your hands in front of it or pairing up a gaming controller. ",
+                            "image": "/main/img/oldtechimg/LookingGlass.jpg",
                             "video": "",
                             "main_link": "https://www.engadget.com/2016/09/28/volume-is-a-1-000-holographic-display-for-your-home/",
                             "article_links": [
@@ -18158,7 +17904,7 @@
                             "uid": "TECH63:1",
                             "name": "Dreamoc HD3",
                             "author": "tpc",
-                            "description": "This display is a great platform for grabbing attention in any busy commercial setting. With its size of less than two feet wide and one foot in height, the Dreamoc HD3 lets you tap into the curiosity of anyone passing by, making them stop and stare at your display by taking advantage of mixed reality.",
+                            "description": "This display is a great platform for grabbing a lot of attention in any busy commercial setting. With its measurements of less than two feet wide and one foot in height, the Dreamoc HD3 lets you tap into the curiosity of anyone passing by, making them stop and stare at your display by applying the experience of mixed reality.",
                             "image": "/main/img/oldtechimg/Dreamoc.jpg",
                             "video": "https://www.youtube.com/watch?v=HMFesJRwpks",
                             "main_link": "https://www.realfiction.com/solutions/dreamoc-hd3",
@@ -18175,26 +17921,10 @@
                             "uid": "PRT124",
                             "name": "Omknee",
                             "author": "jgp",
-                            "description": "Employees use Omknee to meet customer inquiries or preferences and finalize sales faster",
-                            "image": "https://www.omknee.com/img/Logo/Landscape-black.png",
+                            "description": "",
+                            "image": "",
                             "video": "",
                             "main_link": "https://www.omknee.com/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "PRT156",
-                            "name": "talkdesk",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "https://www.talkdesk.com/app/themes/talkdesk-com/assets/images/talkdesk-logo.svg",
-                            "video": "",
-                            "main_link": "https://www.talkdesk.com/why-talkdesk/",
                             "article_links": [
                                 ""
                             ],
@@ -18209,7 +17939,7 @@
                             "uid": "TECH73",
                             "name": "Artificial intelligence for Chatbots",
                             "author": "radar18",
-                            "description": "Chatbots allow us to get personalized information instantly. Chatbots are about delivering convenience, personalization, and decision support while people are multitasking. Either for customers on the go, to enable call center operators to get valuable information on-the-fly about the requirements of the multiple customers they are chatting with, or for sales associates to instantly access details about products and customers while assisting a client.",
+                            "description": "Chatbots allow us to get personalized information instantly. Chatbots are about delivering convenience, personalization, and decision support while people are multitasking. Either for customers on the go, for allow call centers operators reach valuable information about the requirements of the multiple customers they are chatting with, or for sales associates to access details about products and customers while assisting a client.",
                             "image": "https://www.petfoodindustry.com/ext/resources/Images-by-month-year/16_06/woman-salesman-using-tablet-in-pet-store.jpg",
                             "video": "",
                             "prevwork": "A previous study and a Proof-of-concept of a chatbot is about to be launched to assist post sales needs of Continente Online customers.",
@@ -18218,7 +17948,7 @@
                                 "https://www.akumina.com/office-365/akumina-helping-to-enable-retail-execution-at-nrf-2018-retails-big-show/"
                             ],
                             "recommendation": "experiment",
-                            "impact": "high"
+                            "impact": "very_high"
                         },
                         {
                             "uid": "TECH63",
@@ -18239,7 +17969,7 @@
                             "uid": "TECH62",
                             "name": "Holograms for Virtual presence",
                             "author": "radar18",
-                            "description": "Video conferencing replaced by holographic video meetings with full scale projection of people. Image is captured in real-time with depth-sensing cameras. The image is then used in a VR, AR or holographic environment, enabling natural dialog to occur as if it were presentially.",
+                            "description": "Video conferencing replaced by holographic video meetings with full scale projection of people. Image is captured in real-time with cameras with depth sensor. The image is then used in a VR, AR or holographic environment, being able to talk while seeing the other person.",
                             "image": "",
                             "video": "",
                             "prevwork": "",
@@ -18263,7 +17993,7 @@
                     "small": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png",
                     "large": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png"
                 },
-                "description": "With robots and automation making more and more frequent appearances in our everyday lives, we are confronted with the progressive decrease in human interaction. Despite this, at our core, we are social animals, and we like being with other people (whether we \"like\" it or not). A consequence that comes from this is that people cast authenticity and humanity in a brighter light. Federico Marchetti said it beautifully when he predicted that \"in the future there will be one label that will convey [a sense quality] to the customers - 'Made by Humans'\". Making the right choices when it comes to automation isn't always limited to efficiency and cost. Allowing the human touch to permeate your products and services where it matters most, can be a powerful loyalty driver, justifying and even contradicting RPAs or seamlessness.",
+                "description": "With robots and automation making more and more frequent appearances in our everyday lives, we, people, are confronted with the progressive decrease in human interaction. Despite this, at our core, we are social animals, and we like being with other people (whether we like it or not, ah!). A collateral consequence that arises is that people give authenticity and humanity higher value. Federico Marchetti said it beautifully when he predicted that \"in the future there will be one label that will convey [a sense quality] to the customers - 'Made by Humans'\".\nMaking the right choices when it comes to automation isn't always limited to efficiency and cost. Allowing the human touch to permeate your products and services where it matters most, can be a powerful loyalty driver, justifying and even contradicting RPAs or seamlessness.",
                 "list": "Trend Application",
                 "year": "Authenticity/Disconnection",
                 "multinational": false,
@@ -18279,8 +18009,8 @@
                             "uid": "IMP068",
                             "name": "REI Yay Days",
                             "author": "aec",
-                            "description": "After receiving their Yay Day coupons, employees fill out a small card explaining \"what they're 'yaying' about,\" which they sign and turn into their managers. It ties back to REI's commitment to helping people embark on adventures outside.",
-                            "image": "https://amp.businessinsider.com/images/5a955ab3aae60522008b45ce-750-562.jpg",
+                            "description": "",
+                            "image": "",
                             "video": "",
                             "main_link": "https://www.rei.com/blog/social/rei-employees-get-outside-and-play-with-yay-days",
                             "article_links": [
@@ -18291,7 +18021,7 @@
                             "uid": "IMP128",
                             "name": "Track time on Social Media",
                             "author": "jgp",
-                            "description": "Apple, Google, Facebook are all implementing digital wellness features on their services to help users reclaim time they spend on their phones and apps.",
+                            "description": "",
                             "image": "",
                             "video": "",
                             "main_link": "https://www.wired.com/story/your-time-on-facebook-digital-wellness/?utm_source=twitter&utm_brand=wired&utm_medium=social&utm_social-type=owned&mbid=social_twitter&utm_campaign=wired",
@@ -18304,7 +18034,7 @@
                             "name": "Super Bowl Sad Robots",
                             "author": "jgp",
                             "description": "Antonis Kocheilas, Global Leader, Brand Strategy, provides insights on the ads featured during the 2019 Super Bowl, an event where some argue that the ads are as important as the game itself. ",
-                            "image": "https://www.ogilvy.com/uploads/O190215_EA_AK_SUPERBOWL%20AD%20REVIEW.png",
+                            "image": "",
                             "video": "",
                             "main_link": "https://www.ogilvy.com/feed/playing-it-safe-advertising-in-super-bowl-liii/",
                             "article_links": [
@@ -18317,8 +18047,8 @@
                             "uid": "PRT130",
                             "name": "Affectiva",
                             "author": "jgp",
-                            "description": "Affectiva's emotion recognition tech is built with deep learning and is the world’s largest emotion database. Their software empowers digital experiences and enhances consumer insight.",
-                            "image": "https://foolventures.com/wp-content/uploads/2019/02/affectiva.png",
+                            "description": "Affectiva emotion recognition tech is built with deep learning and is the world’s largest emotion database. This software uses digital experiences and enhances consumer insights.",
+                            "image": "",
                             "video": "",
                             "main_link": "https://www.affectiva.com/",
                             "article_links": [
@@ -18333,8 +18063,8 @@
                             "uid": "TECH01:2",
                             "name": "Crowdsight",
                             "author": "tpc",
-                            "description": "Crowdsight understands the audience's emotional reactions and engagement towards products, content and campaigns. They can collect important data on demographics such as age, gender and ethnicity.",
-                            "image": "https://sightcorp.com/wp-content/uploads/logo4.png",
+                            "description": "Crowdsight understand the audience emotional reactions and engagement towards products, content and campaigns. It can recognize important demographics such as age, gender and ethnicity.",
+                            "image": "/main/img/oldtechimg/Crowdsight.jpg",
                             "video": "",
                             "main_link": "http://sightcorp.com/crowdsight/",
                             "article_links": [
@@ -18352,7 +18082,7 @@
                             "uid": "TECH01",
                             "name": "Artificial intelligence for Customer profiling",
                             "author": "radar18",
-                            "description": "Know in real-time the profile of customers as gender, age or mood. Sensors (e.g. cameras or microphones) capture customer's images or voice and the results are ran through algorithms. The output details the customer's profile such as mood, age or gender, which can be routed to sales associates or call center operators to deliver an appropriate service.",
+                            "description": "Know in real-time the profile of customers as gender, age or mood. Sensors (e.g. cameras or microphones) capture customer's images or voice and the results are processed using algorithms. The output are details about the profile of the customers such as mood, age or gender that can be delivered to sales associates or to call center operators to deliver an appropriate service.",
                             "image": "https://static01.nyt.com/images/2013/10/13/business/13-TECHNO-SUB/13-TECHNO-SUB-articleLarge.jpg",
                             "video": "",
                             "prevwork": "",
@@ -18377,7 +18107,7 @@
                     "small": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png",
                     "large": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png"
                 },
-                "description": "Develop and offer a range of innovative products and services to address the need customers have to enjoy some off-time, and detox from everyday frenetic continuous connection.",
+                "description": "Develop and communicate a new range of products and services to help customers that want to stay more time offline to still get convenience, quality and attractive prices.",
                 "list": "Trend Application",
                 "year": "Authenticity/Disconnection",
                 "multinational": false,
@@ -18405,8 +18135,8 @@
                             "uid": "IMP068",
                             "name": "REI Yay Days",
                             "author": "aec",
-                            "description": "After receiving their Yay Day coupons, employees fill out a small card explaining \"what they're 'yaying' about,\" which they sign and turn into their managers. It ties back to REI's commitment to helping people embark on adventures outside.",
-                            "image": "https://amp.businessinsider.com/images/5a955ab3aae60522008b45ce-750-562.jpg",
+                            "description": "",
+                            "image": "",
                             "video": "",
                             "main_link": "https://www.rei.com/blog/social/rei-employees-get-outside-and-play-with-yay-days",
                             "article_links": [
@@ -18415,10 +18145,10 @@
                         },
                         {
                             "uid": "IMP067",
-                            "name": "Hulu Instagram Egg Partnership",
+                            "name": "Instagram Egg",
                             "author": "aec",
                             "description": "",
-                            "image": "https://static.adweek.com/adweek.com-prod/wp-content/uploads/2019/02/hulu-egg-crack-CONTENT-1024x576.jpg",
+                            "image": "",
                             "video": "",
                             "main_link": "https://www.adweek.com/agencies/hulu-reveals-the-strategy-behind-its-partnership-with-instagrams-viral-world-record-egg/",
                             "article_links": [
@@ -18817,13 +18547,6 @@
             "edgetype": "micro_to_application"
         },
         {
-            "subject": "micro_MT15",
-            "predicate": "related",
-            "object": "app_REFIPACK",
-            "weight": 1,
-            "edgetype": "micro_to_application"
-        },
-        {
             "subject": "micro_MT16",
             "predicate": "related",
             "object": "app_CULTOFFE",
@@ -19076,13 +18799,6 @@
             "edgetype": "micro_to_application"
         },
         {
-            "subject": "micro_MT27",
-            "predicate": "related",
-            "object": "app_REFIPACK",
-            "weight": 1,
-            "edgetype": "micro_to_application"
-        },
-        {
             "subject": "micro_MT28",
             "predicate": "related",
             "object": "app_SOCICOMM",
@@ -19323,13 +19039,6 @@
         {
             "subject": "micro_MT39",
             "predicate": "related",
-            "object": "app_AUTOSTYL",
-            "weight": 1,
-            "edgetype": "micro_to_application"
-        },
-        {
-            "subject": "micro_MT39",
-            "predicate": "related",
             "object": "app_AUTORECO",
             "weight": 1,
             "edgetype": "micro_to_application"
@@ -19400,98 +19109,98 @@
         {
             "subject": "app_SHARTALE",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1268",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_SHARFUTU",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1265",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_CONTTRAI",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1269",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_EDUCRETA",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1269",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_INTERENE",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_COMMRENE",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1268",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_ELECDELI",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1268",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_AUTOSUST",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1268",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_WASTBASE",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_OPTICYCL",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_ALTEPLAS",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1263",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_RETHPACK",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1264",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_EDUCCUST",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1264",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_RECYCLES",
             "predicate": "broader",
-            "object": "vocabulary_ich_1286",
+            "object": "vocabulary_ich_1287",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
@@ -19519,56 +19228,56 @@
         {
             "subject": "app_VIRTASSI",
             "predicate": "broader",
-            "object": "vocabulary_ich_1269",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_AUTOORDE",
             "predicate": "broader",
-            "object": "vocabulary_ich_1269",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_AUTOSTYL",
             "predicate": "broader",
-            "object": "vocabulary_ich_1269",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_AGILSHOP",
             "predicate": "broader",
-            "object": "vocabulary_ich_1269",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_VOICCONT",
             "predicate": "broader",
-            "object": "vocabulary_ich_1269",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_MOTICONT",
             "predicate": "broader",
-            "object": "vocabulary_ich_1269",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_BIOMVALI",
             "predicate": "broader",
-            "object": "vocabulary_ich_1269",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_VIRTCARD",
             "predicate": "broader",
-            "object": "vocabulary_ich_1269",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
@@ -19596,119 +19305,119 @@
         {
             "subject": "app_KILLNOIS",
             "predicate": "broader",
-            "object": "vocabulary_ich_1269",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_SILVSURF",
             "predicate": "broader",
-            "object": "vocabulary_ich_1263",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_CHEACHEA",
             "predicate": "broader",
-            "object": "vocabulary_ich_1263",
+            "object": "vocabulary_ich_1287",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_SIMPSHOW",
             "predicate": "broader",
-            "object": "vocabulary_ich_1263",
+            "object": "vocabulary_ich_1287",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_CONVCONV",
             "predicate": "broader",
-            "object": "vocabulary_ich_1263",
+            "object": "vocabulary_ich_1287",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_HOMETRYO",
             "predicate": "broader",
-            "object": "vocabulary_ich_1263",
+            "object": "vocabulary_ich_1269",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_VIRTTRYO",
             "predicate": "broader",
-            "object": "vocabulary_ich_1263",
+            "object": "vocabulary_ich_1269",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_LUXURANG",
             "predicate": "broader",
-            "object": "vocabulary_ich_1263",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_PARAPROD",
             "predicate": "broader",
-            "object": "vocabulary_ich_1263",
+            "object": "vocabulary_ich_1268",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_DIFFSTRY",
             "predicate": "broader",
-            "object": "vocabulary_ich_1267",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_COMPCONT",
             "predicate": "broader",
-            "object": "vocabulary_ich_1267",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_PERCONGDS",
             "predicate": "broader",
-            "object": "vocabulary_ich_1267",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_SUBSPROT",
             "predicate": "broader",
-            "object": "vocabulary_ich_1267",
+            "object": "vocabulary_ich_1269",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_FLEXCAMP",
             "predicate": "broader",
-            "object": "vocabulary_ich_1267",
+            "object": "vocabulary_ich_1269",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_ADAPCONV",
             "predicate": "broader",
-            "object": "vocabulary_ich_1267",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_SMALFORM",
             "predicate": "broader",
-            "object": "vocabulary_ich_1267",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_HEALSUPP",
             "predicate": "broader",
-            "object": "vocabulary_ich_1264",
+            "object": "vocabulary_ich_1267",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
@@ -19722,28 +19431,28 @@
         {
             "subject": "app_NUTRCOUN",
             "predicate": "broader",
-            "object": "vocabulary_ich_1264",
+            "object": "vocabulary_ich_1267",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_PROBIOTI",
             "predicate": "broader",
-            "object": "vocabulary_ich_1264",
+            "object": "vocabulary_ich_1267",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_FUNCFOOD",
             "predicate": "broader",
-            "object": "vocabulary_ich_1264",
+            "object": "vocabulary_ich_1263",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_FOODPURP",
             "predicate": "broader",
-            "object": "vocabulary_ich_1264",
+            "object": "vocabulary_ich_1267",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
@@ -19757,28 +19466,28 @@
         {
             "subject": "app_HEALINDU",
             "predicate": "broader",
-            "object": "vocabulary_ich_1287",
+            "object": "vocabulary_ich_1264",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_GRMTJNKK",
             "predicate": "broader",
-            "object": "vocabulary_ich_1287",
+            "object": "vocabulary_ich_1264",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_CUSTSTOR",
             "predicate": "broader",
-            "object": "vocabulary_ich_1287",
+            "object": "vocabulary_ich_1265",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_AUTOTASK",
             "predicate": "broader",
-            "object": "vocabulary_ich_1287",
+            "object": "vocabulary_ich_1284",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
@@ -19799,98 +19508,98 @@
         {
             "subject": "app_TRANWATC",
             "predicate": "broader",
-            "object": "vocabulary_ich_1284",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_GLASSBOX",
             "predicate": "broader",
-            "object": "vocabulary_ich_1284",
+            "object": "vocabulary_ich_1263",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_TRACEABI",
             "predicate": "broader",
-            "object": "vocabulary_ich_1284",
+            "object": "vocabulary_ich_1263",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_ETHIINFO",
             "predicate": "broader",
-            "object": "vocabulary_ich_1284",
+            "object": "vocabulary_ich_1263",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_CLEALABE",
             "predicate": "broader",
-            "object": "vocabulary_ich_1284",
+            "object": "vocabulary_ich_1263",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_CULTOFFE",
             "predicate": "broader",
-            "object": "vocabulary_ich_1284",
+            "object": "vocabulary_ich_1263",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_EMPOAWAR",
             "predicate": "broader",
-            "object": "vocabulary_ich_1284",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_GREYGIGS",
             "predicate": "broader",
-            "object": "vocabulary_ich_1284",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_CORPOASI",
             "predicate": "broader",
-            "object": "vocabulary_ich_1284",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_GENDDESI",
             "predicate": "broader",
-            "object": "vocabulary_ich_1284",
+            "object": "vocabulary_ich_1267",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_CRUEFREE",
             "predicate": "broader",
-            "object": "vocabulary_ich_1284",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_AWARCAMP",
             "predicate": "broader",
-            "object": "vocabulary_ich_1284",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_SOCICOMM",
             "predicate": "broader",
-            "object": "vocabulary_ich_1268",
+            "object": "vocabulary_ich_1287",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_VLOGGING",
             "predicate": "broader",
-            "object": "vocabulary_ich_1268",
+            "object": "vocabulary_ich_1287",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
@@ -19904,49 +19613,49 @@
         {
             "subject": "app_QICKDLVR",
             "predicate": "broader",
-            "object": "vocabulary_ich_1268",
+            "object": "vocabulary_ich_1264",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_REWASTEP",
             "predicate": "broader",
-            "object": "vocabulary_ich_1268",
+            "object": "vocabulary_ich_1264",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_TRIBECOM",
             "predicate": "broader",
-            "object": "vocabulary_ich_1268",
+            "object": "vocabulary_ich_1269",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_TEMPCAMP",
             "predicate": "broader",
-            "object": "vocabulary_ich_1268",
+            "object": "vocabulary_ich_1269",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_TOOLHUMA",
             "predicate": "broader",
-            "object": "vocabulary_ich_1265",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_PRAIHUMA",
             "predicate": "broader",
-            "object": "vocabulary_ich_1265",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         },
         {
             "subject": "app_OFFLPROD",
             "predicate": "broader",
-            "object": "vocabulary_ich_1265",
+            "object": "vocabulary_ich_1286",
             "weight": 2,
             "edgetype": "app_to_mega"
         }
