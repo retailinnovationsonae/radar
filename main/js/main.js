@@ -736,13 +736,13 @@ function fillFilterMenu() {
                 for (k in input[key].meta.filterlists) {
                     if(keys.indexOf(input[key].meta.filterlists[k]) == -1) {
                         keys.push(input[key].meta.filterlists[k]);
-                        console.log(input[key].meta.filterlists,i)
+                        //console.log(input[key].meta.filterlists,i)
                     }
                 }
             }
         });
     }
-    console.log(keys)
+    //console.log(keys)
 
     d3.select("#filterOptionsHyperlinks")
     .selectAll("a.dropdown-item")
