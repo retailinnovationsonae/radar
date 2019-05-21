@@ -32893,17 +32893,7 @@ function extend() {
 }
 
 },{}],190:[function(require,module,exports){
-// window.urlMetadata = require('url-metadata')
-
-const urlMetadata = require('url-metadata')
-urlMetadata('http://sonae.pt').then(
-  function (metadata) { // success handler
-    console.log(metadata)
-  },
-  function (error) { // failure handler
-    console.log(error)
-  })
-
+window.urlMetadata = require('url-metadata')
 },{"url-metadata":191}],191:[function(require,module,exports){
 const q = require('q')
 const request = require('request')
