@@ -1,7 +1,7 @@
 {
     "meta": {
         "language": "en",
-        "generated": "2019-05-22T10:42:31.085Z"
+        "generated": "2019-05-22T15:56:21.196Z"
     },
     "nodes": {
         "vocabulary_ich_1265": {
@@ -1238,19 +1238,58 @@
                     " Maxmat​"
                 ],
                 "highlights": {
-                    "implementation": [
+                    "partner": [
                         {
                             "uid": "IMP139",
                             "name": "Thumbtack",
                             "author": "jgp",
-                            "description": "Find local professionals for pretty much anything.",
-                            "image": "https://media.licdn.com/dms/image/C4E0BAQEvA0PTZseESQ/company-logo_400_400/0?e=1566432000&v=beta&t=R3g_op92komu2mcob46lejNWlFkHJAQKJzxD0nSosVg",
+                            "description": "Thumbtack is an online service marketplace wherein the service providers list out the best of their services under the niches – home services, cooking, food and beverages, business and legal constitutions, writing, mechanical services, gardening, cleaning, event management, decorations, point-to-point delivery services, writing and translation services, wedding akin services, and much more. They follow a ‘Pay per intro’ model ",
+                            "image": "https://d2z1w4aiblvrwu.cloudfront.net/ad/dso_/thumbtack-find-local-pros-large-3.jpg",
                             "video": "",
                             "main_link": "https://www.thumbtack.com/",
                             "article_links": [
+                                "https://techcrunch.com/2019/02/19/thumbtack-now-offers-benefits-to-independent-contractors/",
+                                "https://www.trootech.com/the-competitors-of-thumbtack/"
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
                                 ""
                             ]
                         },
+                        {
+                            "uid": "PRT079",
+                            "name": "Forge",
+                            "author": "jgp",
+                            "description": "The app to challenge and be challenged by friends, brands and other fascinating people.",
+                            "image": "https://media.licdn.com/dms/image/C510BAQG3PkuXR8LVSA/company-logo_400_400/0?e=1566432000&v=beta&t=11exHug5MqvpbkfPVw-JEUNC7T2Z4eoCUx08h4wzc1c",
+                            "video": "",
+                            "main_link": "https://www.joinforge.com/",
+                            "article_links": [
+                                "https://www.forbes.com/sites/theyec/2019/01/24/how-the-sharing-economy-is-shaping-the-future-of-retail/#1f5dab1f17bc"
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "PRT158",
+                            "name": "Task Rabbit",
+                            "author": "tpc",
+                            "description": "​",
+                            "image": "https://i0.wp.com/blog.taskrabbit.com/wp-content/uploads/2018/02/lv-room.jpg?zoom=1.25&resize=640%2C320&ssl=1",
+                            "video": "",
+                            "main_link": "https://www.taskrabbit.com/",
+                            "article_links": [
+                                ""
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                ""
+                            ]
+                        }
+                    ],
+                    "implementation": [
                         {
                             "uid": "IMP191",
                             "name": "How businesses can benefit from the gig economy?",
@@ -1284,40 +1323,6 @@
                             "video": "",
                             "main_link": "https://www.cnbc.com/2018/09/21/retailers-are-hiring-but-are-there-enough-workers.html",
                             "article_links": [
-                                ""
-                            ]
-                        }
-                    ],
-                    "partner": [
-                        {
-                            "uid": "PRT079",
-                            "name": "Forge",
-                            "author": "jgp",
-                            "description": "The app to challenge and be challenged by friends, brands and other fascinating people.",
-                            "image": "https://media.licdn.com/dms/image/C510BAQG3PkuXR8LVSA/company-logo_400_400/0?e=1566432000&v=beta&t=11exHug5MqvpbkfPVw-JEUNC7T2Z4eoCUx08h4wzc1c",
-                            "video": "",
-                            "main_link": "https://www.joinforge.com/",
-                            "article_links": [
-                                "https://www.forbes.com/sites/theyec/2019/01/24/how-the-sharing-economy-is-shaping-the-future-of-retail/#1f5dab1f17bc"
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "PRT158",
-                            "name": "Task Rabbit",
-                            "author": "tpc",
-                            "description": "​",
-                            "image": "https://i0.wp.com/blog.taskrabbit.com/wp-content/uploads/2018/02/lv-room.jpg?zoom=1.25&resize=640%2C320&ssl=1",
-                            "video": "",
-                            "main_link": "https://www.taskrabbit.com/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
                                 ""
                             ]
                         }
@@ -1381,6 +1386,32 @@
                             "sonar_link": "",
                             "related_highlights": [
                                 ""
+                            ]
+                        }
+                    ],
+                    "implementation": [
+                        {
+                            "uid": "IMP194",
+                            "name": "Cities and the Circular Economy for Food",
+                            "author": "tpc",
+                            "description": "Sonae MC joined the Ellen MacArthur Foundation’s study on the transition of urban food systems towards a circular model. It outlined the main challenges to be addressed and the main areas of action to be developed, namely: sourcing food grown regeneratively and locally, where appropriate; making the most of food; and designing and marketing food products that are not only healthy from a nutritional point of view, but also in the way they are produced. Porto is one of the four focus cities where an in-depth analysis was carried out,\nalong with Brussels, Guelph and São Paulo.",
+                            "image": "https://cdn-images-1.medium.com/max/1200/1*3lBxJLy6_fMIc2nsD9KBKA.png",
+                            "video": "",
+                            "main_link": "https://www.ellenmacarthurfoundation.org/assets/downloads/insight/CCEFF_Full-report_May-2019_Web.pdf",
+                            "article_links": [
+                                "https://medium.com/aliados-the-challenges-consulting/aliados-contribui-para-estudo-cities-and-the-circular-economy-for-food-f708f726581d"
+                            ]
+                        },
+                        {
+                            "uid": "IMP195",
+                            "name": "Intermarché's Inglorious fruits & vegetables",
+                            "author": "tpc",
+                            "description": "Intermarché, decided to fight this food waste while passing down savings to the consumer. The result? Inglorious fruits & vegetables. This is such a good idea, I hope more grocery stores around the globe consider doing the same!\nRead more at https://www.reshareworthy.com/supermarket-intermarche-fights-food-waste/#OAEIaFvOHsHC0lu5.99",
+                            "image": "https://i2.wp.com/metro.co.uk/wp-content/uploads/2015/05/ad_169720643.jpg",
+                            "video": "",
+                            "main_link": "https://www.reshareworthy.com/supermarket-intermarche-fights-food-waste/",
+                            "article_links": [
+                                "http://itm.marcelww.com/inglorious/"
                             ]
                         }
                     ]
@@ -2150,6 +2181,21 @@
                             "recommendation": "study",
                             "impact": "low"
                         }
+                    ],
+                    "implementation": [
+                        {
+                            "uid": "IMP196",
+                            "name": "Home Depot's solar deal with Tesla ",
+                            "author": "tpc",
+                            "description": "Tesla partnered with Home Depot to sell its Powerwall and Solar Roof products directly to consumers. Tesla even had its own employees on hand at Home Depot locations to tout the benefits of the tech. This partnership was anounced in January 2018, butr ended last in 2018 becaus Tesla decided to open theor own stores.",
+                            "image": "https://www.retaildive.com/user_media/cache/0f/72/0f72811cfba4af3f5eaae055c4a6bed9.jpg",
+                            "video": "",
+                            "main_link": "https://www.retaildive.com/news/home-depots-solar-deal-with-tesla-flames-out/525696/",
+                            "article_links": [
+                                "https://eu.usatoday.com/story/tech/2018/06/12/tesla-pulls-plug-home-depot-solar-sales-four-months-after-kickoff/696101002/",
+                                ""
+                            ]
+                        }
                     ]
                 }
             }
@@ -2177,7 +2223,7 @@
                     " Maxmat​"
                 ],
                 "highlights": {
-                    "implementation": [
+                    "partner": [
                         {
                             "uid": "TECH25:2",
                             "name": "Gita",
@@ -2188,10 +2234,14 @@
                             "main_link": "https://piaggiofastforward.com/gita",
                             "article_links": [
                                 ""
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                "TECH25",
+                                "TECH25:1",
+                                "TECH25:3"
                             ]
-                        }
-                    ],
-                    "partner": [
+                        },
                         {
                             "uid": "TECH25:1",
                             "name": "Starship Technologies",
@@ -2244,6 +2294,20 @@
                             ],
                             "recommendation": "study",
                             "impact": "high"
+                        }
+                    ],
+                    "implementation": [
+                        {
+                            "uid": "IMP197",
+                            "name": "GM’s Cruise partners with DoorDash to test autonomous food delivery",
+                            "author": "tpc",
+                            "description": "Cruise Automation, the self-driving unit of General Motors, is teaming up with DoorDash to test a food delivery service in San Francisco using autonomous vehicles. ",
+                            "image": "https://cdn.vox-cdn.com/thumbor/noXAZeO9wWBfMo0NRq_tppLdZTs=/0x0:2658x1546/920x613/filters:focal(1117x561:1541x985):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/62775918/cruise_gm_bolt.0.jpg",
+                            "video": "",
+                            "main_link": "https://www.theverge.com/2019/1/3/18166660/gm-cruise-doordash-test-self-driving-food-delivery",
+                            "article_links": [
+                                ""
+                            ]
                         }
                     ]
                 }
@@ -4451,7 +4515,7 @@
                             "name": "Kami AI",
                             "author": "jgp",
                             "description": "KAMI's Conversational AI architecture is designed to empower machines with the abilities of understanding and generating natural dialogue.",
-                            "image": "https://kami.ai/wp-content/themes/Kami/img/logo-dark.png",
+                            "image": "https://media.licdn.com/dms/image/C4D0BAQHdg8nC2Gi0Zw/company-logo_400_400/0?e=1566432000&v=beta&t=ZLkqBkDIBcrwgJO_JS5hedemxMnjPkrqeMHqWSjMED8",
                             "video": "",
                             "main_link": "https://kami.ai/",
                             "article_links": [
@@ -5065,7 +5129,7 @@
                             "uid": "PRT148",
                             "name": "Spoon Guru",
                             "author": "jgp",
-                            "description": "",
+                            "description": "Whatever the dietary requirements, Spoon Guru finds food for everybody.",
                             "image": "https://www.spoon.guru/wp-content/uploads/2019/01/Sppon-Guru-Logo.jpg",
                             "video": "",
                             "main_link": "https://www.spoon.guru/usa/",
@@ -5496,11 +5560,27 @@
                             ]
                         },
                         {
+                            "uid": "PRT129",
+                            "name": "Cooler Screens",
+                            "author": "jgp",
+                            "description": "At Cooler Screens, we’re transforming retail cooler surfaces into IoT enabled screens. And in doing so, we’re creating the largest retail point-of-sale merchandising platform in the world.",
+                            "image": "https://static1.squarespace.com/static/59e4d159e9bfdf35489a181f/t/5bda0d68032be47a9f3a891e/1554233701075/?format=1500w",
+                            "video": "",
+                            "main_link": "https://www.coolerscreens.com/",
+                            "article_links": [
+                                ""
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                ""
+                            ]
+                        },
+                        {
                             "uid": "PRT154",
-                            "name": "INFRASPEAK",
+                            "name": "Infraspeak",
                             "author": "jgp",
                             "description": "Provide your customers with a better in-store experience by taking full control of your maintenance operations.",
-                            "image": "http://home.infraspeak.com/wp-content/uploads/2016/12/is-logowebsite-x1.png",
+                            "image": "https://startupxplore.com/uploads/ff808081567499510156bc205f0f060c-large.png",
                             "video": "",
                             "main_link": "http://home.infraspeak.com/retail-management/",
                             "article_links": [
@@ -7277,7 +7357,7 @@
                             "name": "Microsoft Azure - machine learning",
                             "author": "tpc",
                             "description": "Azure Machine Learning not only provides tools to model predictive analytics, but also provides a fully-managed service you can use to deploy your predictive models as ready-to-consume web services.",
-                            "image": "https://azure.microsoft.com/svghandler/machine-learning-studio?width=600&height=315",
+                            "image": "https://azurecomcdn.azureedge.net/cvt-5fb6a266e9ba482b0dcfe66cef2bcf71c4c4ad4663200273486c80d67bbee7f8/images/page/services/machine-learning-studio/simple-scalable-cutting-edge.jpg",
                             "video": "",
                             "main_link": "https://azure.microsoft.com/pt-pt/services/machine-learning/",
                             "article_links": [
@@ -7979,7 +8059,7 @@
                             "uid": "TECH04:2",
                             "name": "ActivityStream",
                             "author": "tpc",
-                            "description": "The Activity Stream platform and the associated industry specific solutions let unify relevant business activity from internal and external systems, analyze and enrich the data, help see the big picture, discover valuable insights and distribute actionable items to the entire team.",
+                            "description": "The Activity Stream platform and the associated industry specific solutions lets you unify relevant business activity from internal and external systems, analyze and enrich the data, helps see the big picture, discover valuable insights and distribute actionable items to the relevant team.",
                             "image": "https://www.activitystream.com/wp-content/uploads/2018/10/brain.png",
                             "video": "",
                             "main_link": "https://www.activitystream.com/",
@@ -8042,7 +8122,7 @@
                             "name": "Energid Citrus Picking System",
                             "author": "tpc",
                             "description": "This big but low cost orange-picking gadget can clear an orange tree for as little or less than what human labor would cost. That means picking an orange every two to three seconds. ",
-                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--PmmHPj_0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/qwimep4soyebvdcee4ke.jpg",
+                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--8ts7jwIJ--/c_scale,f_auto,fl_progressive,q_80,w_800/cziqjpxet9piwz5baqpe.jpg",
                             "video": "",
                             "main_link": "https://gizmodo.com/13-fascinating-farming-robots-that-will-feed-our-future-1683489468",
                             "article_links": [
@@ -8060,7 +8140,7 @@
                             "name": "Blue River LettuceBot2",
                             "author": "tpc",
                             "description": "This highly popular robot attaches to a tractor and thins out lettuce fields. It can also spray insecticide and weed the rows between crops. If it could just learn how to make a salad.",
-                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--PmmHPj_0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/qwimep4soyebvdcee4ke.jpg",
+                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--uTaqtjot--/c_scale,f_auto,fl_progressive,q_80,w_800/k9evusygdplt30ookkri.jpg",
                             "video": "",
                             "main_link": "https://gizmodo.com/13-fascinating-farming-robots-that-will-feed-our-future-1683489468",
                             "article_links": [
@@ -8156,7 +8236,7 @@
                             "name": "Wiigo",
                             "author": "tpc",
                             "description": "WiiGo is an autonomous robot that works as a shopping cart that follows you through the store and carries your purchases.",
-                            "image": "http://followinspiration.pt/wp-content/uploads/2017/10/ahhhhhhhh-1.jpg",
+                            "image": "http://followinspiration.pt/wp-content/uploads/2017/10/wiiGO-Retail.png",
                             "video": "",
                             "main_link": "http://followinspiration.pt/",
                             "article_links": [
@@ -8245,26 +8325,10 @@
                             "uid": "PRT013",
                             "name": "troniTAG",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "Working closely with LG Innotek, one of the market leaders in consumer electronics, we enable the adoption of advanced technologies and integration with existing systems – no requirement is too specific for us.",
+                            "image": "https://tronitag.com/wp-content/uploads/2017/05/logo_tronitag.png",
                             "video": "",
                             "main_link": "https://www.tronitag.com/us/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "PRT016",
-                            "name": "Time on Time",
-                            "author": "jgp",
-                            "description": "",
-                            "image": "",
-                            "video": "",
-                            "main_link": "http://www.ontimesmart.com/",
                             "article_links": [
                                 ""
                             ],
@@ -8277,8 +8341,8 @@
                             "uid": "TECH91:2",
                             "name": "LoRa by Semtech",
                             "author": "tpc",
-                            "description": "",
-                            "image": "",
+                            "description": "LoRa Technology is the DNA of IoT, connecting sensors to the Cloud and enabling real-time communication of data and analytics that can be utilized to enhance efficiency and productivity.",
+                            "image": "https://www.semtech.com/assets/img/semtech-logo.svg",
                             "video": "",
                             "main_link": "https://www.semtech.com/lora",
                             "article_links": [
@@ -8296,8 +8360,8 @@
                             "uid": "TECH67:1",
                             "name": "HiveTracker",
                             "author": "tpc",
-                            "description": "",
-                            "image": "",
+                            "description": "What if you could have visibility of every item for every step, every event and every change to every actor of your Supply Chain through a unique collaboration HUB in real time?",
+                            "image": "https://media.licdn.com/dms/image/C4E0BAQHCmqj6c87w4A/company-logo_400_400/0?e=1566432000&v=beta&t=kKbArpyzAZejDoMqR-fCmFwVaEsHpVq_kjB6Yll9X7Q",
                             "video": "",
                             "main_link": "https://www.hivetracker.io/",
                             "article_links": [
@@ -8434,10 +8498,10 @@
                         },
                         {
                             "uid": "PRT154",
-                            "name": "INFRASPEAK",
+                            "name": "Infraspeak",
                             "author": "jgp",
                             "description": "Provide your customers with a better in-store experience by taking full control of your maintenance operations.",
-                            "image": "http://home.infraspeak.com/wp-content/uploads/2016/12/is-logowebsite-x1.png",
+                            "image": "https://startupxplore.com/uploads/ff808081567499510156bc205f0f060c-large.png",
                             "video": "",
                             "main_link": "http://home.infraspeak.com/retail-management/",
                             "article_links": [
@@ -8922,9 +8986,9 @@
                     "implementation": [
                         {
                             "uid": "IMP163",
-                            "name": "\nWalmart acquires Israel’s Aspectiva, which analyses UGC to recommend products to shoppers",
+                            "name": "\nWalmart acquires Israel’s Aspectiva",
                             "author": "jgp",
-                            "description": "",
+                            "description": "Aspectiva analyses UGC to recommend products to shoppers.",
                             "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-463871936.jpg?w=990&crop=1",
                             "video": "",
                             "main_link": "https://techcrunch.com/2019/02/25/walmart-acquires-israels-aspectiva-which-analyses-ugc-to-recommend-products-to-shoppers/",
@@ -8934,7 +8998,7 @@
                         },
                         {
                             "uid": "TECH22:1",
-                            "name": "Telstra",
+                            "name": "Telstra NFC Tags",
                             "author": "tpc",
                             "description": "Australian telecommunications provider Telstra is now applying NFC tags to all its broadband modems, enabling customers to access personalised help, information and support recommendations by tapping the tag with their NFC phone.",
                             "image": "https://pbs.twimg.com/profile_images/940795144252592128/dwfNV7XD_400x400.jpg",
@@ -8964,18 +9028,6 @@
                             "image": "https://assets.nydailynews.com/polopoly_fs/1.2951325.1484927756!/img/httpImage/image.jpg_gen/derivatives/article_750/jaguar-land-rover-vr-headset-discovery.jpg",
                             "video": "",
                             "main_link": "http://www.jaguarlandrover.com/news/2017/01/jaguar-land-rover-customers-immerse-themselves-virtual-vehicles",
-                            "article_links": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "TECH25:2",
-                            "name": "Gita",
-                            "author": "tpc",
-                            "description": "Gita is built to carry up to 44 pounds of cargo and a volume of up to 2,000 cubic inches. It easily navigates the urban environment. It can follow a determined route or follow a person.",
-                            "image": "https://spectrum.ieee.org/image/Mjg2MTA2Ng.jpeg",
-                            "video": "",
-                            "main_link": "https://piaggiofastforward.com/gita",
                             "article_links": [
                                 ""
                             ]
@@ -9056,7 +9108,7 @@
                             "uid": "IMP013",
                             "name": "Tide Ad",
                             "author": "jgp",
-                            "description": "Here are the links to the original videos by Tide I do not own any of these videos, they are all owned by tide https://www.youtube.com/watch?v=doP7xKdGOKs&t=...",
+                            "description": "It's a Tide ad.",
                             "image": "https://i.ytimg.com/vi/IIW3l-ENHdA/maxresdefault.jpg",
                             "video": "",
                             "main_link": "https://www.youtube.com/watch?v=IIW3l-ENHdA",
@@ -9079,6 +9131,24 @@
                         }
                     ],
                     "partner": [
+                        {
+                            "uid": "TECH25:2",
+                            "name": "Gita",
+                            "author": "tpc",
+                            "description": "Gita is built to carry up to 44 pounds of cargo and a volume of up to 2,000 cubic inches. It easily navigates the urban environment. It can follow a determined route or follow a person.",
+                            "image": "https://spectrum.ieee.org/image/Mjg2MTA2Ng.jpeg",
+                            "video": "",
+                            "main_link": "https://piaggiofastforward.com/gita",
+                            "article_links": [
+                                ""
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                "TECH25",
+                                "TECH25:1",
+                                "TECH25:3"
+                            ]
+                        },
                         {
                             "uid": "TECH38:1",
                             "name": "Sixense - vRetail",
@@ -9352,7 +9422,7 @@
                             "name": "Wiigo",
                             "author": "tpc",
                             "description": "WiiGo is an autonomous robot that works as a shopping cart that follows you through the store and carries your purchases.",
-                            "image": "http://followinspiration.pt/wp-content/uploads/2017/10/ahhhhhhhh-1.jpg",
+                            "image": "http://followinspiration.pt/wp-content/uploads/2017/10/wiiGO-Retail.png",
                             "video": "",
                             "main_link": "http://followinspiration.pt/",
                             "article_links": [
@@ -9402,7 +9472,7 @@
                             "uid": "PRT019",
                             "name": "Selitera",
                             "author": "jgp",
-                            "description": "",
+                            "description": "Selitera envisions a future, where physical space and digital space is one; a future that brings the digital experience into retail stores and in the indoor and outdoor advertising.",
                             "image": "http://www.selitera.com/Common/images/logo.svg",
                             "video": "",
                             "main_link": "http://www.selitera.com/",
@@ -9418,7 +9488,7 @@
                             "uid": "PRT129",
                             "name": "Cooler Screens",
                             "author": "jgp",
-                            "description": "",
+                            "description": "At Cooler Screens, we’re transforming retail cooler surfaces into IoT enabled screens. And in doing so, we’re creating the largest retail point-of-sale merchandising platform in the world.",
                             "image": "https://static1.squarespace.com/static/59e4d159e9bfdf35489a181f/t/5bda0d68032be47a9f3a891e/1554233701075/?format=1500w",
                             "video": "",
                             "main_link": "https://www.coolerscreens.com/",
@@ -9434,7 +9504,7 @@
                             "uid": "PRT144",
                             "name": "Farmer's Fridge",
                             "author": "jgp",
-                            "description": "",
+                            "description": "We make fresh meals in our kitchen and fill our Fridges with wholesome, delicious salads, bowls, snacks and more. Unpurchased items are regularly donated to local food pantries, providing responsibly sourced nutrition to community members in need.",
                             "image": "https://www.farmersfridge.com/_next/static/images/Fridge_Render-3455cac97fd6ec7bf23dcda1a95d3a25.png",
                             "video": "",
                             "main_link": "https://www.farmersfridge.com/",
@@ -9450,7 +9520,7 @@
                             "uid": "PRT145",
                             "name": "kencko",
                             "author": "jgp",
-                            "description": "",
+                            "description": "Instant fruit and vegetable smoothies, delivered. No need to freeze or blend, just shake it up and go. 100% organic. No added sugar. All the good stuff.",
                             "image": "https://cdn.shopify.com/s/files/1/0051/2576/7232/t/20/assets/equation-yellows.jpg?24905",
                             "video": "",
                             "main_link": "https://www.kencko.com/",
@@ -9563,7 +9633,7 @@
                             "name": "Kami AI",
                             "author": "jgp",
                             "description": "KAMI's Conversational AI architecture is designed to empower machines with the abilities of understanding and generating natural dialogue.",
-                            "image": "https://kami.ai/wp-content/themes/Kami/img/logo-dark.png",
+                            "image": "https://media.licdn.com/dms/image/C4D0BAQHdg8nC2Gi0Zw/company-logo_400_400/0?e=1566432000&v=beta&t=ZLkqBkDIBcrwgJO_JS5hedemxMnjPkrqeMHqWSjMED8",
                             "video": "",
                             "main_link": "https://kami.ai/",
                             "article_links": [
@@ -9624,10 +9694,10 @@
                         },
                         {
                             "uid": "PRT154",
-                            "name": "INFRASPEAK",
+                            "name": "Infraspeak",
                             "author": "jgp",
                             "description": "Provide your customers with a better in-store experience by taking full control of your maintenance operations.",
-                            "image": "http://home.infraspeak.com/wp-content/uploads/2016/12/is-logowebsite-x1.png",
+                            "image": "https://startupxplore.com/uploads/ff808081567499510156bc205f0f060c-large.png",
                             "video": "",
                             "main_link": "http://home.infraspeak.com/retail-management/",
                             "article_links": [
@@ -10281,7 +10351,7 @@
                             "name": "COMPT",
                             "author": "jgp",
                             "description": "Create easy-to-manage and flexible Lifestyle Spending Accounts that put the money in the hands of your employees so they can get the perks they want and need most.",
-                            "image": "",
+                            "image": "https://media.licdn.com/dms/image/C4D0BAQFmW-QW7bxQWA/company-logo_400_400/0?e=1566432000&v=beta&t=BojjRIMisHPTDrb4op7kkfxhRrZSVqK6yvru4RVnU1g",
                             "video": "",
                             "main_link": "https://www.compt.io/?ref=betalist",
                             "article_links": [
@@ -10384,7 +10454,7 @@
                             "name": "ciVALUE",
                             "author": "jgp",
                             "description": "ciValue’s Precision Marketing platform helps you collaborate with suppliers to provide hyper-personalized offers to customers. ciValue’s customer behavior analytics and personalization, combined with Nielsen’s data and insight assets, ensure that your customers visit more often and buy larger more diverse baskets that truly fulfill their needs.",
-                            "image": "",
+                            "image": "https://static.wixstatic.com/media/44807e_eabc514e4fd84769ada1b4857066e55e~mv2.png/v1/fill/w_200,h_41,al_c,lg_1,q_80/Logo.webp",
                             "video": "",
                             "main_link": "https://www.civalue.com/",
                             "article_links": [
@@ -10467,8 +10537,8 @@
                             "uid": "PRT037",
                             "name": "Aiconix",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "Why are some online videos watched to the end and others not? Finding a technical solution for this problem led to the idea of aiconix. Our founders come from the film and neuroinformatics industries and have made it their goal to produce content more efficiently. If you can understand how user behavior correlates with content, you will be able to market it better!",
+                            "image": "https://media.licdn.com/dms/image/C4D0BAQHK6YYJLuZWvA/company-logo_400_400/0?e=1566432000&v=beta&t=wzXkKnpA7BzxFS7R5vx0XvXSpYm9wYuMuoaXPXUwfR4",
                             "video": "",
                             "main_link": "http://www.aiconix.de/en",
                             "article_links": [
@@ -10501,7 +10571,7 @@
                             "name": "3d printing for Customized items",
                             "author": "radar18",
                             "description": "Print customized items such as spare parts for appliances or fashion accessories. 3D modeling software is used to model the personalized item and to \"slice\" it into layers. When the sliced file is uploaded in a 3D printer, the object can be created layer by layer. ",
-                            "image": "../main/img/oldtechimg/24.jpg",
+                            "image": "https://i.all3dp.com/wp-content/uploads/2018/05/26142826/50-things-1284x722.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -10564,8 +10634,8 @@
                             "uid": "IMP135",
                             "name": "Yonest",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "The ingredients in your yogurt are separated until you decide how you want them together. Only in this way is it possible to make the purest yogurt, the freshest flavor and the most delicious creaminess.",
+                            "image": "https://static.wixstatic.com/media/9fddc0_a9ce2df40f6b4663a761e7bce52ded0e~mv2_d_2816_2112_s_2.jpg/v1/crop/x_300,y_0,w_2216,h_2112/fill/w_276,h_274,al_c,q_80,usm_0.66_1.00_0.01/9fddc0_a9ce2df40f6b4663a761e7bce52ded0e~mv2_d_2816_2112_s_2.jpg",
                             "video": "",
                             "main_link": "https://www.yonest.com/",
                             "article_links": [
@@ -10576,8 +10646,8 @@
                             "uid": "IMP157",
                             "name": "Live Metallica Setlists Are Based On Local Spotify User Data",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "According to a new report from financial publication Quartz, they choose their nightly song list based on the streaming data from local Spotify users in the area. ",
+                            "image": "https://i0.wp.com/liveforlivemusic.com/wp-content/uploads/2018/07/metallica-6.jpg?resize=740%2C390&ssl=1",
                             "video": "",
                             "main_link": "https://liveforlivemusic.com/news/metallica-setlists-spotify-data/",
                             "article_links": [
@@ -10586,9 +10656,9 @@
                         },
                         {
                             "uid": "IMP163",
-                            "name": "\nWalmart acquires Israel’s Aspectiva, which analyses UGC to recommend products to shoppers",
+                            "name": "\nWalmart acquires Israel’s Aspectiva",
                             "author": "jgp",
-                            "description": "",
+                            "description": "Aspectiva analyses UGC to recommend products to shoppers.",
                             "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-463871936.jpg?w=990&crop=1",
                             "video": "",
                             "main_link": "https://techcrunch.com/2019/02/25/walmart-acquires-israels-aspectiva-which-analyses-ugc-to-recommend-products-to-shoppers/",
@@ -10614,8 +10684,8 @@
                             "uid": "PRT059",
                             "name": "NOURISH3D",
                             "author": "jgp",
-                            "description": "At nourish3D we invented a radical new way for your daily vitamins & minerals. We print chewable, delicious stacks containing 7 personalised inclusions from a selection of 27 active ingredients. 1 of over 100 billion combinations will be just right for you. To be one of the very first to get your stack: Pre-Order now!",
-                            "image": "",
+                            "description": "All of your daily vitamins & nutrients conveniently 3D printed into a tasty fruity, gummy stack.",
+                            "image": "https://get-nourished.com/img/n-logo-dark.png",
                             "video": "",
                             "main_link": "https://get-nourished.com/",
                             "article_links": [
@@ -10647,7 +10717,7 @@
                             "name": "Magic Candy Factory",
                             "author": "jgp",
                             "description": "Magic Candy Factory \nThe Katjes Magic Candy Factory is a completely unique form of event entertainment, fusing innovative technology and candy to produce a fun interactive experience that provides the ultimate WOW factor!",
-                            "image": "http://magiccandyfactory.com/wp-content/uploads/2019/01/Magic-candy-factory-logo-s.png",
+                            "image": "http://magiccandyfactory.com/wp-content/uploads/2017/02/CorporateEventsSelfies-1.jpg",
                             "video": "",
                             "main_link": "http://magiccandyfactory.com/events/",
                             "article_links": [
@@ -10689,8 +10759,8 @@
                             "uid": "IMP170",
                             "name": "Plant-Based Protein Comes To Burger King: Meet The Impossible Whopper",
                             "author": "jgp",
-                            "description": "",
-                            "image": "http://www.ccg.pt/wp-content/uploads/2018/04/realidade-aumentada-e-mista-CCG-1-900x400_c.jpg",
+                            "description": "Having it your way at Burger King could now mean ordering a plant-based patty that bleeds. The fast-food chain with $21 billion in systemwide sales is testing its own Impossible Whopper.",
+                            "image": "https://specials-images.forbesimg.com/imageserve/5ca153a94bbe6f1facee4973/960x0.jpg?fit=scale",
                             "video": "",
                             "main_link": "https://www.forbes.com/sites/chloesorvino/2019/04/01/plant-based-protein-comes-to-burger-king-meet-the-impossible-whopper/?utm_source=TWITTER&utm_medium=social&utm_term=Valerie%2F#4d4d790c3758",
                             "article_links": [
@@ -10725,7 +10795,7 @@
                             "uid": "IMP148",
                             "name": "Shrimp made from algae",
                             "author": "jgp",
-                            "description": "Shrimp, the United States’ most popular seafood, is notorious for being farmed using practices that destroy the environment. New Wave Foods, a startup based ...",
+                            "description": "Shrimp, United States’ most popular seafood, is notorious for being farmed using practices that destroy the environment. New Wave Foods, a startup based in San Francisco, has set out to create a sustainable replacement.",
                             "image": "https://i.ytimg.com/vi/KTAg936uoic/maxresdefault.jpg",
                             "video": "https://www.youtube.com/watch?v=KTAg936uoic",
                             "main_link": "https://www.youtube.com/watch?v=KTAg936uoic",
@@ -10773,10 +10843,10 @@
                     "partner": [
                         {
                             "uid": "TECH55:2",
-                            "name": "Follow you Heart - VeganEgg",
+                            "name": "Follow your Heart - VeganEgg",
                             "author": "tpc",
                             "description": "A 100% plant-based egg, no gmo, no dairy, no gluten, no cholesterol.",
-                            "image": "/images/products/medium/23865.jpg",
+                            "image": "https://www.planetorganic.com/images/products/medium/23865.jpg",
                             "video": "",
                             "main_link": "http://www.planetorganic.com/follow-your-heart-veganegg-114g/23865/",
                             "article_links": [
@@ -11108,10 +11178,10 @@
                         },
                         {
                             "uid": "TECH55:4",
-                            "name": "Follow you Heart - Vegenaise",
+                            "name": "Follow your Heart - Vegenaise",
                             "author": "tpc",
                             "description": "This breakthrough formula gives you a creamy and authentic cheese flavor dairy free and cholesterol free. This alternative is lactose free, soy free, gluten free, Non-GMO Project verified and contains no preservatives or trans fats.",
-                            "image": "https://followyourheart.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+                            "image": "https://followyourheart.com/wp-content/uploads/2019/04/FYH-DF-CreamCheese2-copy.png",
                             "video": "",
                             "main_link": "https://followyourheart.com/products/",
                             "article_links": [
@@ -11150,8 +11220,8 @@
                             "uid": "PRT071",
                             "name": "Syngja",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "BUGS'N SHOT - a series of delicious juice shots with 1% cricket that boost your natural energy in everyday life. Because we are ready to embark on a new chapter of exciting food products that contribute to the personal health, promote vitality & challenge the norms. ",
+                            "image": "https://cdn.shopify.com/s/files/1/0057/5583/0339/files/appelsin_chili_png_90x.png?v=1538653842",
                             "video": "",
                             "main_link": "https://syngja.dk/",
                             "article_links": [
@@ -11166,8 +11236,8 @@
                             "uid": "PRT084",
                             "name": "Wholi",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "Our vision is to create a more sustainable and globally responsible food culture through delicious and healthy foods with bugs.",
+                            "image": "https://cdn.shopify.com/s/files/1/2715/5846/files/Wholi_logo_color_253ecfb7-2972-4260-b4b6-7511e5c77962_120x.png?v=1533477845",
                             "video": "",
                             "main_link": "https://wholifoods.com/",
                             "article_links": [
@@ -11182,7 +11252,7 @@
                             "uid": "TECH52:4",
                             "name": "Good Karma Flaxmilk",
                             "author": "tpc",
-                            "description": "",
+                            "description": "Bring on the playground smiles! Pack your kiddos’ lunchbox with a delicious and nutritious treat full of plant-based protein, Omega-3s and a touch of sweetness.",
                             "image": "https://goodkarmafoods.com/wp-content/uploads/2013/08/products_header.png",
                             "video": "",
                             "main_link": "http://goodkarmafoods.com/products/",
@@ -11203,8 +11273,8 @@
                             "uid": "PRT139",
                             "name": "NOVAMEAT",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "Plant-Based Meat, Reinvented.",
+                            "image": "https://media.licdn.com/dms/image/C560BAQGpggOpV6PPBA/company-logo_400_400/0?e=1566432000&v=beta&t=9t8HnahPUzKKx8jwZRLmjROu3pVmnfSrckYuLQ8qYQI",
                             "video": "",
                             "main_link": "https://www.novameat.com/",
                             "article_links": [
@@ -11220,7 +11290,7 @@
                             "name": "Portugal Bugs",
                             "author": "jgp",
                             "description": "A Portugal Bugs pretende contribuir para o futuro da alimentação humana ao criar produtos alimentares com incorporação de insetos contribuindo assim com uma fonte proteica alternativa, altamente nutritiva e sustentável.",
-                            "image": "",
+                            "image": "http://portugalbugs.pt/wp-content/uploads/2018/04/logo2.png",
                             "video": "",
                             "main_link": "http://portugalbugs.pt/",
                             "article_links": [
@@ -11236,7 +11306,7 @@
                             "name": "Algama",
                             "author": "jgp",
                             "description": "Algama creates the next-generation daily food product that harnesses the unique potential of microalgae with a tasty spoonful of joy: good for people and sustainable.",
-                            "image": "",
+                            "image": "http://algamafoods.com/wp-content/uploads/2017/03/logo-algama.png",
                             "video": "",
                             "main_link": "http://algamafoods.com/",
                             "article_links": [
@@ -11300,7 +11370,7 @@
                             "name": "Seamore",
                             "author": "jgp",
                             "description": "We believe we have found something that will change the way we think of food. Upgrade your food with I sea bacon and I sea pasta.",
-                            "image": "",
+                            "image": "https://seamorefood.com/wp-content/uploads/2018/06/Seamore-Website-Products.jpg",
                             "video": "",
                             "main_link": "https://seamorefood.com/",
                             "article_links": [
@@ -11365,7 +11435,7 @@
                             "description": "New foods are being developed to respond to consumer demand  . Edible insects contain high quality protein, vitamins and amino acids for humans. Insects have a high food conversion rate, needing less feed than animals to produce the same amount of protein.",
                             "image": "../main/img/oldtechimg/56.jpg",
                             "video": "",
-                            "prevwork": "A internal project, Food Lab, is exploring readymade alternatives for pasta and snacks with Food Private Labels and H&W department. DGAV denied to the request to commercialize insects.An internal project, Food Lab, is exploring readymade alternatives for pasta and snacks with Food Private Labels and H&W department. DGAV denied to the request to commercialize human food with insects. Further lobby must be done to go further with this project.",
+                            "prevwork": "An internal project, Food Lab, is exploring readymade alternatives for pasta and snacks with Food Private Labels and H&W department. DGAV denied to the request to commercialize insects.An internal project, Food Lab, is exploring readymade alternatives for pasta and snacks with Food Private Labels and H&W department. DGAV denied to the request to commercialize human food with insects. Further lobby must be done to go further with this project.",
                             "prevworkurl": "",
                             "externalurls": [
                                 ""
@@ -11421,7 +11491,7 @@
                             "name": "Flexitarianism: Meatless Mondays",
                             "author": "man",
                             "description": "Meat Free Monday highlights how going without meat for at least one day a week can make a huge difference to the planet, health and even our pockets. With high profile chefs now embracing and celebrating vegetables, “flexitarianism” on the rise.",
-                            "image": "",
+                            "image": "https://1v2tjp81p3k1k65g14acd8d1-wpengine.netdna-ssl.com/wp-content/themes/meatFreeMondaysTheme/img/mfm-logo.png",
                             "video": "",
                             "main_link": "https://www.meatfreemondays.com/",
                             "article_links": [
@@ -11433,7 +11503,7 @@
                             "name": "Tesco Wicked Kitchen",
                             "author": "aec",
                             "description": "Wicked Kitchen is a new, bold and innovative way for you to experience the power of mighty plant flavours unleashed. Wicked Kitchen is a radical new concept developed by pioneering chef Derek Sarno, in collaboration with Tesco. It's about putting plant-based food front and centre in a creative and amazing way.",
-                            "image": "",
+                            "image": "https://assets.api.tesco.com/mediadb/services/module/asset/downloads/preview/cache/apps/ghs/catalog/originals/ghs/69/a86158815/1746-Wicked-kitchen-zone-main.jpg/1746-Wicked-kitchen-zone-main.jpg/image.jpg",
                             "video": "",
                             "main_link": "https://www.tesco.com/groceries/en-GB/zone/wicked-kitchen/",
                             "article_links": [
@@ -11457,7 +11527,7 @@
                             "name": "Marks and Spencer Plant Kitchen",
                             "author": "aec",
                             "description": "Shop the latest trends in Plant Kitchen at M&S.  Order online for home delivery or free collection from your nearest store.",
-                            "image": "",
+                            "image": "https://asset2.cxnmarksandspencer.com/is/image/mands/b333ab56987a80d68f905401e6c9c2e06bb8707c?$editorial_960x440$",
                             "video": "",
                             "main_link": "https://www.marksandspencer.com/c/food-to-order/adventures-in-food/plant-kitchen",
                             "article_links": [
@@ -11471,8 +11541,8 @@
                             "uid": "PRT044",
                             "name": "Carrots",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "Some restaurants are better than others at offering interesting, tasty veggie options. We’ve analysed and rated hundreds of them - so now you can easily find a restaurant with something meat-free on their menu that’s right up your street.",
+                            "image": "http://static1.squarespace.com/static/5730fd07859fd044a663a63d/t/5c3880c08a922d763a20bad0/1554218074806/?format=1500w",
                             "video": "",
                             "main_link": "http://www.morethancarrots.co.uk/",
                             "article_links": [
@@ -11513,7 +11583,7 @@
                             "name": "ciVALUE",
                             "author": "jgp",
                             "description": "ciValue’s Precision Marketing platform helps you collaborate with suppliers to provide hyper-personalized offers to customers. ciValue’s customer behavior analytics and personalization, combined with Nielsen’s data and insight assets, ensure that your customers visit more often and buy larger more diverse baskets that truly fulfill their needs.",
-                            "image": "",
+                            "image": "https://static.wixstatic.com/media/44807e_eabc514e4fd84769ada1b4857066e55e~mv2.png/v1/fill/w_200,h_41,al_c,lg_1,q_80/Logo.webp",
                             "video": "",
                             "main_link": "https://www.civalue.com/",
                             "article_links": [
@@ -11544,7 +11614,7 @@
                             "uid": "PRT156",
                             "name": "talkdesk",
                             "author": "jgp",
-                            "description": "",
+                            "description": "Talkdesk is loaded with advanced features that are strikingly simple and save time. For example, Callbar requires virtually no training and allows team members to view caller information without switching between tabs.\n\nSimplicity also means reliability. Talkdesk offers superior voice quality with six global data centers and Global Low Latency architecture.",
                             "image": "https://www.talkdesk.com/app/themes/talkdesk-com/assets/images/talkdesk-logo.svg",
                             "video": "",
                             "main_link": "https://www.talkdesk.com/why-talkdesk/",
@@ -11586,7 +11656,7 @@
                             "uid": "IMP189",
                             "name": "Watch China’s new AI anchor read the news",
                             "author": "jgp",
-                            "description": "",
+                            "description": "The two virtual anchors, one for the Chinese language and one for the English language, combine the images and voices of real human anchors with artificial intelligence.",
                             "image": "https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/wp-cms/uploads/2018/11/p-1-watch-chinas-new-ai-anchor-read-the-news.jpg",
                             "video": "",
                             "main_link": "https://www.fastcompany.com/90264587/watch-chinas-new-ai-anchor-read-the-news",
@@ -11620,30 +11690,6 @@
                 "highlights": {
                     "implementation": [
                         {
-                            "uid": "IMP092",
-                            "name": "Packed cookies for a snack ",
-                            "author": "man",
-                            "description": "NOTA: despromovido de app para implementation by tpc. Na verdade, gostaria de questionar se mii-doses é uma trend para 2019… ver este artigo de 2013 a falar do assunto: https://www.bbc.com/news/magazine-21443166 ",
-                            "image": "",
-                            "video": "",
-                            "main_link": "",
-                            "article_links": [
-                                ""
-                            ]
-                        },
-                        {
-                            "uid": "IMP094",
-                            "name": "Ready meals for one ",
-                            "author": "man",
-                            "description": "NOTA: despromovido de app para implementation by tpc. Na verdade, gostaria de questionar se mii-doses é uma trend para 2019… ver este artigo de 2013 a falar do assunto: https://www.bbc.com/news/magazine-21443166 ",
-                            "image": "",
-                            "video": "",
-                            "main_link": "",
-                            "article_links": [
-                                ""
-                            ]
-                        },
-                        {
                             "uid": "IMP009",
                             "name": "OoHo",
                             "author": "tpc",
@@ -11674,7 +11720,7 @@
                             "name": "Chill Can",
                             "author": "tpc",
                             "description": "Chill-Can has a built in heat exchange unit which contains the technology necessary to chill the drink in under a minute. Upon activation (pressing the button), the patented technology activates the environmentally safe reclaimed Co2 in the HEU that leads to the chilling of the beverage.",
-                            "image": "",
+                            "image": "http://chillcan.com/wp-content/uploads/2015/03/Chill-Can.png",
                             "video": "",
                             "main_link": "http://chillcan.com/",
                             "article_links": [
@@ -11746,7 +11792,7 @@
                             "name": "Smart materials for Self-cooling packaging",
                             "author": "radar18",
                             "description": "Active packaging with the ability to cool down food contents without external power sources. Cooling is achieved by an endothermic reaction that the user initiates by pressing on the bottom of the can.  A container for the beverage surrounds a container of the cooling agent separated from a container of water by a thin breakable membrane. The resulting reaction consumes heat and thus colds the product surrounding it.",
-                            "image": "../main/img/oldtechimg/46.jpg",
+                            "image": "https://bestinpackaging.files.wordpress.com/2012/12/100172-self-cooling-failures-w540-100dpi2.jpg?w=540&h=510",
                             "video": "",
                             "prevwork": "A study is available. We are currently looking for a viable partner to run a proof-of-concept",
                             "prevworkurl": "https://sonaesystems.sharepoint.com/:b:/s/SHIFT/EVqlOnvPVhJGt-6XC0iiGCsBnKybiubBUiugmtmG3F9qjA",
@@ -11776,7 +11822,7 @@
                             "name": "Smart materials for Self-heating packaging",
                             "author": "radar18",
                             "description": "Ready to eat food can deliver aditional convenience if the package can heat the food. The source of the heat for the self-heated packaging is an exothermic reaction initiated by the user. A container for the beverage surrounds a container of the heating agent separated from a container of water by a thin breakable membrane. ",
-                            "image": "../main/img/oldtechimg/42.jpg",
+                            "image": "https://bestinpackaging.files.wordpress.com/2012/12/100172-self-cooling-failures-w540-100dpi2.jpg?w=540&h=510",
                             "video": "",
                             "prevwork": "A study is available. We are currently looking for a viable partner to run a proof-of-concept",
                             "prevworkurl": "https://sonaesystems.sharepoint.com/:b:/s/SHIFT/EVqlOnvPVhJGt-6XC0iiGCsBnKybiubBUiugmtmG3F9qjA",
@@ -11875,8 +11921,8 @@
                             "uid": "IMP136",
                             "name": "HapiFork",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "Being able to talk to someone openly and honestly can help disarm whatever you’re going through and start to make you feel better.",
+                            "image": "https://www.hapi.com/static/img/iphone-listen.jpg",
                             "video": "",
                             "main_link": "https://www.hapi.com/product/hapifork",
                             "article_links": [
@@ -11887,8 +11933,8 @@
                             "uid": "IMP149",
                             "name": "Artificial Intelligence Can Detect Alzheimer’s Disease in Brain Scans Six Years Before a Diagnosis",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "Using a common type of brain scan, researchers programmed a machine-learning algorithm to diagnose early-stage Alzheimer’s disease about six years before a clinical diagnosis is made – potentially giving doctors a chance to intervene with treatment.",
+                            "image": "https://www.ucsf.edu/sites/default/files/styles/2014_wysiwyg_full/public/fields/field_insert_file/news/PET_Alzheimer.jpg?itok=xBl0LFCs",
                             "video": "",
                             "main_link": "https://www.ucsf.edu/news/2018/12/412946/artificial-intelligence-can-detect-alzheimers-disease-brain-scans-six-years",
                             "article_links": [
@@ -12015,7 +12061,7 @@
                             "name": "Mimo Baby",
                             "author": "tpc",
                             "description": "The Mimo is a full body infant’s onesie or kimono that can track a variety of stats thanks to an integrated “Turtle” sensor. It includes two breathing sensors and a movement sensor that is removable. ",
-                            "image": "../main/img/oldtechimg/Mimo baby.jpg",
+                            "image": "https://static.wixstatic.com/media/822391_327d826a1ce945cc8c9a29a8c57f1b31~mv2_d_7360_3569_s_4_2.jpg/v1/crop/x_0,y_853,w_7360,h_2716/fill/w_2000,h_659,al_c,q_85,usm_0.66_1.00_0.01/822391_327d826a1ce945cc8c9a29a8c57f1b31~mv2_d_7360_3569_s_4_2.webp",
                             "video": "",
                             "main_link": "https://www.mimobaby.com/",
                             "article_links": [
@@ -12220,7 +12266,7 @@
                             "name": "Skulpt Chisel",
                             "author": "tpc",
                             "description": "Using 12 sensors, it measures the electrical current flowing through your muscles, and pairs with your phone to report the percentage of muscle versus fat. When held against a specific sensor, it tells you whether the muscles “need work”.",
-                            "image": "http://www.skulpt.me/images/social/skulpt-logo.png",
+                            "image": "https://www.skulpt.me/assets/skulpt-logo-2b38bd61727a79cb3acd32dc1794fa4ec165353919c26e5a66f28d9be44d514c.svg",
                             "video": "",
                             "main_link": "https://www.skulpt.me/",
                             "article_links": [
@@ -12236,8 +12282,8 @@
                             "uid": "PRT050",
                             "name": "emma.health",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "Data-driven personalised preventive healthcare.",
+                            "image": "https://emma.health/assets/logo/emma_logo.svg",
                             "video": "",
                             "main_link": "https://emma.health/",
                             "article_links": [
@@ -12287,10 +12333,10 @@
                             "name": "Flexible electronics for Smart textiles",
                             "author": "radar18",
                             "description": "Garments with self-lighting or bodymonitoring embedded systems . Electronic componentes such as sensors, actuators, bateries and processing units are embedded in garments interconnected by flexible electronic connections",
-                            "image": "../main/img/oldtechimg/68.jpg",
+                            "image": "http://medgizmo.info/uploads/NEWS/JULY_2015/06_07/2015-07-06_19-08-49.gif",
                             "video": "",
                             "prevwork": "",
-                            "prevworkurl": "",
+                            "prevworkurl": "https://sonaesystems.sharepoint.com/sites/SHIFT/SitePages/XRays/smart_textiles.aspx",
                             "externalurls": [
                                 ""
                             ],
@@ -12302,7 +12348,7 @@
                             "name": "Wearables for Sleep quality control",
                             "author": "radar18",
                             "description": "Wearables to control and improve sleep quality provided as a service in clinics. Innovative devices are used to monitor the sleep quality by taking into account our breathing rate, the surrounding environment, the movements during night, etc. In this way it can improve sleep quality and prevent fatigue. ",
-                            "image": "../main/img/oldtechimg/34.jpg",
+                            "image": "http://www.mhsl.hest.ethz.ch/research/SleepLoop/_jcr_content/par/fullwidthimage/image.imageformat.fullwidth.19345709.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -12456,8 +12502,8 @@
                             "uid": "IMP079",
                             "name": "À Roda da Alimentação",
                             "author": "man",
-                            "description": "",
-                            "image": "",
+                            "description": "Um blog para ajudar a descobrir refeições mais saudáveis, com dicas, receitas, soluções, factos",
+                            "image": "https://www.arodadaalimentacao.pt/wp-content/uploads/2018/10/RODA-DA-ALIMENTA%C3%87%C3%83O_LOGO.png",
                             "video": "",
                             "main_link": "https://www.arodadaalimentacao.pt/",
                             "article_links": [
@@ -12613,7 +12659,7 @@
                             "name": "Mimo Baby",
                             "author": "tpc",
                             "description": "The Mimo is a full body infant’s onesie or kimono that can track a variety of stats thanks to an integrated “Turtle” sensor. It includes two breathing sensors and a movement sensor that is removable. ",
-                            "image": "../main/img/oldtechimg/Mimo baby.jpg",
+                            "image": "https://static.wixstatic.com/media/822391_327d826a1ce945cc8c9a29a8c57f1b31~mv2_d_7360_3569_s_4_2.jpg/v1/crop/x_0,y_853,w_7360,h_2716/fill/w_2000,h_659,al_c,q_85,usm_0.66_1.00_0.01/822391_327d826a1ce945cc8c9a29a8c57f1b31~mv2_d_7360_3569_s_4_2.webp",
                             "video": "",
                             "main_link": "https://www.mimobaby.com/",
                             "article_links": [
@@ -12715,10 +12761,10 @@
                             "name": "Flexible electronics for Smart textiles",
                             "author": "radar18",
                             "description": "Garments with self-lighting or bodymonitoring embedded systems . Electronic componentes such as sensors, actuators, bateries and processing units are embedded in garments interconnected by flexible electronic connections",
-                            "image": "../main/img/oldtechimg/68.jpg",
+                            "image": "http://medgizmo.info/uploads/NEWS/JULY_2015/06_07/2015-07-06_19-08-49.gif",
                             "video": "",
                             "prevwork": "",
-                            "prevworkurl": "",
+                            "prevworkurl": "https://sonaesystems.sharepoint.com/sites/SHIFT/SitePages/XRays/smart_textiles.aspx",
                             "externalurls": [
                                 ""
                             ],
@@ -12730,7 +12776,7 @@
                             "name": "Wearables for Sleep quality control",
                             "author": "radar18",
                             "description": "Wearables to control and improve sleep quality provided as a service in clinics. Innovative devices are used to monitor the sleep quality by taking into account our breathing rate, the surrounding environment, the movements during night, etc. In this way it can improve sleep quality and prevent fatigue. ",
-                            "image": "../main/img/oldtechimg/34.jpg",
+                            "image": "http://www.mhsl.hest.ethz.ch/research/SleepLoop/_jcr_content/par/fullwidthimage/image.imageformat.fullwidth.19345709.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -12831,8 +12877,8 @@
                             "uid": "PRT059",
                             "name": "NOURISH3D",
                             "author": "jgp",
-                            "description": "At nourish3D we invented a radical new way for your daily vitamins & minerals. We print chewable, delicious stacks containing 7 personalised inclusions from a selection of 27 active ingredients. 1 of over 100 billion combinations will be just right for you. To be one of the very first to get your stack: Pre-Order now!",
-                            "image": "",
+                            "description": "All of your daily vitamins & nutrients conveniently 3D printed into a tasty fruity, gummy stack.",
+                            "image": "https://get-nourished.com/img/n-logo-dark.png",
                             "video": "",
                             "main_link": "https://get-nourished.com/",
                             "article_links": [
@@ -12865,7 +12911,7 @@
                             "name": "23andMe",
                             "author": "tpc",
                             "description": "23andMe is a DNA analysis service providing information and tools for individuals to learn about and explore their DNA. They use Illumina HumanOmniExpress-24 format chip that consists of a fully custom panel of probes for detecting genetic variations.",
-                            "image": "../main/img/oldtechimg/23andme.jpg",
+                            "image": "https://www.23andme.com/static/img/icons/logo_with_tm.e3b7758fe26e.svg",
                             "video": "",
                             "main_link": "https://www.23andme.com/en-int/",
                             "article_links": [
@@ -12934,7 +12980,7 @@
                             "uid": "PRT148",
                             "name": "Spoon Guru",
                             "author": "jgp",
-                            "description": "",
+                            "description": "Whatever the dietary requirements, Spoon Guru finds food for everybody.",
                             "image": "https://www.spoon.guru/wp-content/uploads/2019/01/Sppon-Guru-Logo.jpg",
                             "video": "",
                             "main_link": "https://www.spoon.guru/usa/",
@@ -13085,7 +13131,7 @@
                             "name": "Cuisine Soleil",
                             "author": "jgp",
                             "description": "Cuisine Soleil found success on foreign markets with its grilled lentils healthy snacks, sold everywhere in Canada but also in France and Mexico. Since 2017, strated a metamorphosis. It set up an agri-food facility in Val-d'Or (Québec), where it now develops new innovating products such as gluten-free flour made of millet, coconut or buckwheat. Cuisine Soleil received the Food Innovation Award from the Council of Food Manufacturing of Québec (CTAQ) and the Organic Innovator of the Year Award from the Canadian Organic Tade Association (COTA)",
-                            "image": "",
+                            "image": "https://cuisinesoleil.com/wp-content/uploads/2018/04/logo-1x.jpg",
                             "video": "",
                             "main_link": "https://cuisinesoleil.com/en/",
                             "article_links": [
@@ -13167,8 +13213,8 @@
                             "uid": "PRT071",
                             "name": "Syngja",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "BUGS'N SHOT - a series of delicious juice shots with 1% cricket that boost your natural energy in everyday life. Because we are ready to embark on a new chapter of exciting food products that contribute to the personal health, promote vitality & challenge the norms. ",
+                            "image": "https://cdn.shopify.com/s/files/1/0057/5583/0339/files/appelsin_chili_png_90x.png?v=1538653842",
                             "video": "",
                             "main_link": "https://syngja.dk/",
                             "article_links": [
@@ -13206,12 +13252,12 @@
                             "uid": "PRT067",
                             "name": "Lucky Iron Fish",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "Get your daily dose of iron",
+                            "image": "https://cdn.shopify.com/s/files/1/2007/5905/files/LIF-Logo-Blue_small_1b48ab0e-bd20-4090-b662-63ad98d78b9e_300x90@2x.png?v=1549546035",
                             "video": "https://www.youtube.com/watch?v=iY0D-PIcgB4",
                             "main_link": "https://luckyironfish.com",
                             "article_links": [
-                                ""
+                                "https://www.youtube.com/watch?v=iY0D-PIcgB4"
                             ],
                             "sonar_link": "",
                             "related_highlights": [
@@ -13222,7 +13268,7 @@
                             "uid": "PRT145",
                             "name": "kencko",
                             "author": "jgp",
-                            "description": "",
+                            "description": "Instant fruit and vegetable smoothies, delivered. No need to freeze or blend, just shake it up and go. 100% organic. No added sugar. All the good stuff.",
                             "image": "https://cdn.shopify.com/s/files/1/0051/2576/7232/t/20/assets/equation-yellows.jpg?24905",
                             "video": "",
                             "main_link": "https://www.kencko.com/",
@@ -13238,8 +13284,8 @@
                             "uid": "PRT147",
                             "name": "Rebbl",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "REBBL was born out of a passionate collaboration between global thought-leaders to identify an innovative solution to uplift vulnerable communities around the world",
+                            "image": "https://scontent.fopo3-1.fna.fbcdn.net/v/t1.0-9/17498697_1163777943748364_7976388397028446907_n.jpg?_nc_cat=111&_nc_ht=scontent.fopo3-1.fna&oh=635cdf3d7f9d30ee9552a3996a16c410&oe=5D5E3677",
                             "video": "",
                             "main_link": "https://rebbl.co/",
                             "article_links": [
@@ -13252,10 +13298,10 @@
                         },
                         {
                             "uid": "PRT069",
-                            "name": "pirugrow",
+                            "name": "Spirugrow",
                             "author": "jgp",
-                            "description": "Enjoy Fresh Now",
-                            "image": "",
+                            "description": "Enjoy the freshness of Spirulina and all the benefits of its living nutrients with the first full automated device to grow the algae at home.",
+                            "image": "https://spirugrow.com/wp-content/uploads/2018/02/b3.png",
                             "video": "",
                             "main_link": "https://spirugrow.com/",
                             "article_links": [
@@ -13289,7 +13335,7 @@
                             "name": "Vitamin D fortification of milk",
                             "author": "man",
                             "description": "Functional foods can be considered to be those whole, fortified, enriched or enhanced foods that provide health benefits beyond the provision of essential nutrients (e.g., vitamins and minerals), when they are consumed at efficacious levels as part of a varied diet on a regular basis.",
-                            "image": "",
+                            "image": "https://www.nidolove.com/themes/drupal8_zymphonies_theme/images/logo.png",
                             "video": "",
                             "main_link": "https://www.nidolove.com/nido-fortigrow",
                             "article_links": [
@@ -13301,7 +13347,7 @@
                             "name": "Just bee antioxidant water",
                             "author": "tpc",
                             "description": "Supernatural hydration with Just Bee water. Spring water enriched with a single drop of honey, instead of adding refined sugar or artificial sweeteners, making it full of antioxidants.",
-                            "image": "../main/img/oldtechimg/Justbee.jpg",
+                            "image": "https://d2e6il4vf9i8b2.cloudfront.net/wp-content/uploads/2018/03/02162854/Screen-Shot-2018-03-05-at-17.25.06.png",
                             "video": "",
                             "main_link": "https://www.justbeedrinks.co.uk/",
                             "article_links": [
@@ -13324,7 +13370,7 @@
                             "uid": "IMP132",
                             "name": "Kombucha",
                             "author": "jgp",
-                            "description": "",
+                            "description": "The chinese drink that is good for everything.",
                             "image": "https://wm.observador.pt/wm/magg/l/https%3A%2F%2Fbordalo.observador.pt%2F770x403%2Cq80%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2Fsites%2F7%2F2018%2F02%2F15120651%2Fkombucha-e1518624242117_770x433_acf_cropped-1.jpg",
                             "video": "",
                             "main_link": "https://magg.pt/2018/02/18/kombucha-a-bebida-chinesa-que-faz-bem-a-tudo/",
@@ -13448,7 +13494,7 @@
                             "name": "Fitalety",
                             "author": "jgp",
                             "description": "Capsules compatibles Nespresso enrichies en actifs d'origine naturelle, complément alimentaire minceur efficace, décaféiné anti stress, café boostant",
-                            "image": "",
+                            "image": "https://www.fitalety.com/template/images/logo-boutique-pc.png?v=61b5a73e1133388cedcd8e6ee6b8f22e",
                             "video": "",
                             "main_link": "https://www.fitalety.com/",
                             "article_links": [
@@ -13520,10 +13566,10 @@
                     "implementation": [
                         {
                             "uid": "IMP112",
-                            "name": "WeSwap -the people's currency exchange",
+                            "name": "WeSwap",
                             "author": "nlg",
                             "description": "Founded in 2011, launched in 2015 and now celebrating £130 million in swapped currency. WeSwap lets travellers around the world spend, store, swap, and manage their currency in a completely new way. No hidden costs or unfair fees. The result? More to spend on the important things. Sangria. Bike rides. Emergency sun cream.",
-                            "image": "",
+                            "image": "https://d1ic4altzx8ueg.cloudfront.net/finder-us/wp-uploads/sites/3/2018/05/weswap_250_250.png",
                             "video": "",
                             "main_link": "https://www.weswap.com/en/",
                             "article_links": [
@@ -13534,8 +13580,8 @@
                             "uid": "IMP113",
                             "name": "Eurowag VAT refund",
                             "author": "nlg",
-                            "description": "",
-                            "image": "",
+                            "description": "Standard refunds allow you to get VAT back for fuel, tolls, repairs, exhibitions and fairs, accommodation, representation, consultancy and legal services at the lowest cost to you.",
+                            "image": "https://f5r4k4j2.stackpathcdn.com/wp-content/uploads/bg-company-structure-graph.png",
                             "video": "",
                             "main_link": "https://www.eurowag.com/pt-pt/reembolsos-de-impostos/",
                             "article_links": [
@@ -13546,7 +13592,7 @@
                             "uid": "IMP114",
                             "name": "Alipay's Sydney City Card",
                             "author": "nlg",
-                            "description": "Chinese mobile payments company Alipay and Tourism Australia will pilot a new city service in Sydney to promote leading tourist and retail destinations to",
+                            "description": "Chinese mobile payments company Alipay and Tourism Australia will pilot a new city service in Sydney to promote leading tourist and retail destinations.",
                             "image": "https://which-50.com/wp-content/uploads/2018/01/P1020504.jpg",
                             "video": "",
                             "main_link": "https://which-50.com/alipay-and-tourism-australia-trial-sydney-city-card-for-chinese-tourists/",
@@ -13601,7 +13647,7 @@
                     "small": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png",
                     "large": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png"
                 },
-                "description": "While the attention to health as increased, the role of food as an emotional tool has not changed. Therefore by creating alternative indulgences, more healthy, it is allowed a free-guilt consumption.   ",
+                "description": "While attention to one's health as increased, the role of food as an emotional tool hasn't changed. By creating alternative, healthier indulgences we are allowed some guilt-free \"guilty-pleasures\". Restaurants like gourmet burger houses and wholewheat pizzas continue to spread, and show no signs of stopping.",
                 "list": "Trend Application",
                 "year": "Experiences",
                 "multinational": false,
@@ -13620,8 +13666,8 @@
                             "uid": "IMP135",
                             "name": "Yonest",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "The ingredients in your yogurt are separated until you decide how you want them together. Only in this way is it possible to make the purest yogurt, the freshest flavor and the most delicious creaminess.",
+                            "image": "https://static.wixstatic.com/media/9fddc0_a9ce2df40f6b4663a761e7bce52ded0e~mv2_d_2816_2112_s_2.jpg/v1/crop/x_300,y_0,w_2216,h_2112/fill/w_276,h_274,al_c,q_80,usm_0.66_1.00_0.01/9fddc0_a9ce2df40f6b4663a761e7bce52ded0e~mv2_d_2816_2112_s_2.jpg",
                             "video": "",
                             "main_link": "https://www.yonest.com/",
                             "article_links": [
@@ -13632,7 +13678,7 @@
                             "uid": "IMP148",
                             "name": "Shrimp made from algae",
                             "author": "jgp",
-                            "description": "Shrimp, the United States’ most popular seafood, is notorious for being farmed using practices that destroy the environment. New Wave Foods, a startup based ...",
+                            "description": "Shrimp, United States’ most popular seafood, is notorious for being farmed using practices that destroy the environment. New Wave Foods, a startup based in San Francisco, has set out to create a sustainable replacement.",
                             "image": "https://i.ytimg.com/vi/KTAg936uoic/maxresdefault.jpg",
                             "video": "https://www.youtube.com/watch?v=KTAg936uoic",
                             "main_link": "https://www.youtube.com/watch?v=KTAg936uoic",
@@ -13656,8 +13702,8 @@
                             "uid": "IMP058",
                             "name": "Apy Ball",
                             "author": "nlg",
-                            "description": "A apyball é uma linha jovem e moderna de snacks saudáveis simples, autênticos e conscientes.  Feitas a partir de ingredientes crus, naturais e biológicos, isentos de glúten, sem açúcar refinado e sem lactose. Pertencemos a uma nova geração que luta por um futuro sustentável, saudável e ecológico. ",
-                            "image": "",
+                            "description": "Apyball is a young and modern line of simple, authentic and conscious healthy snacks. Made from raw, natural and biological ingredients, gluten-free, without refined sugar and lactose-free. We belong to a new generation that strives for a sustainable, healthy and ecological future.",
+                            "image": "https://d3hip0cp28w2tg.cloudfront.net/media/cache/stream/rc/TmZhXR8D/uploads/2018-10/cranberry-ball-250-1.png",
                             "video": "",
                             "main_link": "https://www.apyball.com/",
                             "article_links": [
@@ -13670,7 +13716,7 @@
                             "uid": "PRT051",
                             "name": "Emulsar",
                             "author": "tpc",
-                            "description": "",
+                            "description": "Emulsar designs, develops and produces innovative ingredients in the form of emulsions.",
                             "image": "../main/img/oldtechimg/Emulsar.jpg",
                             "video": "",
                             "main_link": "http://www.emulsar.com/",
@@ -13686,7 +13732,7 @@
                             "uid": "PRT144",
                             "name": "Farmer's Fridge",
                             "author": "jgp",
-                            "description": "",
+                            "description": "We make fresh meals in our kitchen and fill our Fridges with wholesome, delicious salads, bowls, snacks and more. Unpurchased items are regularly donated to local food pantries, providing responsibly sourced nutrition to community members in need.",
                             "image": "https://www.farmersfridge.com/_next/static/images/Fridge_Render-3455cac97fd6ec7bf23dcda1a95d3a25.png",
                             "video": "",
                             "main_link": "https://www.farmersfridge.com/",
@@ -13702,8 +13748,8 @@
                             "uid": "PRT052",
                             "name": "No Dough Pizza Co",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "Can a pizza be delicious and healthy?! No Dough Pizza Co. is on a mission to do exactly that. With our patented process we have cracked how to make a pizza base out of over 70% cauliflower.",
+                            "image": "https://static.wixstatic.com/media/3c3642_c183c21f5f5841b8b60852a1e36315c7~mv2_d_6142_4343_s_4_2.jpg/v1/fill/w_320,h_515,al_c,q_80,usm_0.66_1.00_0.01/3c3642_c183c21f5f5841b8b60852a1e36315c7~mv2_d_6142_4343_s_4_2.jpg",
                             "video": "",
                             "main_link": "https://www.nodoughpizza.com/",
                             "article_links": [
@@ -13718,10 +13764,10 @@
                             "uid": "PRT054",
                             "name": "Zveetz",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "Giving consumers Sugar reduced and plant-based options of their favourite treats.",
+                            "image": "https://www.startupnight.net/sites/default/files/2018-08/zveetz_750px.png",
                             "video": "",
-                            "main_link": "https://zveetz.com/",
+                            "main_link": "https://www.linkedin.com/company/zveetz/",
                             "article_links": [
                                 ""
                             ],
@@ -13734,7 +13780,7 @@
                             "uid": "PRT053",
                             "name": "BOL",
                             "author": "jgp",
-                            "description": "Welcome to the BOL foods website. Browse our product range, learn about our story, dive into our values and read the #plantlife blog to join our plant-based journey.",
+                            "description": "At BOL, we're on a mission to help reverse our negative impact on the planet by inspiring people to eat more plants. These are the promises we make to ensure we set the bar high in our pursuit of sustainable and ethical practices. ",
                             "image": "http://www.bolfoods.com//uploads/promos/Carousel-01_180119_100436.jpg",
                             "video": "",
                             "main_link": "http://www.bolfoods.com",
@@ -13752,11 +13798,11 @@
                             "uid": "TECH92",
                             "name": "Structured emulsions and edible oleogels",
                             "author": "tpc",
-                            "description": "Structured emulsions and edible oleogels are solutions to substitute solid unhealth fats (e.g. butter) with liquid heathy fats (e.g. linen oil). This allows the production of crunchy meltable food containing fatty acids instead of saturated fats (e.g. chocolate, cookies).",
+                            "description": "Structured emulsions and edible oleogels are solutions to substitute solid unhealthy fats (e.g. butter) with liquid heathy fats (e.g. linen oil). This enables the production of crumbly meltable food containing fatty acids instead of saturated fats (e.g. chocolate, cookies).",
                             "image": "https://i2.wp.com/learntolovefood.com/wp-content/uploads/2015/01/2015-01-26-08-54-05.jpg",
                             "video": "",
-                            "prevwork": "An internal study exploring the use of oleogels to replace animal fat with linen oil in sausages or hamburgers concluded that this application is to economically viable. Other applications in sauces, chocolate or cookies were not explored.",
-                            "prevworkurl": "To be added",
+                            "prevwork": "An internal study exploring the use of oleogels to replace animal fat with linen oil in sausages or hamburgers concluded that this application is not economically viable. Other applications in sauces, chocolate or cookies have still not been explored.",
+                            "prevworkurl": "",
                             "externalurls": [
                                 ""
                             ],
@@ -13765,7 +13811,7 @@
                         },
                         {
                             "uid": "TECH85",
-                            "name": "nanotechnology engineered wine",
+                            "name": "Nanotechnologically engineered wine",
                             "author": "tpc",
                             "description": "Tasteless liquids contain nano-capsules that are activated by microwave transmitters. After activation, the capsules release the chemicals that will give flavour, appearence and nutritional composition to the liquid.",
                             "image": "https://www.nanowerk.com/news/id1441_2.jpg",
@@ -13773,7 +13819,8 @@
                             "prevwork": "",
                             "prevworkurl": "",
                             "externalurls": [
-                                ""
+                                "https://www.nanowerk.com/news/newsid=1441.php",
+                                " https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4197874/"
                             ],
                             "recommendation": "watch",
                             "impact": "low"
@@ -13809,7 +13856,7 @@
                             "uid": "PRT144",
                             "name": "Farmer's Fridge",
                             "author": "jgp",
-                            "description": "",
+                            "description": "We make fresh meals in our kitchen and fill our Fridges with wholesome, delicious salads, bowls, snacks and more. Unpurchased items are regularly donated to local food pantries, providing responsibly sourced nutrition to community members in need.",
                             "image": "https://www.farmersfridge.com/_next/static/images/Fridge_Render-3455cac97fd6ec7bf23dcda1a95d3a25.png",
                             "video": "",
                             "main_link": "https://www.farmersfridge.com/",
@@ -13834,7 +13881,7 @@
                     "small": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png",
                     "large": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png"
                 },
-                "description": "Making itself a part of a story is a powerful strategy for a brand to help its customers relating with its products or services.",
+                "description": "Making itself a part of a story is a powerful strategy for a brand to help its customers to relate with its products or services.",
                 "list": "Trend Application",
                 "year": "Experiences",
                 "multinational": false,
@@ -13852,8 +13899,8 @@
                             "uid": "IMP042",
                             "name": "Skype Stay Together",
                             "author": "aec",
-                            "description": "",
-                            "image": "",
+                            "description": "The Story Behind One of the Most Beautiful Real Moments in Advertising",
+                            "image": "https://static.adweek.com/adweek.com-prod/wp-content/uploads/files/news_article/skype-girls-hed-2013_0.jpg",
                             "video": "",
                             "main_link": "https://www.adweek.com/brand-marketing/story-behind-one-most-beautiful-real-moments-advertising-158478/",
                             "article_links": [
@@ -13864,8 +13911,8 @@
                             "uid": "IMP044",
                             "name": "Prose",
                             "author": "aec",
-                            "description": "",
-                            "image": "",
+                            "description": "Custom hair care,  bottled just for you.",
+                            "image": "https://prose.com/static/media/prose_logo.aaba53b5.svg",
                             "video": "",
                             "main_link": "https://prose.com/",
                             "article_links": [
@@ -13876,8 +13923,8 @@
                             "uid": "IMP078",
                             "name": "Real Food, Real Stories",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "Everyone has a seat at this table.",
+                            "image": "https://static1.squarespace.com/static/53ebf479e4b074443ab35526/t/59a5a05d12abd95c86a0ad94/1558398065698/?format=1500w",
                             "video": "",
                             "main_link": "https://www.realfoodrealstories.org/",
                             "article_links": [
@@ -13888,8 +13935,8 @@
                             "uid": "IMP160",
                             "name": "VR Game Vaccine Injection",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "A VR-powered game to help people whoe are a little afraid of needles",
+                            "image": "https://4c448342d6996fb20913-fd1f9dc15ff616aa7fa94219cb721c9c.ssl.cf3.rackcdn.com/08/e8/415944_8cb1b42c6dcb4368a68768e5d54e16a9.jpg",
                             "video": "",
                             "main_link": "https://sonaesystems.sharepoint.com/:v:/s/SHIFT/EXhgUr0pmmRDjsFP2-saIIoBAUOK4_TEeBVo85Hr1EMSrA?e=SYqiSV",
                             "article_links": [
@@ -13900,8 +13947,8 @@
                             "uid": "IMP157",
                             "name": "Live Metallica Setlists Are Based On Local Spotify User Data",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "According to a new report from financial publication Quartz, they choose their nightly song list based on the streaming data from local Spotify users in the area. ",
+                            "image": "https://i0.wp.com/liveforlivemusic.com/wp-content/uploads/2018/07/metallica-6.jpg?resize=740%2C390&ssl=1",
                             "video": "",
                             "main_link": "https://liveforlivemusic.com/news/metallica-setlists-spotify-data/",
                             "article_links": [
@@ -13949,8 +13996,8 @@
                             "uid": "IMP043",
                             "name": "Function of Beauty",
                             "author": "aec",
-                            "description": "Frequently Asked Questions | Function of Beauty",
-                            "image": "",
+                            "description": "Our founding team—world-class MIT engineers and data scientists—spent years building our own algorithm and machines, that pull from hundreds of ingredients to potentially create billions of completely unique shampoo and conditioner combinations. ",
+                            "image": "https://www.functionofbeauty.com/images/homepage/values/made-in-america.png",
                             "video": "",
                             "main_link": "https://www.functionofbeauty.com/about/",
                             "article_links": [
@@ -14003,8 +14050,8 @@
                             "uid": "PRT041",
                             "name": "Sonder People",
                             "author": "aec",
-                            "description": "",
-                            "image": "",
+                            "description": "We’re not a conventional agency. We’re made by people that never imagined they could be the protagonists of worldwide commercials. But we did, because more and more brands are represented by authentic people, with personality, charisma and attitude. We call them sonders. It’s because of them that we exist, to provide them castings for big productions. We’re on a daily mission to help build a future where advertising will not make us aspire to be like others, but inspire us to become the best version of ourselves.",
+                            "image": "https://sonderpeople.com/wp-content/uploads/2018/11/2.jpg",
                             "video": "",
                             "main_link": "https://sonderpeople.com/",
                             "article_links": [
@@ -14019,8 +14066,8 @@
                             "uid": "PRT066",
                             "name": "TRUST",
                             "author": "jgp",
-                            "description": "",
-                            "image": "",
+                            "description": "he TRusT™ App creates a direct connection and line of communication between producers and consumers. Through texts, photos and videos, the app gives insights into the origins of each product and the story of the production timeline, as told by the producer. This gives you the power to make responsible, educated choices through the products you purchase and a clear point of contact with the producers registered on the TRusT™ platform",
+                            "image": "http://www.trusttm.com/en/wp-content/uploads/sites/3/2018/05/TERRITORI.jpg",
                             "video": "",
                             "main_link": "http://www.trusttm.com/en/",
                             "article_links": [
@@ -14035,8 +14082,8 @@
                             "uid": "PRT065",
                             "name": "Pikkart",
                             "author": "jgp",
-                            "description": "Azienda IT, unica in Italia a possedere un software di Realtà Aumentata proprietario. Professionisti di Computer Vision, Deep Learning, Machine Learning ed Intelligenza Artificiale",
-                            "image": "/immagini/logo/thumb.jpg",
+                            "description": "Two years after being founded Pikkart became one of the few companies in the world and the first in Italy to have developed from scratches its own proprietary Augmented Reality Ecosystem, which started with Pikkart-AR SDK, an augmented reality software development kit, followed by Pikkart-AR Logo, a software that allows to link up to a billion different pieces of content to as many copies of the same image.",
+                            "image": "http://www.pikkart.com/immagini/logo/intestazione.png",
                             "video": "",
                             "main_link": "http://www.pikkart.com",
                             "article_links": [
@@ -14158,6 +14205,30 @@
                             "main_link": "https://www.marketwatch.com/story/kroger-rolls-out-driverless-cars-to-deliver-groceries-2018-12-18?fbclid=IwAR3_YflqEDM1O38t98aCk6ro1OT_KJ_kbVVGwPw-BXHV8iTlfbMssDSZ09A",
                             "article_links": [
                                 ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP198",
+                            "name": "Ford self-driving cars shift from pizza delivery to Walmart order pickup",
+                            "author": "tpc",
+                            "description": "Ford said by the end of 2019 autonomous Walmart deliveries will expand to 100 regions in the U.S. at 800 Walmart stores. In 2019, Ford says at least 1,600 Walmart stores will offer self-driving deliveries.",
+                            "image": "https://cdn-images-1.medium.com/max/1000/1*egDCgC74oVMuHtoHSz0Vrw.jpeg",
+                            "video": "",
+                            "main_link": "https://medium.com/self-driven/ford-walmart-and-postmates-team-up-for-self-driving-goods-delivery-e627a2c398ea",
+                            "article_links": [
+                                "https://mashable.com/article/ford-walmart-postmates-self-driving-delivery-service/?europe=true"
+                            ]
+                        },
+                        {
+                            "uid": "IMP199",
+                            "name": "Pizza Delivery Gears Up for a Driverless Era",
+                            "author": "tpc",
+                            "description": "Domino’s Pizza Inc. doubled down on a partnership with Ford Motor Co. earlier in 2018, saying it would be part of the auto maker’s test run for how driverless delivery vehicles would operate in Miami. The two conducted a short test of pizza deliveries in Ann Arbor, Mich., in 2017.",
+                            "image": "https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F576624%252F98ea004b-e907-477a-bb2b-bc50a96ebaaa.jpeg%252F950x534__filters%253Aquality%252890%2529.jpeg",
+                            "video": "",
+                            "main_link": "https://mashable.com/2017/08/29/ford-dominoes-self-driving-pizza-delivery/?europe=true",
+                            "article_links": [
+                                "https://www.wsj.com/articles/pizza-delivery-may-be-entering-a-new-era-1530029087"
                             ]
                         }
                     ],
@@ -14472,7 +14543,7 @@
                             "uid": "TECH04:2",
                             "name": "ActivityStream",
                             "author": "tpc",
-                            "description": "The Activity Stream platform and the associated industry specific solutions let unify relevant business activity from internal and external systems, analyze and enrich the data, help see the big picture, discover valuable insights and distribute actionable items to the entire team.",
+                            "description": "The Activity Stream platform and the associated industry specific solutions lets you unify relevant business activity from internal and external systems, analyze and enrich the data, helps see the big picture, discover valuable insights and distribute actionable items to the relevant team.",
                             "image": "https://www.activitystream.com/wp-content/uploads/2018/10/brain.png",
                             "video": "",
                             "main_link": "https://www.activitystream.com/",
@@ -14489,7 +14560,7 @@
                             "name": "Energid Citrus Picking System",
                             "author": "tpc",
                             "description": "This big but low cost orange-picking gadget can clear an orange tree for as little or less than what human labor would cost. That means picking an orange every two to three seconds. ",
-                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--PmmHPj_0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/qwimep4soyebvdcee4ke.jpg",
+                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--8ts7jwIJ--/c_scale,f_auto,fl_progressive,q_80,w_800/cziqjpxet9piwz5baqpe.jpg",
                             "video": "",
                             "main_link": "https://gizmodo.com/13-fascinating-farming-robots-that-will-feed-our-future-1683489468",
                             "article_links": [
@@ -14507,7 +14578,7 @@
                             "name": "Blue River LettuceBot2",
                             "author": "tpc",
                             "description": "This highly popular robot attaches to a tractor and thins out lettuce fields. It can also spray insecticide and weed the rows between crops. If it could just learn how to make a salad.",
-                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--PmmHPj_0--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/qwimep4soyebvdcee4ke.jpg",
+                            "image": "https://i.kinja-img.com/gawker-media/image/upload/s--uTaqtjot--/c_scale,f_auto,fl_progressive,q_80,w_800/k9evusygdplt30ookkri.jpg",
                             "video": "",
                             "main_link": "https://gizmodo.com/13-fascinating-farming-robots-that-will-feed-our-future-1683489468",
                             "article_links": [
@@ -14543,7 +14614,7 @@
                             "name": "Wiigo",
                             "author": "tpc",
                             "description": "WiiGo is an autonomous robot that works as a shopping cart that follows you through the store and carries your purchases.",
-                            "image": "http://followinspiration.pt/wp-content/uploads/2017/10/ahhhhhhhh-1.jpg",
+                            "image": "http://followinspiration.pt/wp-content/uploads/2017/10/wiiGO-Retail.png",
                             "video": "",
                             "main_link": "http://followinspiration.pt/",
                             "article_links": [
@@ -14580,7 +14651,7 @@
                             "uid": "PRT133",
                             "name": "Arpa Elastic Solutions",
                             "author": "jgp",
-                            "description": "ARPA TECH",
+                            "description": "ARPA Elastic Solutions specializes in automation and robotization of processes (RPA), aimed to increase the productivity of its customers. \n\nAs the leading technology in the RPA market it acts in the areas of consulting, training and support, providing solutions for management.",
                             "image": "http://www.arpa.tech/img/arpa/sobre%20nos/sn_01.png",
                             "video": "",
                             "main_link": "http://www.arpa.tech/indexe.html",
@@ -14614,10 +14685,10 @@
                         },
                         {
                             "uid": "PRT154",
-                            "name": "INFRASPEAK",
+                            "name": "Infraspeak",
                             "author": "jgp",
                             "description": "Provide your customers with a better in-store experience by taking full control of your maintenance operations.",
-                            "image": "http://home.infraspeak.com/wp-content/uploads/2016/12/is-logowebsite-x1.png",
+                            "image": "https://startupxplore.com/uploads/ff808081567499510156bc205f0f060c-large.png",
                             "video": "",
                             "main_link": "http://home.infraspeak.com/retail-management/",
                             "article_links": [
@@ -14632,7 +14703,7 @@
                             "uid": "PRT155",
                             "name": "Outsystems",
                             "author": "jgp",
-                            "description": "",
+                            "description": "OutSystems is a low-code platform that lets you visually develop your entire application, easily integrate with existing systems, and add your own custom code when you need it. \r\n\r\nCrafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.",
                             "image": "https://www.outsystems.com/-/media/images/menu/navigation-weekly-webinar-v2.png",
                             "video": "",
                             "main_link": "https://www.outsystems.com/",
@@ -14648,7 +14719,7 @@
                             "uid": "PRT156",
                             "name": "talkdesk",
                             "author": "jgp",
-                            "description": "",
+                            "description": "Talkdesk is loaded with advanced features that are strikingly simple and save time. For example, Callbar requires virtually no training and allows team members to view caller information without switching between tabs.\n\nSimplicity also means reliability. Talkdesk offers superior voice quality with six global data centers and Global Low Latency architecture.",
                             "image": "https://www.talkdesk.com/app/themes/talkdesk-com/assets/images/talkdesk-logo.svg",
                             "video": "",
                             "main_link": "https://www.talkdesk.com/why-talkdesk/",
@@ -16664,7 +16735,7 @@
         "app_CULTOFFE": {
             "type": "concept",
             "group": "threat",
-            "label": "Multicultural Facilities and Offer",
+            "label": "Inclusive Facilities and Offer",
             "meta": {
                 "icon": {
                     "small": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png",
@@ -17286,7 +17357,7 @@
                             "name": "Workwell",
                             "author": "aec",
                             "description": "The all-in-one app that brings people together, one place at a time.\nUse our built-in services, or build your own. Seamless third-party integrations.",
-                            "image": "",
+                            "image": "https://f6s-public.s3.amazonaws.com/profiles/1816839_original.jpg",
                             "video": "",
                             "main_link": "https://www.workwell.io/",
                             "article_links": [
@@ -17885,6 +17956,30 @@
                             "article_links": [
                                 ""
                             ]
+                        },
+                        {
+                            "uid": "IMP198",
+                            "name": "Ford self-driving cars shift from pizza delivery to Walmart order pickup",
+                            "author": "tpc",
+                            "description": "Ford said by the end of 2019 autonomous Walmart deliveries will expand to 100 regions in the U.S. at 800 Walmart stores. In 2019, Ford says at least 1,600 Walmart stores will offer self-driving deliveries.",
+                            "image": "https://cdn-images-1.medium.com/max/1000/1*egDCgC74oVMuHtoHSz0Vrw.jpeg",
+                            "video": "",
+                            "main_link": "https://medium.com/self-driven/ford-walmart-and-postmates-team-up-for-self-driving-goods-delivery-e627a2c398ea",
+                            "article_links": [
+                                "https://mashable.com/article/ford-walmart-postmates-self-driving-delivery-service/?europe=true"
+                            ]
+                        },
+                        {
+                            "uid": "IMP199",
+                            "name": "Pizza Delivery Gears Up for a Driverless Era",
+                            "author": "tpc",
+                            "description": "Domino’s Pizza Inc. doubled down on a partnership with Ford Motor Co. earlier in 2018, saying it would be part of the auto maker’s test run for how driverless delivery vehicles would operate in Miami. The two conducted a short test of pizza deliveries in Ann Arbor, Mich., in 2017.",
+                            "image": "https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F576624%252F98ea004b-e907-477a-bb2b-bc50a96ebaaa.jpeg%252F950x534__filters%253Aquality%252890%2529.jpeg",
+                            "video": "",
+                            "main_link": "https://mashable.com/2017/08/29/ford-dominoes-self-driving-pizza-delivery/?europe=true",
+                            "article_links": [
+                                "https://www.wsj.com/articles/pizza-delivery-may-be-entering-a-new-era-1530029087"
+                            ]
                         }
                     ],
                     "partner": [
@@ -18448,7 +18543,7 @@
                             "uid": "PRT156",
                             "name": "talkdesk",
                             "author": "jgp",
-                            "description": "",
+                            "description": "Talkdesk is loaded with advanced features that are strikingly simple and save time. For example, Callbar requires virtually no training and allows team members to view caller information without switching between tabs.\n\nSimplicity also means reliability. Talkdesk offers superior voice quality with six global data centers and Global Low Latency architecture.",
                             "image": "https://www.talkdesk.com/app/themes/talkdesk-com/assets/images/talkdesk-logo.svg",
                             "video": "",
                             "main_link": "https://www.talkdesk.com/why-talkdesk/",
