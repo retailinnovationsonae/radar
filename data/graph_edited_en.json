@@ -1,7 +1,7 @@
 {
     "meta": {
         "language": "en",
-        "generated": "2019-05-22T15:56:21.196Z"
+        "generated": "2019-05-22T17:26:48.157Z"
     },
     "nodes": {
         "vocabulary_ich_1265": {
@@ -1276,7 +1276,7 @@
                             "uid": "PRT158",
                             "name": "Task Rabbit",
                             "author": "tpc",
-                            "description": "​",
+                            "description": "",
                             "image": "https://i0.wp.com/blog.taskrabbit.com/wp-content/uploads/2018/02/lv-room.jpg?zoom=1.25&resize=640%2C320&ssl=1",
                             "video": "",
                             "main_link": "https://www.taskrabbit.com/",
@@ -1318,7 +1318,7 @@
                             "uid": "IMP193",
                             "name": "Retailers could tap gig economy for seasonal work",
                             "author": "tpc",
-                            "description": "According to Chamberlain “there are 16 million Americans working in contingent or alternative work today (aka the “gig economy”) that retailers could potentially tap for this type of seasonal work”. \nRetailers are also competing with hotels, restaurants and others in the hospitality industry that also bulk up staffing during the holidays. Swonk says that but the pressure is ratcheting up as the experience based economy heats up as Americans travel and eat out more.",
+                            "description": "According to Chamberlain “there are 16 million Americans working in contingent or alternative work today (aka the “gig economy”) that retailers could potentially tap for this type of seasonal work”. Retailers are also competing with hotels, restaurants and others in the hospitality industry that also bulk up staffing during the holidays. Swonk says that but the pressure is ratcheting up as the experience based economy heats up as Americans travel and eat out more.",
                             "image": "https://image.cnbcfm.com/api/v1/image/100479715-160891459.jpg?v=1361455329&w=740&h=473",
                             "video": "",
                             "main_link": "https://www.cnbc.com/2018/09/21/retailers-are-hiring-but-are-there-enough-workers.html",
@@ -1376,7 +1376,7 @@
                             "uid": "PRT077",
                             "name": "OLIO",
                             "author": "jgp",
-                            "description": "OLIO connects neighbours with each other and with local shops so surplus food and other items can be shared, not thrown away.\nIf you love food, hate waste, care about the environment or want to connect with your community, OLIO is for you.",
+                            "description": "OLIO connects neighbours with each other and with local shops so surplus food and other items can be shared, not thrown away. If you love food, hate waste, care about the environment or want to connect with your community, OLIO is for you.",
                             "image": "https://olioex.com/wp-content/uploads/2017/03/facebook-share.png",
                             "video": "",
                             "main_link": "https://olioex.com/",
@@ -1394,7 +1394,7 @@
                             "uid": "IMP194",
                             "name": "Cities and the Circular Economy for Food",
                             "author": "tpc",
-                            "description": "Sonae MC joined the Ellen MacArthur Foundation’s study on the transition of urban food systems towards a circular model. It outlined the main challenges to be addressed and the main areas of action to be developed, namely: sourcing food grown regeneratively and locally, where appropriate; making the most of food; and designing and marketing food products that are not only healthy from a nutritional point of view, but also in the way they are produced. Porto is one of the four focus cities where an in-depth analysis was carried out,\nalong with Brussels, Guelph and São Paulo.",
+                            "description": "Sonae MC joined the Ellen MacArthur Foundation’s study on the transition of urban food systems towards a circular model. It outlined the main challenges to be addressed and the main areas of action to be developed, namely: sourcing food grown regeneratively and locally, where appropriate; making the most of food; and designing and marketing food products that are not only healthy from a nutritional point of view, but also in the way they are produced. Porto is one of the four focus cities where an in-depth analysis was carried out, along with Brussels, Guelph and São Paulo.",
                             "image": "https://cdn-images-1.medium.com/max/1200/1*3lBxJLy6_fMIc2nsD9KBKA.png",
                             "video": "",
                             "main_link": "https://www.ellenmacarthurfoundation.org/assets/downloads/insight/CCEFF_Full-report_May-2019_Web.pdf",
@@ -1406,7 +1406,7 @@
                             "uid": "IMP195",
                             "name": "Intermarché's Inglorious fruits & vegetables",
                             "author": "tpc",
-                            "description": "Intermarché, decided to fight this food waste while passing down savings to the consumer. The result? Inglorious fruits & vegetables. This is such a good idea, I hope more grocery stores around the globe consider doing the same!\nRead more at https://www.reshareworthy.com/supermarket-intermarche-fights-food-waste/#OAEIaFvOHsHC0lu5.99",
+                            "description": "Intermarché, decided to fight this food waste while passing down savings to the consumer. The result? Inglorious fruits & vegetables. This is such a good idea, I hope more grocery stores around the globe consider doing the same!",
                             "image": "https://i2.wp.com/metro.co.uk/wp-content/uploads/2015/05/ad_169720643.jpg",
                             "video": "",
                             "main_link": "https://www.reshareworthy.com/supermarket-intermarche-fights-food-waste/",
@@ -1851,7 +1851,7 @@
                             "uid": "IMP167",
                             "name": "Etsy just became the first global e-commerce company to offset all of its shipping emissions",
                             "author": "jgp",
-                            "description": "Ninety-eight percent of the company’s footprint comes from sending packages.\n",
+                            "description": "Ninety-eight percent of the company’s footprint comes from sending packages. ",
                             "image": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/02/p-1-90311622-etsy-just-became-the-first-global-ecommerce-company-to-offset-all-of-its-shipping-emissions.jpg",
                             "video": "",
                             "main_link": "https://www.fastcompany.com/90311622/etsy-just-became-the-first-global-ecommerce-company-to-offset-all-of-its-shipping-emissions",
@@ -2298,13 +2298,37 @@
                     ],
                     "implementation": [
                         {
-                            "uid": "IMP197",
-                            "name": "GM’s Cruise partners with DoorDash to test autonomous food delivery",
+                            "uid": "IMP202",
+                            "name": "Tesco teams with VW to install 2,500 EV chargers",
                             "author": "tpc",
-                            "description": "Cruise Automation, the self-driving unit of General Motors, is teaming up with DoorDash to test a food delivery service in San Francisco using autonomous vehicles. ",
-                            "image": "https://cdn.vox-cdn.com/thumbor/noXAZeO9wWBfMo0NRq_tppLdZTs=/0x0:2658x1546/920x613/filters:focal(1117x561:1541x985):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/62775918/cruise_gm_bolt.0.jpg",
+                            "description": "The UK's EV charging infrastructure is getting a huge boost courtesy of a new partnership between the country's biggest supermarket chain, Tesco, and Volkswagen. They're joining forces to install 2,500 charging bays at 600 Tesco stores by 2020. Customers will be able to charge their electric cars using a standard 7kW fast charger for free, or pay to use the 50kW charger. The charging bays will be installed by the UK's largest independent public charging network operator, Pod Point.",
+                            "image": "https://www.volkswagen.co.uk/files/live/sites/vwuk/files/Technology/Electrification/Tesco%20partnership/volkswagen-tesco-family-shot-desktop.jpg",
                             "video": "",
-                            "main_link": "https://www.theverge.com/2019/1/3/18166660/gm-cruise-doordash-test-self-driving-food-delivery",
+                            "main_link": "https://www.volkswagen.co.uk/electric-hybrid/tesco-partnership",
+                            "article_links": [
+                                "https://www.engadget.com/2018/11/30/tesco-free-ev-chargers-volkswagen/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABx5xIrXbZWeXJbLuPBG91zPPbwjr22TLxYN1TkOdkWX-5IlgTb6FtlXSZ8xKLZdiWAAetobHqSX6c365qDRPvDaQORORsbF_Q4sGRkruXY37pw4UrVnlCR2S_7AZ1sH8Zhif8dDDkIXwdT2dOlvcYc7aLlj_oN7rLVvT8hG0yIX"
+                            ]
+                        },
+                        {
+                            "uid": "IMP205",
+                            "name": "Every Ikea delivery made with an electric vehicle",
+                            "author": "tpc",
+                            "description": "IKEA plans to fully decarbonize its delivery fleet in New York, Los Angeles, Paris, Amsterdam, and Shanghai by 2020 (and its entire fleet by 2025). In Shanghai, it hit its goal early.",
+                            "image": "https://images.fastcompany.net/image/upload/w_1153,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/01/p-1-90297201-in-shanghai-every-ikea-delivery-is-now-made-with-an-electric-vehicle.jpg",
+                            "video": "",
+                            "main_link": "https://www.fastcompany.com/90297201/in-shanghai-every-ikea-delivery-is-now-made-with-an-electric-vehicle",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP206",
+                            "name": "DAF helps supermarket giant Albert Heijn to electrify transport operations",
+                            "author": "tpc",
+                            "description": "DAF Trucks helps Dutch supermarket chain Albert Heijn to supply its shops electrically. It has handed over the first electric trucks to Albert Heijn carriers Simon Loos and Peter Appel Transport. It is the start of a long-term field test involving three fully electric trucks and two plug-in hybrid trucks — with the latter marking a first in Europe.",
+                            "image": "https://www.daf.com/-/media/images/press-releases/deliveries/2019/daf-electric-albert-heijn-2-header.jpg",
+                            "video": "",
+                            "main_link": "https://www.daf.com/en/news-and-media/news-articles/global/2019/q1/19-02-2019-daf-helps-supermarket-giant-albert-heijn-to-electrify-transport-operations",
                             "article_links": [
                                 ""
                             ]
@@ -3744,6 +3768,32 @@
                                 "TECH78:2"
                             ]
                         }
+                    ],
+                    "implementation": [
+                        {
+                            "uid": "IMP204",
+                            "name": "73 Percent of Millennials are Willing to Spend More Money on This 1 Type of Product",
+                            "author": "jgp",
+                            "description": "One overwhelming conclusion of the report? That across the board, consumers are willing to pay extra for one thing: sustainability.",
+                            "image": "https://www.incimages.com/uploaded_files/image/970x450/getty_528957012_2000133320009280196_351619.jpg",
+                            "video": "",
+                            "main_link": "https://www.inc.com/melanie-curtin/73-percent-of-millennials-are-willing-to-spend-more-money-on-this-1-type-of-product.html",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP212",
+                            "name": "How to get seniors on board with sustainability",
+                            "author": "jgp",
+                            "description": "People 65 and older are most likely to say environmental laws aren’t worth the cost or effort. How can we fix that? A healthy dose of nostalgia.",
+                            "image": "https://images.fastcompany.net/image/upload/w_1153,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/02/p-1-90309982-itand8217s-time-to-rebrand-sustainability-for-seniors.jpg",
+                            "video": "",
+                            "main_link": "https://www.fastcompany.com/90309982/how-to-get-seniors-on-board-with-sustainability",
+                            "article_links": [
+                                ""
+                            ]
+                        }
                     ]
                 }
             }
@@ -4400,7 +4450,7 @@
                             "uid": "IMP110",
                             "name": "Marriott Chatbots",
                             "author": "nlg",
-                            "description": "The world's largest hotel chain was an early user of Facebook Messenger and Slack. Now it's adding Google Assistant, WeChat, AI capabilities and more.\n",
+                            "description": "The world's largest hotel chain was an early user of Facebook Messenger and Slack. Now it's adding Google Assistant, WeChat, AI capabilities and more. ",
                             "image": "https://www.mobilemarketer.com/user_media/cache/f2/67/f267ee63abb39826c75f23c8d487558d.jpg",
                             "video": "",
                             "main_link": "https://www.mobilemarketer.com/news/marriott-makes-more-room-for-chatbots-to-enhance-guest-experiences/510117/",
@@ -4668,7 +4718,7 @@
                             "uid": "PRT021",
                             "name": "Caper",
                             "author": "aec",
-                            "description": "AI Powered Retail -Checkout made easy. Just toss it in, and leave.\nWith our next generation smart self-checkout cart, powered by deep learning & computer vision, items are instantly detected as",
+                            "description": "AI Powered Retail -Checkout made easy. Just toss it in, and leave. With our next generation smart self-checkout cart, powered by deep learning & computer vision, items are instantly detected as",
                             "image": "https://www.advancingretail.org/sites/default/files/styles/thumbnail/public/logos/0_16.png?itok=Czf5aYah",
                             "video": "",
                             "main_link": "https://www.advancingretail.org/solutions/caper",
@@ -4700,7 +4750,7 @@
                             "uid": "PRT024",
                             "name": "ITAB",
                             "author": "jgp",
-                            "description": "As Europe's leading supplier, ITAB has the experience and expertise to help retail chains choose the right equipment for the checkout aisle based on the shop's size, flow of goods and number of visitors.\n\nAs an alternative to manned checkouts, ITAB has developed efficient self checkout solutions which mean that consumers can quickly, conveniently and reliably check and scan their items themselves at the checkout. We also have a new solution for the \"just walkout technology\", AirFLOW. ",
+                            "description": "As Europe's leading supplier, ITAB has the experience and expertise to help retail chains choose the right equipment for the checkout aisle based on the shop's size, flow of goods and number of visitors. As an alternative to manned checkouts, ITAB has developed efficient self checkout solutions which mean that consumers can quickly, conveniently and reliably check and scan their items themselves at the checkout. We also have a new solution for the \"just walkout technology\", AirFLOW. ",
                             "image": "https://itab.com/Static/images/logo.svg",
                             "video": "",
                             "main_link": "https://itab.com/en/our-offer/checkout-arena/",
@@ -4881,7 +4931,7 @@
                             "uid": "TECH07",
                             "name": "Artificial intelligence for Recommendations",
                             "author": "radar18",
-                            "description": "Customize advirtisement and product recommendation based on sales history and custom behaviour. Machine learning and optimization algorithms can look for and exploit observed patterns, correlations, and relationships among data elements of customer’s purchases. \nIn this way, automatic suggestion of discounts based on previous and continuous purchases. ",
+                            "description": "Customize advirtisement and product recommendation based on sales history and custom behaviour. Machine learning and optimization algorithms can look for and exploit observed patterns, correlations, and relationships among data elements of customer’s purchases. In this way, automatic suggestion of discounts based on previous and continuous purchases. ",
                             "image": "https://www.business-humanrights.org/sites/default/files/pexels-photo-239898_1.jpg",
                             "video": "",
                             "prevwork": "Smart Continente and Siga APP uses AI to make suggestions to add items to a list. The next step is to envisage the best additional use cases to incorporate this technology in other applications in the company and implement.",
@@ -5246,7 +5296,7 @@
                             "uid": "TECH07",
                             "name": "Artificial intelligence for Recommendations",
                             "author": "radar18",
-                            "description": "Customize advirtisement and product recommendation based on sales history and custom behaviour. Machine learning and optimization algorithms can look for and exploit observed patterns, correlations, and relationships among data elements of customer’s purchases. \nIn this way, automatic suggestion of discounts based on previous and continuous purchases. ",
+                            "description": "Customize advirtisement and product recommendation based on sales history and custom behaviour. Machine learning and optimization algorithms can look for and exploit observed patterns, correlations, and relationships among data elements of customer’s purchases. In this way, automatic suggestion of discounts based on previous and continuous purchases. ",
                             "image": "https://www.business-humanrights.org/sites/default/files/pexels-photo-239898_1.jpg",
                             "video": "",
                             "prevwork": "Smart Continente and Siga APP uses AI to make suggestions to add items to a list. The next step is to envisage the best additional use cases to incorporate this technology in other applications in the company and implement.",
@@ -5659,7 +5709,7 @@
                             "uid": "TECH07",
                             "name": "Artificial intelligence for Recommendations",
                             "author": "radar18",
-                            "description": "Customize advirtisement and product recommendation based on sales history and custom behaviour. Machine learning and optimization algorithms can look for and exploit observed patterns, correlations, and relationships among data elements of customer’s purchases. \nIn this way, automatic suggestion of discounts based on previous and continuous purchases. ",
+                            "description": "Customize advirtisement and product recommendation based on sales history and custom behaviour. Machine learning and optimization algorithms can look for and exploit observed patterns, correlations, and relationships among data elements of customer’s purchases. In this way, automatic suggestion of discounts based on previous and continuous purchases. ",
                             "image": "https://www.business-humanrights.org/sites/default/files/pexels-photo-239898_1.jpg",
                             "video": "",
                             "prevwork": "Smart Continente and Siga APP uses AI to make suggestions to add items to a list. The next step is to envisage the best additional use cases to incorporate this technology in other applications in the company and implement.",
@@ -5689,7 +5739,7 @@
                             "uid": "TECH71",
                             "name": "Indoor positioning",
                             "author": "radar18",
-                            "description": "Retailers can precisely locate customers and provide them an improved experience. Technology such as Li-Fi, Beacons, ultrasounds, Wi-Fi, dead reckoning and others, are used to create indoor positioning systems. These systems allow retailers to locate customers and allow customers to navigate in-store and easily find items. An indoor positioning system is also essential for autonomous robots to navigate in-store.  \n",
+                            "description": "Retailers can precisely locate customers and provide them an improved experience. Technology such as Li-Fi, Beacons, ultrasounds, Wi-Fi, dead reckoning and others, are used to create indoor positioning systems. These systems allow retailers to locate customers and allow customers to navigate in-store and easily find items. An indoor positioning system is also essential for autonomous robots to navigate in-store.  ",
                             "image": "https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2012/oiukhk.jpg",
                             "video": "",
                             "prevwork": "A study is available. An experiment is being conducted by Innovation department in collaboration with Digital department.",
@@ -5787,7 +5837,7 @@
                             "uid": "IMP116",
                             "name": "BurgerKing Alexa",
                             "author": "aec",
-                            "description": "Burger King is unveiling a horrible, genius, infuriating, hilarious, and maybe very poorly thought-out ad today that’s designed to intentionally set off Google Homes and Android phones.\nThe...",
+                            "description": "Burger King is unveiling a horrible, genius, infuriating, hilarious, and maybe very poorly thought-out ad today that’s designed to intentionally set off Google Homes and Android phones. The...",
                             "image": "https://cdn.vox-cdn.com/thumbor/vWkGqlhwiRqIbNU1CKTt8SReaLU=/1x0:2054x1155/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/54213457/bk.0.png",
                             "video": "https://www.youtube.com/watch?v=n5lj63-nc5g",
                             "main_link": "https://www.theverge.com/2017/4/12/15259400/burger-king-google-home-ad-wikipedia",
@@ -7107,7 +7157,7 @@
                             "uid": "TECH71",
                             "name": "Indoor positioning",
                             "author": "radar18",
-                            "description": "Retailers can precisely locate customers and provide them an improved experience. Technology such as Li-Fi, Beacons, ultrasounds, Wi-Fi, dead reckoning and others, are used to create indoor positioning systems. These systems allow retailers to locate customers and allow customers to navigate in-store and easily find items. An indoor positioning system is also essential for autonomous robots to navigate in-store.  \n",
+                            "description": "Retailers can precisely locate customers and provide them an improved experience. Technology such as Li-Fi, Beacons, ultrasounds, Wi-Fi, dead reckoning and others, are used to create indoor positioning systems. These systems allow retailers to locate customers and allow customers to navigate in-store and easily find items. An indoor positioning system is also essential for autonomous robots to navigate in-store.  ",
                             "image": "https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2012/oiukhk.jpg",
                             "video": "",
                             "prevwork": "A study is available. An experiment is being conducted by Innovation department in collaboration with Digital department.",
@@ -7884,7 +7934,7 @@
                             "uid": "TECH47:1",
                             "name": "Ses imagotag",
                             "author": "tpc",
-                            "description": "SES-imagotag is a digital solutions specialist for physical retail and world leader of electronic labeling systems. Manage your store with\nlaser-like precision and Dive into our enhanced in-Store experience.",
+                            "description": "SES-imagotag is a digital solutions specialist for physical retail and world leader of electronic labeling systems. Manage your store with laser-like precision and Dive into our enhanced in-Store experience.",
                             "image": "../main/img/oldtechimg/imagotag.jpg",
                             "video": "",
                             "main_link": "http://www.ses-imagotag.com",
@@ -8668,7 +8718,7 @@
                             "uid": "TECH71",
                             "name": "Indoor positioning",
                             "author": "radar18",
-                            "description": "Retailers can precisely locate customers and provide them an improved experience. Technology such as Li-Fi, Beacons, ultrasounds, Wi-Fi, dead reckoning and others, are used to create indoor positioning systems. These systems allow retailers to locate customers and allow customers to navigate in-store and easily find items. An indoor positioning system is also essential for autonomous robots to navigate in-store.  \n",
+                            "description": "Retailers can precisely locate customers and provide them an improved experience. Technology such as Li-Fi, Beacons, ultrasounds, Wi-Fi, dead reckoning and others, are used to create indoor positioning systems. These systems allow retailers to locate customers and allow customers to navigate in-store and easily find items. An indoor positioning system is also essential for autonomous robots to navigate in-store.  ",
                             "image": "https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2012/oiukhk.jpg",
                             "video": "",
                             "prevwork": "A study is available. An experiment is being conducted by Innovation department in collaboration with Digital department.",
@@ -9759,7 +9809,7 @@
                             "uid": "TECH07",
                             "name": "Artificial intelligence for Recommendations",
                             "author": "radar18",
-                            "description": "Customize advirtisement and product recommendation based on sales history and custom behaviour. Machine learning and optimization algorithms can look for and exploit observed patterns, correlations, and relationships among data elements of customer’s purchases. \nIn this way, automatic suggestion of discounts based on previous and continuous purchases. ",
+                            "description": "Customize advirtisement and product recommendation based on sales history and custom behaviour. Machine learning and optimization algorithms can look for and exploit observed patterns, correlations, and relationships among data elements of customer’s purchases. In this way, automatic suggestion of discounts based on previous and continuous purchases. ",
                             "image": "https://www.business-humanrights.org/sites/default/files/pexels-photo-239898_1.jpg",
                             "video": "",
                             "prevwork": "Smart Continente and Siga APP uses AI to make suggestions to add items to a list. The next step is to envisage the best additional use cases to incorporate this technology in other applications in the company and implement.",
@@ -9804,7 +9854,7 @@
                             "uid": "TECH71",
                             "name": "Indoor positioning",
                             "author": "radar18",
-                            "description": "Retailers can precisely locate customers and provide them an improved experience. Technology such as Li-Fi, Beacons, ultrasounds, Wi-Fi, dead reckoning and others, are used to create indoor positioning systems. These systems allow retailers to locate customers and allow customers to navigate in-store and easily find items. An indoor positioning system is also essential for autonomous robots to navigate in-store.  \n",
+                            "description": "Retailers can precisely locate customers and provide them an improved experience. Technology such as Li-Fi, Beacons, ultrasounds, Wi-Fi, dead reckoning and others, are used to create indoor positioning systems. These systems allow retailers to locate customers and allow customers to navigate in-store and easily find items. An indoor positioning system is also essential for autonomous robots to navigate in-store.  ",
                             "image": "https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2012/oiukhk.jpg",
                             "video": "",
                             "prevwork": "A study is available. An experiment is being conducted by Innovation department in collaboration with Digital department.",
@@ -9923,6 +9973,48 @@
                             "article_links": [
                                 ""
                             ]
+                        },
+                        {
+                            "uid": "IMP215",
+                            "name": "Prime Wardrobe",
+                            "author": "jgp",
+                            "description": "Use your seven-day try-on period to find the best style and fit at home",
+                            "image": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2018/PRIME_WARDROBE/LAUNCH/L0/Headline_LearnMore_V2.jpg",
+                            "video": "",
+                            "main_link": "https://www.amazon.com/learn-more-prime-wardrobe/b?ie=UTF8&node=16122413011",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP220",
+                            "name": "Today’s ‘try before you buy’ mindset is reshaping how people shop",
+                            "author": "jgp",
+                            "description": "When was the last time you bought something without consulting a review?",
+                            "image": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
+                            "video": "",
+                            "main_link": "https://www.thinkwithgoogle.com/advertising-channels/video/consumer-purchase-behavior/",
+                            "article_links": [
+                                ""
+                            ]
+                        }
+                    ],
+                    "partner": [
+                        {
+                            "uid": "PRT162",
+                            "name": "Try",
+                            "author": "jgp",
+                            "description": "Buy now. Pay over time.",
+                            "image": "https://uploads-ssl.webflow.com/5ca521d79a78ea1cba1471ee/5ca521d79a78ea4c1d147259_Purple_014_Retouched-p-800.jpeg",
+                            "video": "",
+                            "main_link": "https://www.try.com/#",
+                            "article_links": [
+                                ""
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                ""
+                            ]
                         }
                     ]
                 }
@@ -9971,6 +10063,18 @@
                             "main_link": "https://www.ikea.com/ms/en_US/this-is-ikea/ikea-highlights/Virtual-reality/index.html",
                             "article_links": [
                                 "https://demodern.com/projects/ikea-vr-showroom"
+                            ]
+                        },
+                        {
+                            "uid": "IMP220",
+                            "name": "Today’s ‘try before you buy’ mindset is reshaping how people shop",
+                            "author": "jgp",
+                            "description": "When was the last time you bought something without consulting a review?",
+                            "image": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
+                            "video": "",
+                            "main_link": "https://www.thinkwithgoogle.com/advertising-channels/video/consumer-purchase-behavior/",
+                            "article_links": [
+                                ""
                             ]
                         }
                     ],
@@ -10290,6 +10394,18 @@
                             "image": "https://cdn.shopify.com/s/files/1/0014/3504/1886/files/Rum-and-drink_900x.jpg?v=1531935781",
                             "video": "",
                             "main_link": "https://www.stryyk.com/",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP219",
+                            "name": "People Are Confused About the Usefulness of Buying Fancy Things",
+                            "author": "jgp",
+                            "description": "Why luxury goods don't impress, but repel",
+                            "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/09/GettyImages_986398492/lead_720_405.jpg?mod=1538068676",
+                            "video": "",
+                            "main_link": "https://www.theatlantic.com/family/archive/2018/09/buying-luxury-goods-value/571525/",
                             "article_links": [
                                 ""
                             ]
@@ -10716,7 +10832,7 @@
                             "uid": "PRT003",
                             "name": "Magic Candy Factory",
                             "author": "jgp",
-                            "description": "Magic Candy Factory \nThe Katjes Magic Candy Factory is a completely unique form of event entertainment, fusing innovative technology and candy to produce a fun interactive experience that provides the ultimate WOW factor!",
+                            "description": "Magic Candy Factory  The Katjes Magic Candy Factory is a completely unique form of event entertainment, fusing innovative technology and candy to produce a fun interactive experience that provides the ultimate WOW factor!",
                             "image": "http://magiccandyfactory.com/wp-content/uploads/2017/02/CorporateEventsSelfies-1.jpg",
                             "video": "",
                             "main_link": "http://magiccandyfactory.com/events/",
@@ -11598,7 +11714,7 @@
                             "uid": "PRT123",
                             "name": "TheMotion",
                             "author": "jgp",
-                            "description": "Super-charge your sales with Facebook Dynamic Video Ads\r\n\r\nTransform your entire product catalog into high performing video ads that attract attention and convert viewers.\r\n\r\n",
+                            "description": "Super-charge your sales with Facebook Dynamic Video Ads. Transform your entire product catalog into high performing video ads that attract attention and convert viewers.",
                             "image": "https://www.themotion.com/assets/images/logo.svg",
                             "video": "",
                             "main_link": "https://www.themotion.com/",
@@ -11614,7 +11730,7 @@
                             "uid": "PRT156",
                             "name": "talkdesk",
                             "author": "jgp",
-                            "description": "Talkdesk is loaded with advanced features that are strikingly simple and save time. For example, Callbar requires virtually no training and allows team members to view caller information without switching between tabs.\n\nSimplicity also means reliability. Talkdesk offers superior voice quality with six global data centers and Global Low Latency architecture.",
+                            "description": "Talkdesk is loaded with advanced features that are strikingly simple and save time. For example, Callbar requires virtually no training and allows team members to view caller information without switching between tabs. Simplicity also means reliability. Talkdesk offers superior voice quality with six global data centers and Global Low Latency architecture.",
                             "image": "https://www.talkdesk.com/app/themes/talkdesk-com/assets/images/talkdesk-logo.svg",
                             "video": "",
                             "main_link": "https://www.talkdesk.com/why-talkdesk/",
@@ -13814,7 +13930,7 @@
                             "name": "Nanotechnologically engineered wine",
                             "author": "tpc",
                             "description": "Tasteless liquids contain nano-capsules that are activated by microwave transmitters. After activation, the capsules release the chemicals that will give flavour, appearence and nutritional composition to the liquid.",
-                            "image": "https://www.nanowerk.com/news/id1441_2.jpg",
+                            "image": "https://geneticliteracyproject.org/wp-content/uploads/2017/01/wine-9-20-18.jpg",
                             "video": "",
                             "prevwork": "",
                             "prevworkurl": "",
@@ -13824,49 +13940,6 @@
                             ],
                             "recommendation": "watch",
                             "impact": "low"
-                        }
-                    ]
-                }
-            }
-        },
-        "app_GRMTJNKK": {
-            "type": "concept",
-            "group": "threat",
-            "label": "Gourmet Junk Food",
-            "meta": {
-                "icon": {
-                    "small": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png",
-                    "large": "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png"
-                },
-                "description": "While the attention to health as increased, the role of food as an emotional tool has not changed. Therefore by creating alternative indulgences, more healthy, it is allowed a free-guilt consumption.  Restaurants like gourmet burger houses and wholewheat pizzas are spreading. ",
-                "list": "Trend Application",
-                "year": "Experiences",
-                "multinational": false,
-                "highlighttype": [
-                    "Healthy Junk Food",
-                    "Liquid Expectations"
-                ],
-                "filterlists": [
-                    "Comercial Alimentar",
-                    "Meu Super"
-                ],
-                "highlights": {
-                    "partner": [
-                        {
-                            "uid": "PRT144",
-                            "name": "Farmer's Fridge",
-                            "author": "jgp",
-                            "description": "We make fresh meals in our kitchen and fill our Fridges with wholesome, delicious salads, bowls, snacks and more. Unpurchased items are regularly donated to local food pantries, providing responsibly sourced nutrition to community members in need.",
-                            "image": "https://www.farmersfridge.com/_next/static/images/Fridge_Render-3455cac97fd6ec7bf23dcda1a95d3a25.png",
-                            "video": "",
-                            "main_link": "https://www.farmersfridge.com/",
-                            "article_links": [
-                                ""
-                            ],
-                            "sonar_link": "",
-                            "related_highlights": [
-                                ""
-                            ]
                         }
                     ]
                 }
@@ -14203,6 +14276,18 @@
                             "image": "http://s.marketwatch.com/public/resources/MWimages/MW-HA605_driver_ZG_20181218221453.jpg",
                             "video": "",
                             "main_link": "https://www.marketwatch.com/story/kroger-rolls-out-driverless-cars-to-deliver-groceries-2018-12-18?fbclid=IwAR3_YflqEDM1O38t98aCk6ro1OT_KJ_kbVVGwPw-BXHV8iTlfbMssDSZ09A",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP197",
+                            "name": "GM’s Cruise partners with DoorDash to test autonomous food delivery",
+                            "author": "tpc",
+                            "description": "Cruise Automation, the self-driving unit of General Motors, is teaming up with DoorDash to test a food delivery service in San Francisco using autonomous vehicles. ",
+                            "image": "https://cdn.vox-cdn.com/thumbor/noXAZeO9wWBfMo0NRq_tppLdZTs=/0x0:2658x1546/920x613/filters:focal(1117x561:1541x985):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/62775918/cruise_gm_bolt.0.jpg",
+                            "video": "",
+                            "main_link": "https://www.theverge.com/2019/1/3/18166660/gm-cruise-doordash-test-self-driving-food-delivery",
                             "article_links": [
                                 ""
                             ]
@@ -14651,7 +14736,7 @@
                             "uid": "PRT133",
                             "name": "Arpa Elastic Solutions",
                             "author": "jgp",
-                            "description": "ARPA Elastic Solutions specializes in automation and robotization of processes (RPA), aimed to increase the productivity of its customers. \n\nAs the leading technology in the RPA market it acts in the areas of consulting, training and support, providing solutions for management.",
+                            "description": "ARPA Elastic Solutions specializes in automation and robotization of processes (RPA), aimed to increase the productivity of its customers. As the leading technology in the RPA market it acts in the areas of consulting, training and support, providing solutions for management.",
                             "image": "http://www.arpa.tech/img/arpa/sobre%20nos/sn_01.png",
                             "video": "",
                             "main_link": "http://www.arpa.tech/indexe.html",
@@ -14703,7 +14788,7 @@
                             "uid": "PRT155",
                             "name": "Outsystems",
                             "author": "jgp",
-                            "description": "OutSystems is a low-code platform that lets you visually develop your entire application, easily integrate with existing systems, and add your own custom code when you need it. \r\n\r\nCrafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.",
+                            "description": "OutSystems is a low-code platform that lets you visually develop your entire application, easily integrate with existing systems, and add your own custom code when you need it. Crafted by engineers with an obsessive attention to detail, every aspect of our platform is designed to help you build and deliver better apps faster.",
                             "image": "https://www.outsystems.com/-/media/images/menu/navigation-weekly-webinar-v2.png",
                             "video": "",
                             "main_link": "https://www.outsystems.com/",
@@ -14719,7 +14804,7 @@
                             "uid": "PRT156",
                             "name": "talkdesk",
                             "author": "jgp",
-                            "description": "Talkdesk is loaded with advanced features that are strikingly simple and save time. For example, Callbar requires virtually no training and allows team members to view caller information without switching between tabs.\n\nSimplicity also means reliability. Talkdesk offers superior voice quality with six global data centers and Global Low Latency architecture.",
+                            "description": "Talkdesk is loaded with advanced features that are strikingly simple and save time. For example, Callbar requires virtually no training and allows team members to view caller information without switching between tabs. Simplicity also means reliability. Talkdesk offers superior voice quality with six global data centers and Global Low Latency architecture.",
                             "image": "https://www.talkdesk.com/app/themes/talkdesk-com/assets/images/talkdesk-logo.svg",
                             "video": "",
                             "main_link": "https://www.talkdesk.com/why-talkdesk/",
@@ -15141,6 +15226,42 @@
                             "image": "https://image.isu.pub/180425080229-1e9fc6b861115b0b7629568927b5dff3/jpg/page_1.jpg",
                             "video": "",
                             "main_link": "https://issuu.com/fashionrevolution/docs/fr_fashiontransparencyindex2018?e=25766662/60458846",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP207",
+                            "name": "Fairtrade Certification",
+                            "author": "tpc",
+                            "description": "The Fairtrade certification initiative was created to form a new method for economic trade. This method takes an ethical standpoint, and considers the producers first. Fairtrade changes the way trade works through better prices, decent working conditions and a fairer deal for farmers and workers in developing countries.",
+                            "image": "../main/img/oldtechimg/fairtrade.jpg",
+                            "video": "https://youtu.be/SfRzuYc7JFE",
+                            "main_link": "http://www.fairtrade.org.uk/",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP217",
+                            "name": "Rise of the in-house ethics watchdog",
+                            "author": "tpc",
+                            "description": "Few in-house lawyers would say they were not in favour of sustainability. Businesses able to withstand shocks because they manage financial, social and environmental risks, as well as obligations and opportunities, are like motherhood and apple pie: it would be foolish to admit you were opposed.",
+                            "image": "",
+                            "video": "",
+                            "main_link": "https://www.ft.com/content/cb181c62-5900-11e8-806a-808d194ffb75",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP221",
+                            "name": "Georgia Ethics Watchdogs",
+                            "author": "tpc",
+                            "description": "Georgia Ethics Watchdogs mission is holding local and state government entities and officials accountable to high ethical standards for the citizens of our state.  We serve as a resource for the public and media to set and promote high standards of ethical conduct for our political leaders and candidates.",
+                            "image": "http://gaethicswatchdogs.org/wp-content/uploads/2015/09/GAEWfinal1-e1441399599953-300x151.png",
+                            "video": "",
+                            "main_link": "http://gaethicswatchdogs.org/",
                             "article_links": [
                                 ""
                             ]
@@ -15789,7 +15910,7 @@
                             "uid": "PRT097",
                             "name": "smartLOGO",
                             "author": "jgp",
-                            "description": "smartLOGO, la vera alternativa al qr-code ti permette di ingaggiare il tuo consumatore con contenuti rilevanti\n",
+                            "description": "smartLOGO, la vera alternativa al qr-code ti permette di ingaggiare il tuo consumatore con contenuti rilevanti ",
                             "image": "https://images.pexels.com/photos/1437318/pexels-photo-1437318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
                             "video": "",
                             "main_link": "http://www.smartlogo.it/",
@@ -16378,7 +16499,7 @@
                             "uid": "TECH47:1",
                             "name": "Ses imagotag",
                             "author": "tpc",
-                            "description": "SES-imagotag is a digital solutions specialist for physical retail and world leader of electronic labeling systems. Manage your store with\nlaser-like precision and Dive into our enhanced in-Store experience.",
+                            "description": "SES-imagotag is a digital solutions specialist for physical retail and world leader of electronic labeling systems. Manage your store with laser-like precision and Dive into our enhanced in-Store experience.",
                             "image": "../main/img/oldtechimg/imagotag.jpg",
                             "video": "",
                             "main_link": "http://www.ses-imagotag.com",
@@ -16530,7 +16651,7 @@
                             "uid": "PRT137",
                             "name": "Clarifruit",
                             "author": "jgp",
-                            "description": "ClariFruit (formerly known as AclarTech) is an innovative startup introducing revolutionary yet simple approach for measuring fruits and vegetables ripeness quality, freshness, durability, and taste.\r\n\r\n​\r\n\r\nClariFruit’s mobile application monitors and analyzes fruit quality, ripeness and freshness, delivering considerable financial and operational benefits to its users. \r\n\r\n",
+                            "description": "ClariFruit (formerly known as AclarTech) is an innovative startup introducing revolutionary yet simple approach for measuring fruits and vegetables ripeness quality, freshness, durability, and taste. ClariFruit’s mobile application monitors and analyzes fruit quality, ripeness and freshness, delivering considerable financial and operational benefits to its users.",
                             "image": "https://static.wixstatic.com/media/b77c24_c33368feb70d486695be3f827b112e2e%7Emv2_d_3264_2448_s_4_2.jpg/v1/fit/w_2500,h_1330,al_c/b77c24_c33368feb70d486695be3f827b112e2e%7Emv2_d_3264_2448_s_4_2.jpg",
                             "video": "",
                             "main_link": "https://www.clarifruit.com/",
@@ -16604,7 +16725,7 @@
                             "uid": "IMP022",
                             "name": "Hershey Simple Ingredients",
                             "author": "aec",
-                            "description": "We all want to know more about the foods we eat – where they come from, what’s inside them and how they are made. Part of the story begins on your Reese’s Peanut Butter Cup wrapper or your KRAVE package and we have more to share here.\r\n\r\n",
+                            "description": "We all want to know more about the foods we eat – where they come from, what’s inside them and how they are made. Part of the story begins on your Reese’s Peanut Butter Cup wrapper or your KRAVE package and we have more to share here.",
                             "image": "https://www.thehersheycompany.com/content/dam/grayscale/logos/logo/HERSHEYS_logo_primary-EBU_2014.jpg",
                             "video": "",
                             "main_link": "https://www.thehersheycompany.com/en_us/whats-inside.html",
@@ -17149,7 +17270,7 @@
                             "uid": "IMP051",
                             "name": "Samsung GEMS",
                             "author": "aec",
-                            "description": "Samsung GEMS (Gait Enhancing & Motivating System) can assist users who have trouble walking, running or standing up, such as the elderly, by preventing their muscles from being overworked.\r\n\r\n",
+                            "description": "Samsung GEMS (Gait Enhancing & Motivating System) can assist users who have trouble walking, running or standing up, such as the elderly, by preventing their muscles from being overworked.",
                             "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2019/01/CES2019-Samsung-5-Things-15_main.jpg",
                             "video": "",
                             "main_link": "https://news.samsung.com/global/video-meet-the-samsung-bots-your-companions-of-the-future",
@@ -17266,6 +17387,42 @@
                             "article_links": [
                                 ""
                             ]
+                        },
+                        {
+                            "uid": "IMP208",
+                            "name": "How to Cash In On the Untapped Longevity Economy",
+                            "author": "jgp",
+                            "description": "The 50+ crowd desires to chase their dreams, have fun, contribute, socialize, achieve meaning, and leave a legacy.",
+                            "image": "https://cdn-images-1.medium.com/max/1000/1*8jB9JcEyK90_8kl2eFhlNQ.jpeg",
+                            "video": "",
+                            "main_link": "https://medium.com/@andrewmerle/how-to-cash-in-on-the-untapped-longevity-economy-90b6b5263ae7",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP209",
+                            "name": "You Say Silver Tsunami, I Say Longevity Economy",
+                            "author": "jgp",
+                            "description": "In today’s booming economy and tight labor market, employees are no longer simply a clock number. In fact, industrial gerontology is a leading field in the longevity economy and rife for continued innovation and development. “Every old is new again,” after all.",
+                            "image": "https://www.americaninno.com/wp-content/uploads/2019/05/GettyImages-1096101642-1068x400.jpg",
+                            "video": "",
+                            "main_link": "https://www.americaninno.com/rhodeisland/from-the-community-rhodeisland/you-say-silver-tsunami-i-say-longevity-economy/",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP210",
+                            "name": "The “silver tsunami” is the workforce the world needs right now",
+                            "author": "jgp",
+                            "description": "However, a silver tsunami has already arrived, but with much less fanfare. It has shown itself not in the number of pensioners, not in the number of consumers, but in the number of employees.",
+                            "image": "https://cms.qz.com/wp-content/uploads/2018/11/RTX6F841.jpg?quality=75&strip=all&w=1900&h=1256",
+                            "video": "",
+                            "main_link": "https://qz.com/work/1605206/senior-workers-are-the-key-to-economic-growth/amp/",
+                            "article_links": [
+                                ""
+                            ]
                         }
                     ]
                 }
@@ -17330,7 +17487,7 @@
                             "uid": "IMP030",
                             "name": "Carrefour RTBF",
                             "author": "aec",
-                            "description": "French grocery giant Carrefour has launched an after-work pick-up point for goods in Belgium.\nThe facility gives workers at RTBF and VRT in Schaerbeek, Belgium, the opportunity to order online and then pick up their purchases in the companies’ shared on-site car park.",
+                            "description": "French grocery giant Carrefour has launched an after-work pick-up point for goods in Belgium. The facility gives workers at RTBF and VRT in Schaerbeek, Belgium, the opportunity to order online and then pick up their purchases in the companies’ shared on-site car park.",
                             "image": "https://www.lsa-conso.fr/mediatheque/4/4/4/000136444_87.jpg",
                             "video": "https://www.youtube.com/watch?v=wW_BLmYlSNY",
                             "main_link": "http://www.gifts-today.co.uk/news/carrefour_launches_afterwork_pickup_point_for_belgian_office_workers.aspx",
@@ -17356,7 +17513,7 @@
                             "uid": "PRT039",
                             "name": "Workwell",
                             "author": "aec",
-                            "description": "The all-in-one app that brings people together, one place at a time.\nUse our built-in services, or build your own. Seamless third-party integrations.",
+                            "description": "The all-in-one app that brings people together, one place at a time. Use our built-in services, or build your own. Seamless third-party integrations.",
                             "image": "https://f6s-public.s3.amazonaws.com/profiles/1816839_original.jpg",
                             "video": "",
                             "main_link": "https://www.workwell.io/",
@@ -17418,6 +17575,30 @@
                             "article_links": [
                                 "https://www.jwtintelligence.com/2017/07/the-brandless-store/"
                             ]
+                        },
+                        {
+                            "uid": "IMP213",
+                            "name": "The genderless digital voice the world needs right now",
+                            "author": "jgp",
+                            "description": "The problem is, that binary choice isn’t an accurate representation of the complexities of gender. Some folks don’t identify as either male or female, and they may want their voice assistant to mirror that identity.",
+                            "image": "https://media.wired.com/photos/5c81afc312440d0f262d3b60/master/w_799,c_limit/Genderless-Voice_02.jpg",
+                            "video": "",
+                            "main_link": "https://www.wired.com/story/the-genderless-digital-voice-the-world-needs-right-now/",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP214",
+                            "name": "New York Fashion Week Is Moving Toward a Genderless Future",
+                            "author": "jgp",
+                            "description": "“The future is female” might be the feminist slogan of the moment, but in the world of fashion, the future is neither female nor male — it’s genderless.",
+                            "image": "https://static.highsnobiety.com/thumbor/qjKaDhokijRnGx3-E5ZF8IlQ3N8=/fit-in/1200x800/smart/static.highsnobiety.com/wp-content/uploads/2018/09/03123240/new-york-fashion-week-genderless-designers-00.jpg",
+                            "video": "",
+                            "main_link": "https://www.highsnobiety.com/p/new-york-fashion-week-genderless-designers/",
+                            "article_links": [
+                                ""
+                            ]
                         }
                     ]
                 }
@@ -17473,7 +17654,7 @@
                             "uid": "IMP036",
                             "name": "Tesco Humane Fish Slaughter",
                             "author": "aec",
-                            "description": "Turkey’s largest bass and bream farmer Kilic is currently testing the new slaughtering system developed by Tesco and will kick it off soon for 1,000t of production\n",
+                            "description": "Turkey’s largest bass and bream farmer Kilic is currently testing the new slaughtering system developed by Tesco and will kick it off soon for 1,000t of production.",
                             "image": "https://js.undercurrentnews.com/wp-content/uploads/2013/12/TESCO-300x204.jpg",
                             "video": "",
                             "main_link": "https://www.undercurrentnews.com/2017/07/28/tesco-collaborates-with-turkish-bass-bream-farmers-uk-processors-on-new-humane-slaughtering-method/",
@@ -17623,7 +17804,7 @@
                             "uid": "PRT123",
                             "name": "TheMotion",
                             "author": "jgp",
-                            "description": "Super-charge your sales with Facebook Dynamic Video Ads\r\n\r\nTransform your entire product catalog into high performing video ads that attract attention and convert viewers.\r\n\r\n",
+                            "description": "Super-charge your sales with Facebook Dynamic Video Ads. Transform your entire product catalog into high performing video ads that attract attention and convert viewers.",
                             "image": "https://www.themotion.com/assets/images/logo.svg",
                             "video": "",
                             "main_link": "https://www.themotion.com/",
@@ -17655,7 +17836,7 @@
                             "uid": "PRT080",
                             "name": "Instagram Stickers",
                             "author": "aec",
-                            "description": "Instagram Stories stickers are not just a fun way to add more personality to your stories — they’re also extremely useful for growing your businesses! \r\n\r\nWhether you’re trying to grow your engagement, build more brand awareness, drive traffic to your website, or even make ecommerce sales, there’s definitely an Instagram Stories sticker that can help you along the way.\r\n\r\n",
+                            "description": "Instagram Stories stickers are not just a fun way to add more personality to your stories — they’re also extremely useful for growing your businesses!  Whether you’re trying to grow your engagement, build more brand awareness, drive traffic to your website, or even make ecommerce sales, there’s definitely an Instagram Stories sticker that can help you along the way.",
                             "image": "https://mk0laterblog4vkmxupe.kinstacdn.com/wp-content/uploads/2019/02/IMG_4974-2-576x1024.png",
                             "video": "",
                             "main_link": "https://later.com/blog/instagram-stories-stickers/",
@@ -17774,6 +17955,30 @@
                                 "https://www.codeandtheory.com/things-we-make/campaign-maybelline-new-york-the-nudes-palette",
                                 "http://www.maybelline.com/thenudes"
                             ]
+                        },
+                        {
+                            "uid": "IMP211",
+                            "name": "Getting YouTube Stars to Sell Your Product",
+                            "author": "jgp",
+                            "description": "YouTube influencers are a sought-after breed. One word from these connoisseurs of cool, these heralders of hipness, and traffic to a website or store soars, products fly off shelves and brands become blockbusters overnight.",
+                            "image": "https://static01.nyt.com/images/2016/02/25/business/25ebiz/25ebiz-jumbo.jpg?quality=90&auto=webp",
+                            "video": "",
+                            "main_link": "https://www.nytimes.com/2016/02/25/business/smallbusiness/getting-youtube-stars-to-sell-your-product.html",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP220",
+                            "name": "Today’s ‘try before you buy’ mindset is reshaping how people shop",
+                            "author": "jgp",
+                            "description": "When was the last time you bought something without consulting a review?",
+                            "image": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
+                            "video": "",
+                            "main_link": "https://www.thinkwithgoogle.com/advertising-channels/video/consumer-purchase-behavior/",
+                            "article_links": [
+                                ""
+                            ]
                         }
                     ],
                     "partner": [
@@ -17843,6 +18048,42 @@
                             "image": "https://images1.miaminewtimes.com/imager/u/745xauto/10231874/dsc_0300.jpg",
                             "video": "",
                             "main_link": "https://www.museumoficecream.com/",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP200",
+                            "name": "Unicorn Frappuccino mania: Starbucks aims at Instagram",
+                            "author": "jgp",
+                            "description": "Coffee chain enhances profile with selfie-friendly Unicorn Frappuccino. It tastes awful, say some – but looks great on social media",
+                            "image": "https://i.guim.co.uk/img/media/72c519e3f26b81a774322ed593ec416300bef658/0_4_5472_3283/master/5472.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=bc228b0c699a3c0bb02c04f7dd54facd",
+                            "video": "",
+                            "main_link": "https://www.theguardian.com/business/2017/apr/21/unicorn-frappuccino-starbucks-instagram-selfie-social-media",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP201",
+                            "name": "The 15 most Instagrammable restaurants in the world",
+                            "author": "jgp",
+                            "description": "These are the spots people would still go for the ‘gram even if all that was served was hardtack.",
+                            "image": "https://i1.wp.com/kemybablo.com/wp-content/uploads/2016/11/img_0998.jpg?fit=2448%2C3264",
+                            "video": "",
+                            "main_link": "https://matadornetwork.com/read/instagrammable-restaurants-world/",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP203",
+                            "name": "Why are fancy bathrooms all over Instagram?",
+                            "author": "jgp",
+                            "description": "Hotels and restaurants are hoping you’ll take a selfie in one of their novelty bathrooms.",
+                            "image": "https://cdn.vox-cdn.com/thumbor/cGbyzhxkjeAiI5FqqXk8nKbi0hw=/0x0:2391x2254/920x613/filters:focal(975x850:1357x1232):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/62749173/GettyImages_722304967.0.jpg",
+                            "video": "",
+                            "main_link": "https://www.vox.com/the-goods/2019/1/3/18159301/bathrooms-for-instagram-luxury-bathrooms",
                             "article_links": [
                                 ""
                             ]
@@ -17953,6 +18194,18 @@
                             "image": "http://s.marketwatch.com/public/resources/MWimages/MW-HA605_driver_ZG_20181218221453.jpg",
                             "video": "",
                             "main_link": "https://www.marketwatch.com/story/kroger-rolls-out-driverless-cars-to-deliver-groceries-2018-12-18?fbclid=IwAR3_YflqEDM1O38t98aCk6ro1OT_KJ_kbVVGwPw-BXHV8iTlfbMssDSZ09A",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP197",
+                            "name": "GM’s Cruise partners with DoorDash to test autonomous food delivery",
+                            "author": "tpc",
+                            "description": "Cruise Automation, the self-driving unit of General Motors, is teaming up with DoorDash to test a food delivery service in San Francisco using autonomous vehicles. ",
+                            "image": "https://cdn.vox-cdn.com/thumbor/noXAZeO9wWBfMo0NRq_tppLdZTs=/0x0:2658x1546/920x613/filters:focal(1117x561:1541x985):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/62775918/cruise_gm_bolt.0.jpg",
+                            "video": "",
+                            "main_link": "https://www.theverge.com/2019/1/3/18166660/gm-cruise-doordash-test-self-driving-food-delivery",
                             "article_links": [
                                 ""
                             ]
@@ -18319,6 +18572,42 @@
                             "article_links": [
                                 ""
                             ]
+                        },
+                        {
+                            "uid": "IMP216",
+                            "name": "Online Shoppers Will Buy More If They See What Others Have Bought",
+                            "author": "jgp",
+                            "description": "It turns out that online shoppers are really just a bunch of copycats. According to new research, consumers are more likely to purchase items if information highlighting sales statistics from other customers accompanies product listings on websites.",
+                            "image": "https://img.business.com/w/660/aHR0cHM6Ly93d3cuYnVzaW5lc3MuY29tL2ltYWdlcy9jb250ZW50LzVjYS8zZGZjMjVhMjE1ZThhNDU4YmFjN2MvMC04MDAt",
+                            "video": "",
+                            "main_link": "https://www.businessnewsdaily.com/1678-online-shopping-tendencies.html",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP218",
+                            "name": "This is exactly how many reviews it takes to get someone to buy something",
+                            "author": "jgp",
+                            "description": "But one is better than none, since research shows we favor merch with more reviews.",
+                            "image": "https://ei.marketwatch.com/Multimedia/2018/10/30/Photos/ZH/MW-GU396_7b58e4_20181030153246_ZH.jpg",
+                            "video": "",
+                            "main_link": "https://www.marketwatch.com/story/this-is-exactly-how-many-reviews-it-takes-to-get-someone-to-buy-something-2017-08-22-12883123",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP220",
+                            "name": "Today’s ‘try before you buy’ mindset is reshaping how people shop",
+                            "author": "jgp",
+                            "description": "When was the last time you bought something without consulting a review?",
+                            "image": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
+                            "video": "",
+                            "main_link": "https://www.thinkwithgoogle.com/advertising-channels/video/consumer-purchase-behavior/",
+                            "article_links": [
+                                ""
+                            ]
                         }
                     ]
                 }
@@ -18543,7 +18832,7 @@
                             "uid": "PRT156",
                             "name": "talkdesk",
                             "author": "jgp",
-                            "description": "Talkdesk is loaded with advanced features that are strikingly simple and save time. For example, Callbar requires virtually no training and allows team members to view caller information without switching between tabs.\n\nSimplicity also means reliability. Talkdesk offers superior voice quality with six global data centers and Global Low Latency architecture.",
+                            "description": "Talkdesk is loaded with advanced features that are strikingly simple and save time. For example, Callbar requires virtually no training and allows team members to view caller information without switching between tabs. Simplicity also means reliability. Talkdesk offers superior voice quality with six global data centers and Global Low Latency architecture.",
                             "image": "https://www.talkdesk.com/app/themes/talkdesk-com/assets/images/talkdesk-logo.svg",
                             "video": "",
                             "main_link": "https://www.talkdesk.com/why-talkdesk/",
@@ -20113,13 +20402,6 @@
         },
         {
             "subject": "app_HEALINDU",
-            "predicate": "broader",
-            "object": "vocabulary_ich_1287",
-            "weight": 2,
-            "edgetype": "app_to_mega"
-        },
-        {
-            "subject": "app_GRMTJNKK",
             "predicate": "broader",
             "object": "vocabulary_ich_1287",
             "weight": 2,
