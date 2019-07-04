@@ -1,7 +1,7 @@
 {
     "meta": {
         "language": "en",
-        "generated": "2019-05-22T17:48:58.372Z"
+        "generated": "2019-07-04T10:08:25.851Z"
     },
     "nodes": {
         "vocabulary_ich_1265": {
@@ -1818,6 +1818,18 @@
                             "article_links": [
                                 ""
                             ]
+                        },
+                        {
+                            "uid": "IMP225",
+                            "name": "Betabrand's Podcast Theatre: How The Audio Revolution Is Influencing Retail",
+                            "author": "jgp",
+                            "description": "This is where Podcast Theatre comes to life as Betabrand hosts weekly live podcasts from the store with a captivating audience.",
+                            "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fkatetalbot%2Ffiles%2F2019%2F05%2F6Q1A9753-1200x600.jpg",
+                            "video": "",
+                            "main_link": "https://www.forbes.com/sites/katetalbot/2019/05/21/betabrands-podcast-theatre-how-the-audio-revolution-is-influencing-retail/#535c2af069ba",
+                            "article_links": [
+                                ""
+                            ]
                         }
                     ]
                 }
@@ -1982,6 +1994,22 @@
                                 "TECH79:2",
                                 "TECH79:4",
                                 "TECH79:5"
+                            ]
+                        },
+                        {
+                            "uid": "PRT146",
+                            "name": "Pavegen",
+                            "author": "jgp",
+                            "description": "Pavegen creates high engagement with citizens by converting their footsteps into energy, data and rewards. We do this for smart cities and transport hubs, retailers, brands and educators. Apps, lighting, sounds and rewards provide instant feedback.",
+                            "image": "https://static1.squarespace.com/static/570fbd57746fb9f7a958815c/t/5cd2c4404785d30bbbf3b50e/1557316672707/pg%2Bcrowdcube-.png?format=1000w",
+                            "video": "",
+                            "main_link": "http://www.pavegen.com",
+                            "article_links": [
+                                ""
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                ""
                             ]
                         },
                         {
@@ -2356,36 +2384,89 @@
                 "filterlists": [
                     "Proteção Ativos​",
                     " Sustentabilidade​",
+                    "PCG & BI​",
                     "Retail Properties​"
                 ],
                 "highlights": {
-                    "implementation": [
+                    "technology": [
                         {
-                            "uid": "TECH59:2",
-                            "name": "XPrize",
-                            "author": "tpc",
-                            "description": "The Water Abundance XPRIZE is a competition, challenging teams to create energy-efficient technologies that harvest fresh water from thin air. Teams will revolutionize access to fresh water by creating a device that extracts a minimum of 2,000 liters of water per day from the atmosphere using renewable energy, at a cost of no more than 2 cents per liter.",
-                            "image": "https://assets-us-01.kc-usercontent.com:443/5cb25086-82d2-4c89-94f0-8450813a0fd3/4ab8a89e-ce98-41ae-a7a0-c393be7ec5d5/waxp_logo2.png",
+                            "uid": "TECH93",
+                            "name": "CO2 Refrigerantion",
+                            "author": "",
+                            "description": "contrary to HFCs, its Global Warming Potential is negligible when applied as a refrigerant. Therefore, being environmentally benign and safe, CO2 as a refrigerant has major benefits including: more than 30% reduction on carbon footprint on store level.",
+                            "image": "https://refrigeranthq.com/wp-content/uploads/2015/03/CO2_byline_logo.jpg",
                             "video": "",
-                            "main_link": "https://water.xprize.org/",
-                            "article_links": [
+                            "prevwork": "MultiPACK aims at demonstrating the performance and efficiency of the next generation of standardised integrated cooling and heating packages for commercial and public buildings based on environment-friendly carbon dioxide.",
+                            "prevworkurl": "https://www.ntnu.edu/multipack",
+                            "externalurls": [
                                 ""
-                            ]
+                            ],
+                            "recommendation": "",
+                            "impact": ""
                         },
                         {
-                            "uid": "IMP124",
-                            "name": "Steps generating energy",
-                            "author": "jgp",
-                            "description": "Abu Dhabi International Airport has officially announced the launch of an interactive walkway which converts the footsteps of travelers into off-grid electricity and data. ",
-                            "image": "http://www.tradearabia.com/source/2018/12/05/step.jpg",
+                            "uid": "TECH59",
+                            "name": "Water harvesting for Off-grid buildings",
+                            "author": "radar18",
+                            "description": "Harvest water from air to supply our buildings without the need of external sources of water. There are 140,000,000,000,000,000 liters of water in the atmosphere - by condensation, water can be harnessed. This method can provide enough water to supply buildings, without the need of external sources of water.",
+                            "image": "../main/img/oldtechimg/59.jpg",
                             "video": "",
-                            "main_link": "http://www.tradearabia.com/news/OGN_348371.html",
-                            "article_links": [
+                            "prevwork": "",
+                            "prevworkurl": "",
+                            "externalurls": [
                                 ""
-                            ]
+                            ],
+                            "recommendation": "study",
+                            "impact": "low"
+                        },
+                        {
+                            "uid": "TECH65",
+                            "name": "Quantum dots for Lighting & solar cells",
+                            "author": "radar18",
+                            "description": "Use QD to produce efficient white light in stores or to convert windows in transparent solar cells. Quantum dots are nanosized semiconductor particles that are able to absorb light and re-emit. A solar cell can have a design that uses quantum dots as the absorbing photovoltaic material.",
+                            "image": "../main/img/oldtechimg/65.jpg",
+                            "video": "",
+                            "prevwork": "",
+                            "prevworkurl": "",
+                            "externalurls": [
+                                ""
+                            ],
+                            "recommendation": "watch",
+                            "impact": "low"
+                        },
+                        {
+                            "uid": "TECH79",
+                            "name": "Solar Energy with storage",
+                            "author": "tpc",
+                            "description": "",
+                            "image": "https://www.tesla.com/sites/default/files/images/energy/solarroof-smooth-glass.jpg",
+                            "video": "",
+                            "prevwork": "",
+                            "prevworkurl": "",
+                            "externalurls": [
+                                ""
+                            ],
+                            "recommendation": "study",
+                            "impact": "low"
                         }
                     ],
                     "partner": [
+                        {
+                            "uid": "TECH93:1",
+                            "name": "Danfloss",
+                            "author": "",
+                            "description": "Danfoss has pioneered CO₂ technologies for both trans-critical and sub-critical systems for more than ten years and has gained valuable experience from thousands of installations all over the world. The many installations have proved that CO₂ can be applied in supermarkets enabling both environmentally friendly and energy saving systems in all types of stores.",
+                            "image": "https://www.danfoss.com/static/images/logo.svg",
+                            "video": "",
+                            "main_link": "https://www.danfoss.com/en/markets/food-and-beverage/dcs/co2-in-food-retail/",
+                            "article_links": [
+                                ""
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                ""
+                            ]
+                        },
                         {
                             "uid": "TECH65:2",
                             "name": "CFQD® - Cadmium-free quantum dots",
@@ -2592,51 +2673,30 @@
                             ]
                         }
                     ],
-                    "technology": [
+                    "implementation": [
                         {
-                            "uid": "TECH59",
-                            "name": "Water harvesting for Off-grid buildings",
-                            "author": "radar18",
-                            "description": "Harvest water from air to supply our buildings without the need of external sources of water. There are 140,000,000,000,000,000 liters of water in the atmosphere - by condensation, water can be harnessed. This method can provide enough water to supply buildings, without the need of external sources of water.",
-                            "image": "../main/img/oldtechimg/59.jpg",
-                            "video": "",
-                            "prevwork": "",
-                            "prevworkurl": "",
-                            "externalurls": [
-                                ""
-                            ],
-                            "recommendation": "study",
-                            "impact": "low"
-                        },
-                        {
-                            "uid": "TECH65",
-                            "name": "Quantum dots for Lighting & solar cells",
-                            "author": "radar18",
-                            "description": "Use QD to produce efficient white light in stores or to convert windows in transparent solar cells. Quantum dots are nanosized semiconductor particles that are able to absorb light and re-emit. A solar cell can have a design that uses quantum dots as the absorbing photovoltaic material.",
-                            "image": "../main/img/oldtechimg/65.jpg",
-                            "video": "",
-                            "prevwork": "",
-                            "prevworkurl": "",
-                            "externalurls": [
-                                ""
-                            ],
-                            "recommendation": "watch",
-                            "impact": "low"
-                        },
-                        {
-                            "uid": "TECH79",
-                            "name": "Solar Energy with storage",
+                            "uid": "TECH59:2",
+                            "name": "XPrize",
                             "author": "tpc",
-                            "description": "",
-                            "image": "https://www.tesla.com/sites/default/files/images/energy/solarroof-smooth-glass.jpg",
+                            "description": "The Water Abundance XPRIZE is a competition, challenging teams to create energy-efficient technologies that harvest fresh water from thin air. Teams will revolutionize access to fresh water by creating a device that extracts a minimum of 2,000 liters of water per day from the atmosphere using renewable energy, at a cost of no more than 2 cents per liter.",
+                            "image": "https://assets-us-01.kc-usercontent.com:443/5cb25086-82d2-4c89-94f0-8450813a0fd3/4ab8a89e-ce98-41ae-a7a0-c393be7ec5d5/waxp_logo2.png",
                             "video": "",
-                            "prevwork": "",
-                            "prevworkurl": "",
-                            "externalurls": [
+                            "main_link": "https://water.xprize.org/",
+                            "article_links": [
                                 ""
-                            ],
-                            "recommendation": "study",
-                            "impact": "low"
+                            ]
+                        },
+                        {
+                            "uid": "IMP124",
+                            "name": "Steps generating energy",
+                            "author": "jgp",
+                            "description": "Abu Dhabi International Airport has officially announced the launch of an interactive walkway which converts the footsteps of travelers into off-grid electricity and data. ",
+                            "image": "http://www.tradearabia.com/source/2018/12/05/step.jpg",
+                            "video": "",
+                            "main_link": "http://www.tradearabia.com/news/OGN_348371.html",
+                            "article_links": [
+                                ""
+                            ]
                         }
                     ]
                 }
@@ -2662,6 +2722,7 @@
                     "Clube de Produtores | Qualidade | I&D",
                     " Sustentabilidade​",
                     " Comercial Não Alimentar​",
+                    "PCG & BI​",
                     " Maxmat​"
                 ],
                 "highlights": {
@@ -2686,6 +2747,30 @@
                             "image": "https://assets.weforum.org/article/image/large_bA2EXSv0z8rYCxBC9708YRtS-Sa9kpbFld1GK8XWBn0.jpg",
                             "video": "",
                             "main_link": "https://www.weforum.org/agenda/2018/05/sustainable-products-good-for-the-world-or-expensive-hype/",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP227",
+                            "name": "Upcycled cook-off",
+                            "author": "jgp",
+                            "description": "Best Recipe from Upcycled Ingredients Contest. There is a need to shift towards more sustainable alternatives on all levels of the food system. Upcycled by-products can feed 1.5B people without growing extra crops, occupying more land, consuming more water...",
+                            "image": "data:image/jpeg;base64,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",
+                            "video": "",
+                            "main_link": "https://www.planetarians.com/contest",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP228",
+                            "name": "Full Harvest",
+                            "author": "jgp",
+                            "description": "The first B2B marketplace for imperfect and surplus produce",
+                            "image": "https://www.fullharvest.com/hubfs/Full%20Harvest%20-%20February%202019%20Folder/Images/download.png",
+                            "video": "",
+                            "main_link": "https://www.fullharvest.com/",
                             "article_links": [
                                 ""
                             ]
@@ -2775,6 +2860,22 @@
                             "related_highlights": [
                                 ""
                             ]
+                        },
+                        {
+                            "uid": "PRT163",
+                            "name": "Amorim Cork Composites",
+                            "author": "jgp",
+                            "description": "At Amorim Cork Composites, we strive daily to reinvent the world: we recycle, reuse and reinvent entirely natural and organic materials. And thus do we invent a new world.",
+                            "image": "https://media.licdn.com/dms/image/C4D0BAQHcQJ96oM2GKA/company-logo_200_200/0?e=2159024400&v=beta&t=hyg9KC8Ws1jHvH1FBizz_MmcfjxxwjUfRRMX4UhspMA",
+                            "video": "",
+                            "main_link": "https://amorimcorkcomposites.com/en-us/",
+                            "article_links": [
+                                ""
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                ""
+                            ]
                         }
                     ],
                     "technology": [
@@ -2816,7 +2917,8 @@
                 "filterlists": [
                     "Clube de Produtores | Qualidade | I&D",
                     " Sustentabilidade​",
-                    " Comercial Não Alimentar​"
+                    " Comercial Não Alimentar​",
+                    "PCG & BI​"
                 ],
                 "highlights": {
                     "implementation": [
@@ -3116,6 +3218,54 @@
                                 "TECH13:4",
                                 "TECH13:5",
                                 "TECH13:3"
+                            ]
+                        },
+                        {
+                            "uid": "PRT164",
+                            "name": "Too Good To Go",
+                            "author": "jgp",
+                            "description": "Save delicious food and fight food waste",
+                            "image": "https://toogoodtogo.co.uk/images/logo/econ-horizontal-texted.svg",
+                            "video": "",
+                            "main_link": "https://toogoodtogo.co.uk/en-gb",
+                            "article_links": [
+                                ""
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "PRT165",
+                            "name": "WhyWaste",
+                            "author": "jgp",
+                            "description": "Reduce food waste at your store through data driven solutions",
+                            "image": "https://whywaste.com/img/whywaste-logo-white.svg",
+                            "video": "",
+                            "main_link": "https://whywaste.com/",
+                            "article_links": [
+                                ""
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "PRT166",
+                            "name": "Contronics",
+                            "author": "jgp",
+                            "description": "Inspired by nature to reduce food waste",
+                            "image": "http://www.contronics.nl/wp-content/uploads/2017/10/contronics-logo-tansparant-black-small.png",
+                            "video": "",
+                            "main_link": "http://www.contronics.nl/",
+                            "article_links": [
+                                ""
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                ""
                             ]
                         }
                     ],
@@ -3947,6 +4097,7 @@
                     " Sustentabilidade​",
                     " Comercial Não Alimentar​",
                     "Ecommerce",
+                    "PCG & BI​",
                     "DEC​",
                     "Future Leaders"
                 ],
@@ -4185,6 +4336,7 @@
                     " Cartão & Client​",
                     " Sustentabilidade​",
                     "Health & Wellness​",
+                    "PCG & BI​",
                     "DEC​"
                 ],
                 "highlights": {
@@ -4974,6 +5126,18 @@
                 ],
                 "highlights": {
                     "implementation": [
+                        {
+                            "uid": "IMP163",
+                            "name": "\nWalmart acquires  Aspectiva to do product suggestions",
+                            "author": "jgp",
+                            "description": "Aspectiva analyses UGC to recommend products to shoppers.",
+                            "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-463871936.jpg?w=990&crop=1",
+                            "video": "",
+                            "main_link": "https://techcrunch.com/2019/02/25/walmart-acquires-israels-aspectiva-which-analyses-ugc-to-recommend-products-to-shoppers/",
+                            "article_links": [
+                                ""
+                            ]
+                        },
                         {
                             "uid": "IMP127",
                             "name": "Lidl's Margot",
@@ -5793,6 +5957,7 @@
                     " Comercial Não Alimentar​",
                     "Ecommerce",
                     "Health & Wellness​",
+                    "PCG & BI​",
                     " Maxmat​"
                 ],
                 "highlights": {
@@ -5835,14 +6000,14 @@
                         },
                         {
                             "uid": "IMP116",
-                            "name": "BurgerKing Alexa",
+                            "name": "Burger King’s new ad forces Google Home to advertise the Whopper",
                             "author": "aec",
                             "description": "Burger King is unveiling a horrible, genius, infuriating, hilarious, and maybe very poorly thought-out ad today that’s designed to intentionally set off Google Homes and Android phones. The...",
                             "image": "https://cdn.vox-cdn.com/thumbor/vWkGqlhwiRqIbNU1CKTt8SReaLU=/1x0:2054x1155/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/54213457/bk.0.png",
                             "video": "https://www.youtube.com/watch?v=n5lj63-nc5g",
                             "main_link": "https://www.theverge.com/2017/4/12/15259400/burger-king-google-home-ad-wikipedia",
                             "article_links": [
-                                ""
+                                "https://www.youtube.com/watch?v=n5lj63-nc5g"
                             ]
                         },
                         {
@@ -7047,6 +7212,18 @@
                             "main_link": "https://brandless.com/",
                             "article_links": [
                                 "https://www.jwtintelligence.com/2017/07/the-brandless-store/"
+                            ]
+                        },
+                        {
+                            "uid": "IMP222",
+                            "name": "Plain English Campaign",
+                            "author": "jgp",
+                            "description": "Since 1979, we have been campaigning against gobbledygook, jargon and misleading public information. We have helped many government departments and other official organisations with their documents, reports and publications. We believe that everyone should have access to clear and concise information.",
+                            "image": "http://www.plainenglish.co.uk/images/stories/welcomepic.gif",
+                            "video": "",
+                            "main_link": "http://www.plainenglish.co.uk/about-us.html",
+                            "article_links": [
+                                ""
                             ]
                         }
                     ],
@@ -9030,13 +9207,14 @@
                 ],
                 "filterlists": [
                     "Meu Super",
+                    "PCG & BI​",
                     "Future Leaders"
                 ],
                 "highlights": {
                     "implementation": [
                         {
                             "uid": "IMP163",
-                            "name": "\nWalmart acquires Israel’s Aspectiva",
+                            "name": "\nWalmart acquires  Aspectiva to do product suggestions",
                             "author": "jgp",
                             "description": "Aspectiva analyses UGC to recommend products to shoppers.",
                             "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-463871936.jpg?w=990&crop=1",
@@ -10772,7 +10950,7 @@
                         },
                         {
                             "uid": "IMP163",
-                            "name": "\nWalmart acquires Israel’s Aspectiva",
+                            "name": "\nWalmart acquires  Aspectiva to do product suggestions",
                             "author": "jgp",
                             "description": "Aspectiva analyses UGC to recommend products to shoppers.",
                             "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-463871936.jpg?w=990&crop=1",
@@ -10790,6 +10968,18 @@
                             "image": "https://cdn.vox-cdn.com/thumbor/skPxLpNt_jlTC3FGfM5DQX1kSko=/0x292:2040x1360/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13681416/fshivakumar_181109_3078_0001.jpg",
                             "video": "",
                             "main_link": "https://www.theverge.com/2019/1/15/18167388/nike-self-lacing-shoes-adapt-bb-smart-bluetooth-app-features-battery-life-price-release-date",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP226",
+                            "name": "Ikea won’t sell customers this rug until they take a heart and brainwave scan",
+                            "author": "jgp",
+                            "description": "Customers could only buy the rug if it provoked an emotional response, as detectable by a headset that supposedly reads brain waves and a customers’ heartbeat.",
+                            "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/art-brain-796x419.jpg",
+                            "video": "",
+                            "main_link": "https://thenextweb.com/insider/2019/05/25/ikea-wont-sell-customers-this-rug-until-they-take-a-heart-and-brainwave-scan/",
                             "article_links": [
                                 ""
                             ]
@@ -11769,6 +11959,18 @@
                             ]
                         },
                         {
+                            "uid": "IMP116",
+                            "name": "Burger King’s new ad forces Google Home to advertise the Whopper",
+                            "author": "aec",
+                            "description": "Burger King is unveiling a horrible, genius, infuriating, hilarious, and maybe very poorly thought-out ad today that’s designed to intentionally set off Google Homes and Android phones. The...",
+                            "image": "https://cdn.vox-cdn.com/thumbor/vWkGqlhwiRqIbNU1CKTt8SReaLU=/1x0:2054x1155/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/54213457/bk.0.png",
+                            "video": "https://www.youtube.com/watch?v=n5lj63-nc5g",
+                            "main_link": "https://www.theverge.com/2017/4/12/15259400/burger-king-google-home-ad-wikipedia",
+                            "article_links": [
+                                "https://www.youtube.com/watch?v=n5lj63-nc5g"
+                            ]
+                        },
+                        {
                             "uid": "IMP189",
                             "name": "Watch China’s new AI anchor read the news",
                             "author": "jgp",
@@ -11776,6 +11978,42 @@
                             "image": "https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/wp-cms/uploads/2018/11/p-1-watch-chinas-new-ai-anchor-read-the-news.jpg",
                             "video": "",
                             "main_link": "https://www.fastcompany.com/90264587/watch-chinas-new-ai-anchor-read-the-news",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP223",
+                            "name": "Podcast Growth Is Popping in the U.S., Survey Shows",
+                            "author": "jgp",
+                            "description": "The number of podcast listeners has increased sharply this year, according to a new report.",
+                            "image": "https://static01.nyt.com/images/2019/03/08/business/06PODCASTS1-print/merlin_146980863_225ae260-5a95-47a9-94f3-0a3bad8d0e88-jumbo.jpg?quality=90&auto=webp",
+                            "video": "",
+                            "main_link": "https://www.nytimes.com/2019/03/06/business/media/podcast-growth.html",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP224",
+                            "name": "What's Really Driving The Limitless Growth Of Podcasts",
+                            "author": "jgp",
+                            "description": "Podcast penetration is strongest among the 18-34 demo, which can be difficult for many advertisers to reach.  The average podcast is 45 minutes and the average podcast ad is 90 seconds... much longer than traditional ads.",
+                            "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fmichellegreenwald%2Ffiles%2F2018%2F10%2FScreen-Shot-2018-10-04-at-9.44.39-AM.jpg",
+                            "video": "",
+                            "main_link": "https://www.forbes.com/sites/michellegreenwald/2018/10/04/why-podcasts-will-continue-to-grow-why-its-great-for-brands/#245bc39c205f",
+                            "article_links": [
+                                ""
+                            ]
+                        },
+                        {
+                            "uid": "IMP225",
+                            "name": "Betabrand's Podcast Theatre: How The Audio Revolution Is Influencing Retail",
+                            "author": "jgp",
+                            "description": "This is where Podcast Theatre comes to life as Betabrand hosts weekly live podcasts from the store with a captivating audience.",
+                            "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fkatetalbot%2Ffiles%2F2019%2F05%2F6Q1A9753-1200x600.jpg",
+                            "video": "",
+                            "main_link": "https://www.forbes.com/sites/katetalbot/2019/05/21/betabrands-podcast-theatre-how-the-audio-revolution-is-influencing-retail/#535c2af069ba",
                             "article_links": [
                                 ""
                             ]
@@ -14100,6 +14338,18 @@
                             "article_links": [
                                 ""
                             ]
+                        },
+                        {
+                            "uid": "IMP226",
+                            "name": "Ikea won’t sell customers this rug until they take a heart and brainwave scan",
+                            "author": "jgp",
+                            "description": "Customers could only buy the rug if it provoked an emotional response, as detectable by a headset that supposedly reads brain waves and a customers’ heartbeat.",
+                            "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/art-brain-796x419.jpg",
+                            "video": "",
+                            "main_link": "https://thenextweb.com/insider/2019/05/25/ikea-wont-sell-customers-this-rug-until-they-take-a-heart-and-brainwave-scan/",
+                            "article_links": [
+                                ""
+                            ]
                         }
                     ],
                     "partner": [
@@ -14204,6 +14454,7 @@
                     "Meaningful Work"
                 ],
                 "filterlists": [
+                    "PCG & BI​",
                     "Future Leaders"
                 ],
                 "highlights": {
@@ -16760,6 +17011,18 @@
                             "article_links": [
                                 "https://www.qsrmagazine.com/fast-casual/paneras-mission-transparency-goes-digital"
                             ]
+                        },
+                        {
+                            "uid": "IMP222",
+                            "name": "Plain English Campaign",
+                            "author": "jgp",
+                            "description": "Since 1979, we have been campaigning against gobbledygook, jargon and misleading public information. We have helped many government departments and other official organisations with their documents, reports and publications. We believe that everyone should have access to clear and concise information.",
+                            "image": "http://www.plainenglish.co.uk/images/stories/welcomepic.gif",
+                            "video": "",
+                            "main_link": "http://www.plainenglish.co.uk/about-us.html",
+                            "article_links": [
+                                ""
+                            ]
                         }
                     ],
                     "technology": [
@@ -17783,7 +18046,7 @@
                     "Lifecasting"
                 ],
                 "filterlists": [
-                    ""
+                    "PCG & BI​"
                 ],
                 "highlights": {
                     "technology": [
@@ -18114,7 +18377,7 @@
                     "Quicker Frequent Shopping"
                 ],
                 "filterlists": [
-                    ""
+                    "PCG & BI​"
                 ],
                 "highlights": {
                     "implementation": [
@@ -18240,6 +18503,24 @@
                         }
                     ],
                     "partner": [
+                        {
+                            "uid": "TECH25:2",
+                            "name": "Gita",
+                            "author": "tpc",
+                            "description": "Gita is built to carry up to 44 pounds of cargo and a volume of up to 2,000 cubic inches. It easily navigates the urban environment. It can follow a determined route or follow a person.",
+                            "image": "https://spectrum.ieee.org/image/Mjg2MTA2Ng.jpeg",
+                            "video": "",
+                            "main_link": "https://piaggiofastforward.com/gita",
+                            "article_links": [
+                                ""
+                            ],
+                            "sonar_link": "",
+                            "related_highlights": [
+                                "TECH25",
+                                "TECH25:1",
+                                "TECH25:3"
+                            ]
+                        },
                         {
                             "uid": "TECH72:1",
                             "name": "Connect Robotics",
