@@ -665,7 +665,7 @@ function createThreatVisual() {
             concept_by_id[d.id] = d
 
             let def = threat_def_ids.indexOf(d.id)
-            d.definition = def >= 0 ? threat_definitions[def].definition : "" //definition to be added
+            d.definition = def >= 0 ? threat_definitions[def].definition : "definition to be added"
         })//forEach
 
         //Sort by the threat category and then alphabetically

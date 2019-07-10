@@ -130,6 +130,7 @@ let show_intro_modal = document.cookie.includes('dive_threat_show_intro=false') 
 })()
 
 if (show_intro_modal === true) intro_modal_open();
+
 document.getElementById('menu-intro').addEventListener('click', intro_modal_open);
 
 // Node modal
@@ -203,17 +204,27 @@ promises.push(d3.json("../data/graph_edited_" + language + ".json?v=" + version)
 promises.push(font1.load())
 promises.push(font2.load())
 promises.push(font3.load())
+promises.push(lscache.get('accessgranted'))
 
 Promise.all(promises).then(values => {
     ////////////////////// Data preparation //////////////////////
     console.log("Json ---> Data:",values[0])
-    console.log(values[0].nodes.app_ADAPCONV)
     graph = values[0]
     let nodes = prepareNodes(graph)
     let edges = prepareEdges(graph)
     ////////////////////// Create the visual //////////////////////
     // console.log(nodes)
-    container.call(threatVisual, nodes, edges, language, getFilteredData)
+    let acessgrantedflag = values[4]
+    if (acessgrantedflag) {
+        $("#pwprompt-container").remove();
+        container.call(threatVisual, nodes, edges, language, getFilteredData)
+    } else {
+        pwprompt();
+    }
+// setTimeout(function(){
+//     container.call(threatVisual, nodes, edges, language, getFilteredData)
+// }, 3000);
+    // container.call(threatVisual, nodes, edges, language, getFilteredData)
     queryURLparams();
     fillFilterMenu();
     popNodeParamFN();
