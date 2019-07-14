@@ -26,8 +26,9 @@
 /* --- Modal (method) --- */
 
 #modal-method-inner {
-    padding: 20px;
-    width: 100%;
+  width: 85vw;
+  height: 85vh;
+  padding: 20px;
 }
 
 #modal-method-title {

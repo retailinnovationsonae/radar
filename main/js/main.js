@@ -68,7 +68,8 @@ document.getElementById('modal-legend-img').setAttribute('src', 'img/Legend-Thre
 //////////////////////// Method setup ////////////////////////
 //////////////////////////////////////////////////////////////
 
-document.getElementById('modal-method-img').setAttribute('src', 'img/methodology.png');
+// document.getElementById('modal-method-img').setAttribute('src', 'img/methodology.png');
+PDFObject.embed("../main/img/radar_methodology.pdf", "#modal-method-inner");
 
 //////////////////////////////////////////////////////////////
 ////////////////////// Switch language ///////////////////////
@@ -158,7 +159,7 @@ let legend_modal_open = function() {
 
 let method_modal = new VanillaModal.default({ //new modal for methodology
     onBeforeOpen: function() {
-        document.querySelectorAll('.modal-content')[0].setAttribute('style', 'max-width: 1400px;');
+        document.querySelectorAll('.modal-content')[0].setAttribute('style', 'max-width: none;');
     },
     onClose: function() {
         document.querySelectorAll('.modal-content')[0].removeAttribute('style');

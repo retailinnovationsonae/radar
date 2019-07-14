@@ -9,7 +9,7 @@ function createModal(obj) {
     d3.select("#chart-modal-img-slider").html('');
     d3.select("#modal-node-snippets").html('');
     if(obj.meta && obj.meta.icon && (obj.meta.icon.large != "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png")) {
-        d3.select("#chart-modal-full-img").style("background-image", `url("${obj.meta.icon.large}")`)
+        d3.select("#chart-modal-full-img").style("background-image", 'url("${obj.meta.icon.large}")')
         d3.select("#chart-modal-full-img").style("padding-bottom", "40%");
         d3.select("#chart-modal-full-img").style("min-height", "200px");
         if (obj.id.startsWith("app_")) {
@@ -21,11 +21,11 @@ function createModal(obj) {
         let img = new Image()
         img.src = obj.meta.icon.small
         img.onload = function () {
-            if (this.width < this.height) d3.select("#chart-modal-full-img").style("background-image", `url("${obj.meta.images[1].url}")`)
+            if (this.width < this.height) d3.select("#chart-modal-full-img").style("background-image", 'url("${obj.meta.images[1].url}")')
         }//onload
         */
     } else if (!(obj.meta.icon) || obj.meta.icon.large == "https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png") {
-        d3.select("#chart-modal-full-img").style("background-image", `url("#")`);
+        d3.select("#chart-modal-full-img").style("background-image", 'url("#")');
         d3.select("#chart-modal-full-img").style("padding-bottom", 0);
         d3.select("#chart-modal-full-img").style("min-height", 0);
     }
