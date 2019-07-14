@@ -529,10 +529,11 @@ function createModal(obj) {
     //     .attr("onclick","popShareScreen()")
 
     // let shrscncntr=d3.select("#sharescreen-container").node().cloneNode(true);
-    let shrscncntr=d3.select("#modal-node-title").append("div").attr("id","sharescreen-container").attr("style","display:none")
+    let shrscncntr=d3.select("#modal-node-title").append("div").attr("id","sharescreen-container").attr("style","display:none").attr("class","ml-3")
     $("#sharescreen-container").load("sharescreen.html");
     shrscncntr.attr("style","display: inline-block");
-    $(document).ready(function() {
+    // $(document).ready(function() {
+    $('#sharescreen-container').click(function() {
       let current_url = popShareScreen();
       let current_email_str = buildEmailString();
       d3.select("#btnShareCopy").attr("data-copy",current_url);
